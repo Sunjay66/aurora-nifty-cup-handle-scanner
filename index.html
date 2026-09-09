@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Aurora NIFTY 50 Cup & Handle Scanner</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="dashboard-header">
+        <div>
+            <h1>AURORA CUP & HANDLE SCANNER</h1>
+            <p>Release 1 — Frozen Core Engine</p>
+        </div>
+
+        <div class="header-info">
+            <span>DAILY STRUCTURAL SCAN</span>
+            <span id="scanDate">--</span>
+        </div>
+    </header>
+
+
+    <main class="dashboard-container">
+
+        <!-- SUMMARY CARDS -->
+
+        <section class="summary-grid">
+
+            <div class="summary-card">
+                <div class="summary-label">STOCKS SCANNED</div>
+                <div class="summary-value" id="stocksScanned">--</div>
+            </div>
+
+            <div class="summary-card">
+                <div class="summary-label">CURRENT CANDIDATES</div>
+                <div class="summary-value" id="currentCandidates">--</div>
+            </div>
+
+            <div class="summary-card">
+                <div class="summary-label">STRONG PATTERNS</div>
+                <div class="summary-value" id="strongPatterns">--</div>
+            </div>
+
+            <div class="summary-card">
+                <div class="summary-label">BREAKOUTS</div>
+                <div class="summary-value" id="breakouts">--</div>
+            </div>
+
+        </section>
+
+
+        <!-- CURRENT CANDIDATES -->
+
+        <section class="section">
+
+            <div class="section-title">
+                <h2>CURRENT CUP & HANDLE CANDIDATES</h2>
+                <span class="status-badge">LIVE SCANNER DATA</span>
+            </div>
+
+            <div id="candidateCards" class="candidate-grid">
+                <!-- Candidate cards will be inserted by app.js -->
+            </div>
+
+        </section>
+
+
+        <!-- COMPLETE SCANNER TABLE -->
+
+        <section class="section">
+
+            <div class="section-title">
+                <h2>COMPLETE NIFTY 50 SCAN</h2>
+                <span class="status-badge">49 STOCKS</span>
+            </div>
+
+            <div class="table-container">
+
+                <table>
+
+                    <thead>
+                        <tr>
+                            <th>SYMBOL</th>
+                            <th>CURRENT PRICE</th>
+                            <th>CUP QUALITY</th>
+                            <th>HANDLE QUALITY</th>
+                            <th>VOLUME</th>
+                            <th>PATTERN QUALITY</th>
+                            <th>STATUS</th>
+                            <th>BREAKOUT</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="scannerTable">
+                        <!-- Scanner data will be inserted by app.js -->
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+        <p>Aurora NIFTY 50 Cup & Handle Scanner — Release 1</p>
+        <p>Structural analysis only • Not a trading signal</p>
+    </footer>
