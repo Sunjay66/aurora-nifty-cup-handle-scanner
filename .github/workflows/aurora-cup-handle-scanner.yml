@@ -1,0 +1,50 @@
+name: Aurora Cup & Handle Scanner
+
+on:
+  schedule:
+    - cron: "30 11 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aurora-cup-handle-scanner
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    name: Run Nifty 200 Cup & Handle Scanner
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas numpy requests yfinance
+
+      - name: Run Aurora scanner
+        run: |
+          python aurora_scanner.py
+
+      - name: Commit updated scanner data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/scanner.json data/cup_handle_candidate_history.csv
+
+          if git diff --cached --quiet; then
+            echo "No scanner data changes to commit."
+          else
+            git commit -m "Update Aurora Nifty 200 scanner data"
+            git push
+          fi
