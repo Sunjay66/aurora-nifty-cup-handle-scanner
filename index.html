@@ -1,102 +1,465 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Aurora NIFTY 50 Cup & Handle Scanner</title>
+    <title>Aurora NIFTY 200 Cup & Handle Scanner</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <header class="dashboard-header">
+<header class="dashboard-header">
+
+    <div>
+        <h1>AURORA CUP & HANDLE SCANNER</h1>
+        <p>Release 2 — Frozen Core Engine</p>
+    </div>
+
+    <div class="header-info">
+        <span>NIFTY 200 • DAILY STRUCTURAL SCAN</span>
+        <span id="lastRefresh">Last Successful Refresh: --</span>
+    </div>
+
+</header>
+
+
+<main class="dashboard-container">
+
+
+    <!-- =====================================================
+         SUMMARY
+    ====================================================== -->
+
+    <section class="summary-grid">
+
+        <div class="summary-card">
+            <div class="summary-label">
+                STOCKS SCANNED
+            </div>
+
+            <div class="summary-value"
+                 id="stocksScanned">
+                --
+            </div>
+        </div>
+
+
+        <div class="summary-card">
+            <div class="summary-label">
+                ACTIVE CANDIDATES
+            </div>
+
+            <div class="summary-value"
+                 id="activeCandidates">
+                --
+            </div>
+        </div>
+
+
+        <div class="summary-card">
+            <div class="summary-label">
+                DATA THROUGH
+            </div>
+
+            <div class="summary-value summary-date"
+                 id="dataThrough">
+                --
+            </div>
+        </div>
+
+
+        <div class="summary-card">
+            <div class="summary-label">
+                HISTORY
+            </div>
+
+            <div class="summary-history"
+                 id="historySummary">
+                ACTIVE: --<br>
+                BREAKOUT: --<br>
+                EXPIRED: --
+            </div>
+        </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         ACTIVE CANDIDATES
+    ====================================================== -->
+
+    <section class="section">
+
+        <div class="section-title">
+
+            <div>
+                <h2>ACTIVE CUP & HANDLE CANDIDATES</h2>
+
+                <p class="section-subtitle">
+                    Candidates remain active for 30 calendar days
+                    from first detection unless they break out.
+                </p>
+            </div>
+
+            <span class="status-badge">
+                NIFTY 200
+            </span>
+
+        </div>
+
+
+        <div class="table-container">
+
+            <table class="candidate-table">
+
+                <thead>
+
+                    <tr>
+
+                        <th>DETECTION DATE</th>
+
+                        <th>SYMBOL</th>
+
+                        <th>DAYS REMAINING</th>
+
+                        <th>CURRENT STAGE</th>
+
+                        <th>CURRENT PRICE</th>
+
+                        <th>RIGHT RIM</th>
+
+                        <th>CUP DEPTH</th>
+
+                        <th>CUP DURATION</th>
+
+                        <th>HANDLE DEPTH</th>
+
+                        <th>CURRENT RVOL</th>
+
+                        <th>DATA THROUGH</th>
+
+                    </tr>
+
+                </thead>
+
+
+                <tbody id="candidateTable">
+
+                    <tr>
+
+                        <td colspan="11"
+                            class="loading-cell">
+
+                            Loading scanner data...
+
+                        </td>
+
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         INFORMATION
+    ====================================================== -->
+
+    <section class="information-panel">
+
         <div>
-            <h1>AURORA CUP & HANDLE SCANNER</h1>
-            <p>Release 1 — Frozen Core Engine</p>
+
+            <h3>Dashboard logic</h3>
+
+            <p>
+                Only ACTIVE candidates within their 30-day
+                lifecycle are displayed on the main screen.
+                BREAKOUT and EXPIRED candidates remain in the
+                permanent candidate history.
+            </p>
+
         </div>
 
-        <div class="header-info">
-            <span>DAILY STRUCTURAL SCAN</span>
-            <span id="scanDate">--</span>
+
+        <div>
+
+            <h3>Candidate details</h3>
+
+            <p>
+                Click any symbol to view the complete Cup,
+                Handle and RVOL information.
+            </p>
+
         </div>
-    </header>
+
+    </section>
 
 
-    <main class="dashboard-container">
+</main>
 
-        <!-- SUMMARY CARDS -->
 
-        <section class="summary-grid">
 
-            <div class="summary-card">
-                <div class="summary-label">STOCKS SCANNED</div>
-                <div class="summary-value" id="stocksScanned">--</div>
+<!-- =========================================================
+     CANDIDATE DETAILS MODAL
+========================================================== -->
+
+<div id="detailsModal"
+     class="modal-overlay"
+     aria-hidden="true">
+
+    <div class="details-modal">
+
+        <div class="modal-header">
+
+            <div>
+
+                <h2 id="modalSymbol">
+                    --
+                </h2>
+
+                <p id="modalStage">
+                    --
+                </p>
+
             </div>
 
-            <div class="summary-card">
-                <div class="summary-label">CURRENT CANDIDATES</div>
-                <div class="summary-value" id="currentCandidates">--</div>
-            </div>
 
-            <div class="summary-card">
-                <div class="summary-label">STRONG PATTERNS</div>
-                <div class="summary-value" id="strongPatterns">--</div>
-            </div>
+            <button
+                id="closeModal"
+                class="close-button"
+                type="button">
 
-            <div class="summary-card">
-                <div class="summary-label">BREAKOUTS</div>
-                <div class="summary-value" id="breakouts">--</div>
+                ×
+
+            </button>
+
+        </div>
+
+
+        <!-- =================================================
+             CANDIDATE SUMMARY
+        ================================================== -->
+
+        <section class="detail-section">
+
+            <h3>Candidate</h3>
+
+            <div class="detail-grid">
+
+                <div>
+                    <span>Detection Date</span>
+                    <strong id="detailDetectionDate">--</strong>
+                </div>
+
+                <div>
+                    <span>Days Remaining</span>
+                    <strong id="detailDaysRemaining">--</strong>
+                </div>
+
+                <div>
+                    <span>Status</span>
+                    <strong id="detailStatus">--</strong>
+                </div>
+
+                <div>
+                    <span>Current Stage</span>
+                    <strong id="detailCurrentStage">--</strong>
+                </div>
+
+                <div>
+                    <span>Current Price</span>
+                    <strong id="detailCurrentPrice">--</strong>
+                </div>
+
+                <div>
+                    <span>Data Through</span>
+                    <strong id="detailDataThrough">--</strong>
+                </div>
+
             </div>
 
         </section>
 
 
-        <!-- CURRENT CANDIDATES -->
 
-        <section class="section">
+        <!-- =================================================
+             CUP
+        ================================================== -->
 
-            <div class="section-title">
-                <h2>CURRENT CUP & HANDLE CANDIDATES</h2>
-                <span class="status-badge">LIVE SCANNER DATA</span>
-            </div>
+        <section class="detail-section">
 
-            <div id="candidateCards" class="candidate-grid">
-                <!-- Candidate cards will be inserted by app.js -->
+            <h3>Cup Structure</h3>
+
+            <div class="detail-grid">
+
+                <div>
+                    <span>Left Rim Date</span>
+                    <strong id="leftRimDate">--</strong>
+                </div>
+
+                <div>
+                    <span>Left Rim Price</span>
+                    <strong id="leftRimPrice">--</strong>
+                </div>
+
+                <div>
+                    <span>Bottom Date</span>
+                    <strong id="bottomDate">--</strong>
+                </div>
+
+                <div>
+                    <span>Bottom Price</span>
+                    <strong id="bottomPrice">--</strong>
+                </div>
+
+                <div>
+                    <span>Right Rim Date</span>
+                    <strong id="rightRimDate">--</strong>
+                </div>
+
+                <div>
+                    <span>Right Rim Price</span>
+                    <strong id="rightRimPrice">--</strong>
+                </div>
+
+                <div>
+                    <span>Cup Depth</span>
+                    <strong id="cupDepth">--</strong>
+                </div>
+
+                <div>
+                    <span>Cup Duration</span>
+                    <strong id="cupDuration">--</strong>
+                </div>
+
+                <div>
+                    <span>Rim Difference</span>
+                    <strong id="rimDifference">--</strong>
+                </div>
+
+                <div>
+                    <span>Right Rim Ratio</span>
+                    <strong id="rightRimRatio">--</strong>
+                </div>
+
+                <div>
+                    <span>Cup Midpoint</span>
+                    <strong id="cupMidpoint">--</strong>
+                </div>
+
             </div>
 
         </section>
 
 
-        <!-- COMPLETE SCANNER TABLE -->
 
-        <section class="section">
+        <!-- =================================================
+             HANDLE
+        ================================================== -->
 
-            <div class="section-title">
-                <h2>COMPLETE NIFTY 50 SCAN</h2>
-                <span class="status-badge">49 STOCKS</span>
+        <section class="detail-section">
+
+            <h3>Handle Structure</h3>
+
+            <div class="detail-grid">
+
+                <div>
+                    <span>Handle Start Date</span>
+                    <strong id="handleStartDate">--</strong>
+                </div>
+
+                <div>
+                    <span>Handle Low Date</span>
+                    <strong id="handleLowDate">--</strong>
+                </div>
+
+                <div>
+                    <span>Handle Low</span>
+                    <strong id="handleLow">--</strong>
+                </div>
+
+                <div>
+                    <span>Handle Depth</span>
+                    <strong id="handleDepth">--</strong>
+                </div>
+
+                <div>
+                    <span>Sessions After Rim</span>
+                    <strong id="sessionsAfterRim">--</strong>
+                </div>
+
+                <div>
+                    <span>Handle Stage</span>
+                    <strong id="handleStage">--</strong>
+                </div>
+
+                <div>
+                    <span>Breakout Level</span>
+                    <strong id="breakoutLevel">--</strong>
+                </div>
+
             </div>
+
+        </section>
+
+
+
+        <!-- =================================================
+             RVOL
+        ================================================== -->
+
+        <section class="detail-section">
+
+            <h3>Relative Volume</h3>
+
+            <div class="rvol-summary">
+
+                <div class="rvol-current">
+
+                    <span>Current RVOL</span>
+
+                    <strong id="currentRVOL">
+                        --
+                    </strong>
+
+                </div>
+
+            </div>
+
 
             <div class="table-container">
 
-                <table>
+                <table class="rvol-table">
 
                     <thead>
+
                         <tr>
-                            <th>SYMBOL</th>
-                            <th>CURRENT PRICE</th>
-                            <th>CUP QUALITY</th>
-                            <th>HANDLE QUALITY</th>
+                            <th>DATE</th>
+                            <th>RVOL</th>
                             <th>VOLUME</th>
-                            <th>PATTERN QUALITY</th>
-                            <th>STATUS</th>
-                            <th>BREAKOUT</th>
                         </tr>
+
                     </thead>
 
-                    <tbody id="scannerTable">
-                        <!-- Scanner data will be inserted by app.js -->
+
+                    <tbody id="rvolTable">
+
+                        <tr>
+                            <td colspan="3">
+                                --
+                            </td>
+                        </tr>
+
                     </tbody>
 
                 </table>
@@ -105,14 +468,28 @@
 
         </section>
 
-    </main>
+
+    </div>
+
+</div>
 
 
-    <footer>
-        <p>Aurora NIFTY 50 Cup & Handle Scanner — Release 1</p>
-        <p>Structural analysis only • Not a trading signal</p>
-    </footer>
-    <script src="app.js"></script>
+
+<footer>
+
+    <p>
+        Aurora NIFTY 200 Cup & Handle Scanner — Release 2
+    </p>
+
+    <p>
+        Structural analysis only • Not a trading signal
+    </p>
+
+</footer>
+
+
+<script src="app.js"></script>
 
 </body>
+
 </html>
