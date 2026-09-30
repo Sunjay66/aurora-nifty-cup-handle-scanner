@@ -6,476 +6,122 @@
   "universe": "NIFTY 200",
   "stocks_scanned": 200,
   "successful_stocks": 200,
-  "scan_date": "2026-09-29",
-  "data_through": "2026-09-29",
-  "last_successful_refresh": "2026-09-29T17:06:50.126282+05:30",
+  "scan_date": "2026-09-30",
+  "data_through": "2026-09-30",
+  "last_successful_refresh": "2026-09-30T17:07:13.874100+05:30",
   "active_candidates": [
     {
       "Candidate_ID": "HAL_2026-09-25",
       "Symbol": "HAL",
       "Detection_Date": "2026-09-25",
-      "Last_Seen_Date": "2026-09-29",
+      "Last_Seen_Date": "2026-09-30",
       "Expiry_Date": "2026-10-24",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 4,
-      "Days_Remaining": 26
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "HCLTECH_2026-09-25",
       "Symbol": "HCLTECH",
       "Detection_Date": "2026-09-25",
-      "Last_Seen_Date": "2026-09-29",
+      "Last_Seen_Date": "2026-09-30",
       "Expiry_Date": "2026-10-24",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 4,
-      "Days_Remaining": 26
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "KOTAKBANK_2026-09-25",
       "Symbol": "KOTAKBANK",
       "Detection_Date": "2026-09-25",
-      "Last_Seen_Date": "2026-09-29",
+      "Last_Seen_Date": "2026-09-30",
       "Expiry_Date": "2026-10-24",
       "Status": "ACTIVE",
-      "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 4,
-      "Days_Remaining": 26
+      "Current_Stage": "NEAR BREAKOUT",
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "LGEINDIA_2026-09-25",
       "Symbol": "LGEINDIA",
       "Detection_Date": "2026-09-25",
-      "Last_Seen_Date": "2026-09-29",
+      "Last_Seen_Date": "2026-09-30",
       "Expiry_Date": "2026-10-24",
       "Status": "ACTIVE",
       "Current_Stage": "NEAR BREAKOUT",
-      "Days_Since_Detection": 4,
-      "Days_Remaining": 26
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "LICHSGFIN_2026-09-25",
       "Symbol": "LICHSGFIN",
       "Detection_Date": "2026-09-25",
-      "Last_Seen_Date": "2026-09-29",
+      "Last_Seen_Date": "2026-09-30",
       "Expiry_Date": "2026-10-24",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 4,
-      "Days_Remaining": 26
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "MOTILALOFS_2026-09-25",
       "Symbol": "MOTILALOFS",
       "Detection_Date": "2026-09-25",
-      "Last_Seen_Date": "2026-09-29",
+      "Last_Seen_Date": "2026-09-30",
       "Expiry_Date": "2026-10-24",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 4,
-      "Days_Remaining": 26
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "PERSISTENT_2026-09-25",
       "Symbol": "PERSISTENT",
       "Detection_Date": "2026-09-25",
-      "Last_Seen_Date": "2026-09-29",
+      "Last_Seen_Date": "2026-09-30",
       "Expiry_Date": "2026-10-24",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 4,
-      "Days_Remaining": 26
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "SIEMENS_2026-09-25",
       "Symbol": "SIEMENS",
       "Detection_Date": "2026-09-25",
-      "Last_Seen_Date": "2026-09-29",
+      "Last_Seen_Date": "2026-09-30",
       "Expiry_Date": "2026-10-24",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 4,
-      "Days_Remaining": 26
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "TECHM_2026-09-25",
       "Symbol": "TECHM",
       "Detection_Date": "2026-09-25",
-      "Last_Seen_Date": "2026-09-29",
+      "Last_Seen_Date": "2026-09-30",
       "Expiry_Date": "2026-10-24",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 4,
-      "Days_Remaining": 26
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "UNIONBANK_2026-09-25",
       "Symbol": "UNIONBANK",
       "Detection_Date": "2026-09-25",
-      "Last_Seen_Date": "2026-09-29",
+      "Last_Seen_Date": "2026-09-30",
       "Expiry_Date": "2026-10-24",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 4,
-      "Days_Remaining": 26
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     }
   ],
   "details": {
-    "TECHM": {
-      "cup": {
-        "Left_Rim_Date": "2026-06-02",
-        "Left_Rim_Price": 1589.0,
-        "Bottom_Date": "2026-06-19",
-        "Bottom_Price": 1344.0,
-        "Right_Rim_Date": "2026-07-30",
-        "Right_Rim_Price": 1686.5999755859375,
-        "Cup_Duration_Days": 58,
-        "Cup_Depth_Pct": 15.418502202643172,
-        "Rim_Difference_Pct": 6.1422262797946825,
-        "Right_Rim_Ratio": 1.0614222627979468,
-        "Cup_Midpoint": 1466.5
-      },
-      "handle": {
-        "Handle_Start_Date": "2026-07-30",
-        "Handle_Low_Date": "2026-09-09",
-        "Handle_Low": 1498.0,
-        "Handle_Depth_Pct": 11.182258882721522,
-        "Sessions_After_Rim": 43,
-        "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 1703.4659753417968
-      },
-      "rvol": [
-        {
-          "Date": "2026-08-19",
-          "RVOL": 0.61,
-          "Volume": 1752634
-        },
-        {
-          "Date": "2026-08-20",
-          "RVOL": 0.57,
-          "Volume": 1676285
-        },
-        {
-          "Date": "2026-08-21",
-          "RVOL": 0.46,
-          "Volume": 1324911
-        },
-        {
-          "Date": "2026-08-24",
-          "RVOL": 0.76,
-          "Volume": 2197042
-        },
-        {
-          "Date": "2026-08-25",
-          "RVOL": 0.47,
-          "Volume": 1383429
-        },
-        {
-          "Date": "2026-08-26",
-          "RVOL": 0.6,
-          "Volume": 1639820
-        },
-        {
-          "Date": "2026-08-27",
-          "RVOL": 0.73,
-          "Volume": 1979336
-        },
-        {
-          "Date": "2026-08-28",
-          "RVOL": 1.31,
-          "Volume": 3415226
-        },
-        {
-          "Date": "2026-08-31",
-          "RVOL": 1.14,
-          "Volume": 2975369
-        },
-        {
-          "Date": "2026-09-01",
-          "RVOL": 0.95,
-          "Volume": 2412137
-        },
-        {
-          "Date": "2026-09-02",
-          "RVOL": 0.59,
-          "Volume": 1508528
-        },
-        {
-          "Date": "2026-09-03",
-          "RVOL": 0.65,
-          "Volume": 1647483
-        },
-        {
-          "Date": "2026-09-04",
-          "RVOL": 0.48,
-          "Volume": 1173518
-        },
-        {
-          "Date": "2026-09-07",
-          "RVOL": 0.92,
-          "Volume": 2028588
-        },
-        {
-          "Date": "2026-09-08",
-          "RVOL": 0.73,
-          "Volume": 1575629
-        },
-        {
-          "Date": "2026-09-09",
-          "RVOL": 0.62,
-          "Volume": 1329200
-        },
-        {
-          "Date": "2026-09-10",
-          "RVOL": 0.7,
-          "Volume": 1405653
-        },
-        {
-          "Date": "2026-09-11",
-          "RVOL": 1.05,
-          "Volume": 2007328
-        },
-        {
-          "Date": "2026-09-14",
-          "RVOL": 0.0,
-          "Volume": 0
-        },
-        {
-          "Date": "2026-09-15",
-          "RVOL": 1.46,
-          "Volume": 2577135
-        },
-        {
-          "Date": "2026-09-16",
-          "RVOL": 0.82,
-          "Volume": 1472713
-        },
-        {
-          "Date": "2026-09-17",
-          "RVOL": 1.53,
-          "Volume": 2730331
-        },
-        {
-          "Date": "2026-09-18",
-          "RVOL": 1.69,
-          "Volume": 3113722
-        },
-        {
-          "Date": "2026-09-21",
-          "RVOL": 0.5,
-          "Volume": 970714
-        },
-        {
-          "Date": "2026-09-22",
-          "RVOL": 0.54,
-          "Volume": 1013719
-        },
-        {
-          "Date": "2026-09-23",
-          "RVOL": 0.46,
-          "Volume": 851068
-        },
-        {
-          "Date": "2026-09-24",
-          "RVOL": 0.94,
-          "Volume": 1707105
-        },
-        {
-          "Date": "2026-09-25",
-          "RVOL": 0.52,
-          "Volume": 939846
-        },
-        {
-          "Date": "2026-09-28",
-          "RVOL": 0.75,
-          "Volume": 1261918
-        },
-        {
-          "Date": "2026-09-29",
-          "RVOL": 2.02,
-          "Volume": 3198182
-        }
-      ],
-      "Current_RVOL": 2.02
-    },
-    "SIEMENS": {
-      "cup": {
-        "Left_Rim_Date": "2026-06-23",
-        "Left_Rim_Price": 3807.699951171875,
-        "Bottom_Date": "2026-07-08",
-        "Bottom_Price": 3398.10009765625,
-        "Right_Rim_Date": "2026-08-25",
-        "Right_Rim_Price": 4149.39990234375,
-        "Cup_Duration_Days": 63,
-        "Cup_Depth_Pct": 10.757146276443464,
-        "Rim_Difference_Pct": 8.97392009753058,
-        "Right_Rim_Ratio": 1.0897392009753057,
-        "Cup_Midpoint": 3602.9000244140625
-      },
-      "handle": {
-        "Handle_Start_Date": "2026-08-25",
-        "Handle_Low_Date": "2026-09-16",
-        "Handle_Low": 3682.39990234375,
-        "Handle_Depth_Pct": 11.254639489826454,
-        "Sessions_After_Rim": 25,
-        "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 4190.893901367188
-      },
-      "rvol": [
-        {
-          "Date": "2026-08-19",
-          "RVOL": 0.37,
-          "Volume": 146047
-        },
-        {
-          "Date": "2026-08-20",
-          "RVOL": 0.48,
-          "Volume": 189186
-        },
-        {
-          "Date": "2026-08-21",
-          "RVOL": 0.96,
-          "Volume": 373459
-        },
-        {
-          "Date": "2026-08-24",
-          "RVOL": 3.32,
-          "Volume": 1317215
-        },
-        {
-          "Date": "2026-08-25",
-          "RVOL": 1.39,
-          "Volume": 625842
-        },
-        {
-          "Date": "2026-08-26",
-          "RVOL": 0.81,
-          "Volume": 374331
-        },
-        {
-          "Date": "2026-08-27",
-          "RVOL": 0.97,
-          "Volume": 455385
-        },
-        {
-          "Date": "2026-08-28",
-          "RVOL": 0.58,
-          "Volume": 278973
-        },
-        {
-          "Date": "2026-08-31",
-          "RVOL": 0.47,
-          "Volume": 222185
-        },
-        {
-          "Date": "2026-09-01",
-          "RVOL": 0.71,
-          "Volume": 317161
-        },
-        {
-          "Date": "2026-09-02",
-          "RVOL": 0.64,
-          "Volume": 263290
-        },
-        {
-          "Date": "2026-09-03",
-          "RVOL": 0.96,
-          "Volume": 388897
-        },
-        {
-          "Date": "2026-09-04",
-          "RVOL": 0.43,
-          "Volume": 177116
-        },
-        {
-          "Date": "2026-09-07",
-          "RVOL": 0.49,
-          "Volume": 200987
-        },
-        {
-          "Date": "2026-09-08",
-          "RVOL": 0.86,
-          "Volume": 349820
-        },
-        {
-          "Date": "2026-09-09",
-          "RVOL": 1.04,
-          "Volume": 378664
-        },
-        {
-          "Date": "2026-09-10",
-          "RVOL": 0.66,
-          "Volume": 227398
-        },
-        {
-          "Date": "2026-09-11",
-          "RVOL": 0.5,
-          "Volume": 172514
-        },
-        {
-          "Date": "2026-09-14",
-          "RVOL": 0.0,
-          "Volume": 0
-        },
-        {
-          "Date": "2026-09-15",
-          "RVOL": 1.06,
-          "Volume": 347469
-        },
-        {
-          "Date": "2026-09-16",
-          "RVOL": 0.39,
-          "Volume": 132688
-        },
-        {
-          "Date": "2026-09-17",
-          "RVOL": 1.1,
-          "Volume": 373967
-        },
-        {
-          "Date": "2026-09-18",
-          "RVOL": 1.91,
-          "Volume": 666502
-        },
-        {
-          "Date": "2026-09-21",
-          "RVOL": 0.54,
-          "Volume": 196942
-        },
-        {
-          "Date": "2026-09-22",
-          "RVOL": 0.84,
-          "Volume": 257553
-        },
-        {
-          "Date": "2026-09-23",
-          "RVOL": 0.46,
-          "Volume": 133100
-        },
-        {
-          "Date": "2026-09-24",
-          "RVOL": 0.72,
-          "Volume": 199507
-        },
-        {
-          "Date": "2026-09-25",
-          "RVOL": 0.3,
-          "Volume": 80353
-        },
-        {
-          "Date": "2026-09-28",
-          "RVOL": 0.71,
-          "Volume": 180360
-        },
-        {
-          "Date": "2026-09-29",
-          "RVOL": 1.34,
-          "Volume": 337833
-        }
-      ],
-      "Current_RVOL": 1.34
-    },
     "KOTAKBANK": {
       "cup": {
         "Left_Rim_Date": "2026-06-25",
@@ -495,16 +141,11 @@
         "Handle_Low_Date": "2026-09-29",
         "Handle_Low": 394.70001220703125,
         "Handle_Depth_Pct": 8.016777769093238,
-        "Sessions_After_Rim": 20,
-        "Handle_Stage": "HANDLE DEVELOPING",
+        "Sessions_After_Rim": 21,
+        "Handle_Stage": "NEAR BREAKOUT",
         "Breakout_Level": 433.3910061645508
       },
       "rvol": [
-        {
-          "Date": "2026-08-19",
-          "RVOL": 0.66,
-          "Volume": 6704930
-        },
         {
           "Date": "2026-08-20",
           "RVOL": 0.93,
@@ -648,478 +289,124 @@
         {
           "Date": "2026-09-29",
           "RVOL": 3.17,
-          "Volume": 32606191
+          "Volume": 32613940
+        },
+        {
+          "Date": "2026-09-30",
+          "RVOL": 2.82,
+          "Volume": 32536479
         }
       ],
-      "Current_RVOL": 3.17
+      "Current_RVOL": 2.82
     },
-    "HAL": {
+    "TECHM": {
       "cup": {
-        "Left_Rim_Date": "2026-05-08",
-        "Left_Rim_Price": 4836.2998046875,
-        "Bottom_Date": "2026-06-08",
-        "Bottom_Price": 4148.7998046875,
-        "Right_Rim_Date": "2026-08-17",
-        "Right_Rim_Price": 5149.89990234375,
-        "Cup_Duration_Days": 101,
-        "Cup_Depth_Pct": 14.215413182897645,
-        "Rim_Difference_Pct": 6.484298127099121,
-        "Right_Rim_Ratio": 1.0648429812709912,
-        "Cup_Midpoint": 4492.5498046875
+        "Left_Rim_Date": "2026-06-02",
+        "Left_Rim_Price": 1589.0,
+        "Bottom_Date": "2026-06-19",
+        "Bottom_Price": 1344.0,
+        "Right_Rim_Date": "2026-07-30",
+        "Right_Rim_Price": 1686.5999755859375,
+        "Cup_Duration_Days": 58,
+        "Cup_Depth_Pct": 15.418502202643172,
+        "Rim_Difference_Pct": 6.1422262797946825,
+        "Right_Rim_Ratio": 1.0614222627979468,
+        "Cup_Midpoint": 1466.5
       },
       "handle": {
-        "Handle_Start_Date": "2026-08-17",
-        "Handle_Low_Date": "2026-09-29",
-        "Handle_Low": 4549.2998046875,
-        "Handle_Depth_Pct": 11.662364493393616,
-        "Sessions_After_Rim": 31,
+        "Handle_Start_Date": "2026-07-30",
+        "Handle_Low_Date": "2026-09-09",
+        "Handle_Low": 1498.0,
+        "Handle_Depth_Pct": 11.182258882721522,
+        "Sessions_After_Rim": 44,
         "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 5201.398901367187
+        "Breakout_Level": 1703.4659753417968
       },
       "rvol": [
         {
-          "Date": "2026-08-19",
-          "RVOL": 0.85,
-          "Volume": 983643
-        },
-        {
           "Date": "2026-08-20",
-          "RVOL": 0.37,
-          "Volume": 421506
-        },
-        {
-          "Date": "2026-08-21",
-          "RVOL": 0.64,
-          "Volume": 733538
-        },
-        {
-          "Date": "2026-08-24",
-          "RVOL": 0.56,
-          "Volume": 647190
-        },
-        {
-          "Date": "2026-08-25",
-          "RVOL": 0.49,
-          "Volume": 565718
-        },
-        {
-          "Date": "2026-08-26",
-          "RVOL": 0.36,
-          "Volume": 416245
-        },
-        {
-          "Date": "2026-08-27",
-          "RVOL": 0.31,
-          "Volume": 351457
-        },
-        {
-          "Date": "2026-08-28",
-          "RVOL": 0.43,
-          "Volume": 484334
-        },
-        {
-          "Date": "2026-08-31",
-          "RVOL": 0.61,
-          "Volume": 681564
-        },
-        {
-          "Date": "2026-09-01",
-          "RVOL": 0.44,
-          "Volume": 492865
-        },
-        {
-          "Date": "2026-09-02",
-          "RVOL": 0.47,
-          "Volume": 525620
-        },
-        {
-          "Date": "2026-09-03",
-          "RVOL": 0.36,
-          "Volume": 401080
-        },
-        {
-          "Date": "2026-09-04",
-          "RVOL": 1.57,
-          "Volume": 1399667
-        },
-        {
-          "Date": "2026-09-07",
-          "RVOL": 0.66,
-          "Volume": 602641
-        },
-        {
-          "Date": "2026-09-08",
-          "RVOL": 2.81,
-          "Volume": 2553021
-        },
-        {
-          "Date": "2026-09-09",
-          "RVOL": 1.65,
-          "Volume": 1669937
-        },
-        {
-          "Date": "2026-09-10",
-          "RVOL": 0.72,
-          "Volume": 688500
-        },
-        {
-          "Date": "2026-09-11",
-          "RVOL": 0.84,
-          "Volume": 762754
-        },
-        {
-          "Date": "2026-09-14",
-          "RVOL": 0.0,
-          "Volume": 0
-        },
-        {
-          "Date": "2026-09-15",
-          "RVOL": 1.04,
-          "Volume": 809202
-        },
-        {
-          "Date": "2026-09-16",
-          "RVOL": 0.89,
-          "Volume": 679509
-        },
-        {
-          "Date": "2026-09-17",
-          "RVOL": 0.71,
-          "Volume": 528884
-        },
-        {
-          "Date": "2026-09-18",
-          "RVOL": 1.3,
-          "Volume": 972849
-        },
-        {
-          "Date": "2026-09-21",
-          "RVOL": 1.03,
-          "Volume": 784570
-        },
-        {
-          "Date": "2026-09-22",
-          "RVOL": 0.71,
-          "Volume": 548249
-        },
-        {
-          "Date": "2026-09-23",
-          "RVOL": 0.56,
-          "Volume": 432866
-        },
-        {
-          "Date": "2026-09-24",
-          "RVOL": 0.47,
-          "Volume": 357585
-        },
-        {
-          "Date": "2026-09-25",
-          "RVOL": 0.5,
-          "Volume": 384467
-        },
-        {
-          "Date": "2026-09-28",
-          "RVOL": 1.06,
-          "Volume": 810334
-        },
-        {
-          "Date": "2026-09-29",
-          "RVOL": 1.41,
-          "Volume": 1086032
-        }
-      ],
-      "Current_RVOL": 1.41
-    },
-    "UNIONBANK": {
-      "cup": {
-        "Left_Rim_Date": "2026-06-18",
-        "Left_Rim_Price": 177.60000610351562,
-        "Bottom_Date": "2026-07-08",
-        "Bottom_Price": 153.5,
-        "Right_Rim_Date": "2026-08-26",
-        "Right_Rim_Price": 192.3300018310547,
-        "Cup_Duration_Days": 69,
-        "Cup_Depth_Pct": 13.569822790134781,
-        "Rim_Difference_Pct": 8.293916228219926,
-        "Right_Rim_Ratio": 1.0829391622821993,
-        "Cup_Midpoint": 165.5500030517578
-      },
-      "handle": {
-        "Handle_Start_Date": "2026-08-26",
-        "Handle_Low_Date": "2026-09-29",
-        "Handle_Low": 166.0,
-        "Handle_Depth_Pct": 13.69001278031668,
-        "Sessions_After_Rim": 24,
-        "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 194.25330184936524
-      },
-      "rvol": [
-        {
-          "Date": "2026-08-19",
-          "RVOL": 0.62,
-          "Volume": 7514657
-        },
-        {
-          "Date": "2026-08-20",
-          "RVOL": 0.8,
-          "Volume": 9632097
-        },
-        {
-          "Date": "2026-08-21",
           "RVOL": 0.57,
-          "Volume": 6917352
-        },
-        {
-          "Date": "2026-08-24",
-          "RVOL": 0.38,
-          "Volume": 4499886
-        },
-        {
-          "Date": "2026-08-25",
-          "RVOL": 0.98,
-          "Volume": 11180970
-        },
-        {
-          "Date": "2026-08-26",
-          "RVOL": 1.22,
-          "Volume": 13973998
-        },
-        {
-          "Date": "2026-08-27",
-          "RVOL": 0.61,
-          "Volume": 6999263
-        },
-        {
-          "Date": "2026-08-28",
-          "RVOL": 0.32,
-          "Volume": 3617223
-        },
-        {
-          "Date": "2026-08-31",
-          "RVOL": 0.86,
-          "Volume": 9767401
-        },
-        {
-          "Date": "2026-09-01",
-          "RVOL": 0.62,
-          "Volume": 7002385
-        },
-        {
-          "Date": "2026-09-02",
-          "RVOL": 0.83,
-          "Volume": 9420048
-        },
-        {
-          "Date": "2026-09-03",
-          "RVOL": 1.22,
-          "Volume": 13672026
-        },
-        {
-          "Date": "2026-09-04",
-          "RVOL": 0.73,
-          "Volume": 7910433
-        },
-        {
-          "Date": "2026-09-07",
-          "RVOL": 1.18,
-          "Volume": 12010754
-        },
-        {
-          "Date": "2026-09-08",
-          "RVOL": 0.55,
-          "Volume": 5714683
-        },
-        {
-          "Date": "2026-09-09",
-          "RVOL": 0.72,
-          "Volume": 7080822
-        },
-        {
-          "Date": "2026-09-10",
-          "RVOL": 0.93,
-          "Volume": 8544176
-        },
-        {
-          "Date": "2026-09-11",
-          "RVOL": 0.81,
-          "Volume": 7422504
-        },
-        {
-          "Date": "2026-09-14",
-          "RVOL": 0.0,
-          "Volume": 0
-        },
-        {
-          "Date": "2026-09-15",
-          "RVOL": 0.56,
-          "Volume": 4444675
-        },
-        {
-          "Date": "2026-09-16",
-          "RVOL": 1.22,
-          "Volume": 9588072
-        },
-        {
-          "Date": "2026-09-17",
-          "RVOL": 0.66,
-          "Volume": 5299874
-        },
-        {
-          "Date": "2026-09-18",
-          "RVOL": 0.83,
-          "Volume": 6401370
-        },
-        {
-          "Date": "2026-09-21",
-          "RVOL": 0.53,
-          "Volume": 4110898
-        },
-        {
-          "Date": "2026-09-22",
-          "RVOL": 0.68,
-          "Volume": 5275793
-        },
-        {
-          "Date": "2026-09-23",
-          "RVOL": 0.77,
-          "Volume": 5681838
-        },
-        {
-          "Date": "2026-09-24",
-          "RVOL": 0.64,
-          "Volume": 4484417
-        },
-        {
-          "Date": "2026-09-25",
-          "RVOL": 0.94,
-          "Volume": 6466107
-        },
-        {
-          "Date": "2026-09-28",
-          "RVOL": 1.22,
-          "Volume": 8523339
-        },
-        {
-          "Date": "2026-09-29",
-          "RVOL": 2.79,
-          "Volume": 19379589
-        }
-      ],
-      "Current_RVOL": 2.79
-    },
-    "MOTILALOFS": {
-      "cup": {
-        "Left_Rim_Date": "2026-07-14",
-        "Left_Rim_Price": 989.75,
-        "Bottom_Date": "2026-07-30",
-        "Bottom_Price": 835.0999755859375,
-        "Right_Rim_Date": "2026-09-08",
-        "Right_Rim_Price": 1060.199951171875,
-        "Cup_Duration_Days": 56,
-        "Cup_Depth_Pct": 15.625160334838343,
-        "Rim_Difference_Pct": 7.117954147196262,
-        "Right_Rim_Ratio": 1.0711795414719627,
-        "Cup_Midpoint": 912.4249877929688
-      },
-      "handle": {
-        "Handle_Start_Date": "2026-09-08",
-        "Handle_Low_Date": "2026-09-16",
-        "Handle_Low": 963.7999877929688,
-        "Handle_Depth_Pct": 9.092620997798774,
-        "Sessions_After_Rim": 15,
-        "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 1070.8019506835938
-      },
-      "rvol": [
-        {
-          "Date": "2026-08-19",
-          "RVOL": 0.35,
-          "Volume": 605680
-        },
-        {
-          "Date": "2026-08-20",
-          "RVOL": 1.37,
-          "Volume": 2367401
+          "Volume": 1676285
         },
         {
           "Date": "2026-08-21",
-          "RVOL": 1.02,
-          "Volume": 1852541
+          "RVOL": 0.46,
+          "Volume": 1324911
         },
         {
           "Date": "2026-08-24",
-          "RVOL": 0.93,
-          "Volume": 1108082
+          "RVOL": 0.76,
+          "Volume": 2197042
         },
         {
           "Date": "2026-08-25",
-          "RVOL": 1.56,
-          "Volume": 1836119
+          "RVOL": 0.47,
+          "Volume": 1383429
         },
         {
           "Date": "2026-08-26",
-          "RVOL": 1.59,
-          "Volume": 1931146
+          "RVOL": 0.6,
+          "Volume": 1639820
         },
         {
           "Date": "2026-08-27",
-          "RVOL": 0.71,
-          "Volume": 903803
+          "RVOL": 0.73,
+          "Volume": 1979336
         },
         {
           "Date": "2026-08-28",
-          "RVOL": 0.44,
-          "Volume": 554756
+          "RVOL": 1.31,
+          "Volume": 3415226
         },
         {
           "Date": "2026-08-31",
-          "RVOL": 0.51,
-          "Volume": 635723
+          "RVOL": 1.14,
+          "Volume": 2975369
         },
         {
           "Date": "2026-09-01",
-          "RVOL": 0.4,
-          "Volume": 501197
+          "RVOL": 0.95,
+          "Volume": 2412137
         },
         {
           "Date": "2026-09-02",
-          "RVOL": 0.84,
-          "Volume": 1044243
+          "RVOL": 0.59,
+          "Volume": 1508528
         },
         {
           "Date": "2026-09-03",
-          "RVOL": 0.36,
-          "Volume": 456816
+          "RVOL": 0.65,
+          "Volume": 1647483
         },
         {
           "Date": "2026-09-04",
-          "RVOL": 0.64,
-          "Volume": 807197
+          "RVOL": 0.48,
+          "Volume": 1173518
         },
         {
           "Date": "2026-09-07",
-          "RVOL": 1.24,
-          "Volume": 1551861
+          "RVOL": 0.92,
+          "Volume": 2028588
         },
         {
           "Date": "2026-09-08",
           "RVOL": 0.73,
-          "Volume": 940774
+          "Volume": 1575629
         },
         {
           "Date": "2026-09-09",
-          "RVOL": 0.38,
-          "Volume": 489071
+          "RVOL": 0.62,
+          "Volume": 1329200
         },
         {
           "Date": "2026-09-10",
-          "RVOL": 0.26,
-          "Volume": 338388
+          "RVOL": 0.7,
+          "Volume": 1405653
         },
         {
           "Date": "2026-09-11",
-          "RVOL": 0.49,
-          "Volume": 625141
+          "RVOL": 1.05,
+          "Volume": 2007328
         },
         {
           "Date": "2026-09-14",
@@ -1128,61 +415,66 @@
         },
         {
           "Date": "2026-09-15",
-          "RVOL": 0.59,
-          "Volume": 581522
+          "RVOL": 1.46,
+          "Volume": 2577135
         },
         {
           "Date": "2026-09-16",
-          "RVOL": 0.81,
-          "Volume": 771004
+          "RVOL": 0.82,
+          "Volume": 1472713
         },
         {
           "Date": "2026-09-17",
-          "RVOL": 0.85,
-          "Volume": 819010
+          "RVOL": 1.53,
+          "Volume": 2730331
         },
         {
           "Date": "2026-09-18",
-          "RVOL": 0.83,
-          "Volume": 739629
+          "RVOL": 1.69,
+          "Volume": 3113722
         },
         {
           "Date": "2026-09-21",
-          "RVOL": 0.33,
-          "Volume": 277400
+          "RVOL": 0.5,
+          "Volume": 970714
         },
         {
           "Date": "2026-09-22",
-          "RVOL": 1.03,
-          "Volume": 813525
+          "RVOL": 0.54,
+          "Volume": 1013719
         },
         {
           "Date": "2026-09-23",
-          "RVOL": 2.84,
-          "Volume": 2096581
+          "RVOL": 0.46,
+          "Volume": 851068
         },
         {
           "Date": "2026-09-24",
-          "RVOL": 1.16,
-          "Volume": 869276
+          "RVOL": 0.94,
+          "Volume": 1707105
         },
         {
           "Date": "2026-09-25",
-          "RVOL": 1.16,
-          "Volume": 866039
+          "RVOL": 0.52,
+          "Volume": 939846
         },
         {
           "Date": "2026-09-28",
-          "RVOL": 0.93,
-          "Volume": 709373
+          "RVOL": 0.75,
+          "Volume": 1261918
         },
         {
           "Date": "2026-09-29",
-          "RVOL": 1.14,
-          "Volume": 872843
+          "RVOL": 2.03,
+          "Volume": 3218354
+        },
+        {
+          "Date": "2026-09-30",
+          "RVOL": 1.72,
+          "Volume": 2793702
         }
       ],
-      "Current_RVOL": 1.14
+      "Current_RVOL": 1.72
     },
     "PERSISTENT": {
       "cup": {
@@ -1203,16 +495,11 @@
         "Handle_Low_Date": "2026-09-29",
         "Handle_Low": 5162.0,
         "Handle_Depth_Pct": 12.656514382402706,
-        "Sessions_After_Rim": 22,
+        "Sessions_After_Rim": 23,
         "Handle_Stage": "HANDLE DEVELOPING",
         "Breakout_Level": 5969.1
       },
       "rvol": [
-        {
-          "Date": "2026-08-19",
-          "RVOL": 0.78,
-          "Volume": 474744
-        },
         {
           "Date": "2026-08-20",
           "RVOL": 1.15,
@@ -1356,124 +643,124 @@
         {
           "Date": "2026-09-29",
           "RVOL": 0.71,
-          "Volume": 293561
+          "Volume": 294063
+        },
+        {
+          "Date": "2026-09-30",
+          "RVOL": 1.53,
+          "Volume": 611148
         }
       ],
-      "Current_RVOL": 0.71
+      "Current_RVOL": 1.53
     },
-    "LICHSGFIN": {
+    "SIEMENS": {
       "cup": {
-        "Left_Rim_Date": "2026-06-15",
-        "Left_Rim_Price": 570.75,
-        "Bottom_Date": "2026-08-24",
-        "Bottom_Price": 485.45001220703125,
-        "Right_Rim_Date": "2026-09-04",
-        "Right_Rim_Price": 579.4000244140625,
-        "Cup_Duration_Days": 81,
-        "Cup_Depth_Pct": 14.945245342613886,
-        "Rim_Difference_Pct": 1.5155539928274202,
-        "Right_Rim_Ratio": 1.0151555399282741,
-        "Cup_Midpoint": 528.1000061035156
+        "Left_Rim_Date": "2026-06-23",
+        "Left_Rim_Price": 3807.699951171875,
+        "Bottom_Date": "2026-07-08",
+        "Bottom_Price": 3398.10009765625,
+        "Right_Rim_Date": "2026-08-25",
+        "Right_Rim_Price": 4149.39990234375,
+        "Cup_Duration_Days": 63,
+        "Cup_Depth_Pct": 10.757146276443464,
+        "Rim_Difference_Pct": 8.97392009753058,
+        "Right_Rim_Ratio": 1.0897392009753057,
+        "Cup_Midpoint": 3602.9000244140625
       },
       "handle": {
-        "Handle_Start_Date": "2026-09-04",
+        "Handle_Start_Date": "2026-08-25",
         "Handle_Low_Date": "2026-09-16",
-        "Handle_Low": 529.5999755859375,
-        "Handle_Depth_Pct": 8.595106442821944,
-        "Sessions_After_Rim": 17,
+        "Handle_Low": 3682.39990234375,
+        "Handle_Depth_Pct": 11.254639489826454,
+        "Sessions_After_Rim": 26,
         "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 585.1940246582031
+        "Breakout_Level": 4190.893901367188
       },
       "rvol": [
         {
-          "Date": "2026-08-19",
-          "RVOL": 0.64,
-          "Volume": 971490
-        },
-        {
           "Date": "2026-08-20",
-          "RVOL": 1.91,
-          "Volume": 2938868
+          "RVOL": 0.48,
+          "Volume": 189186
         },
         {
           "Date": "2026-08-21",
-          "RVOL": 1.89,
-          "Volume": 3123216
+          "RVOL": 0.96,
+          "Volume": 373459
         },
         {
           "Date": "2026-08-24",
-          "RVOL": 2.44,
-          "Volume": 4349249
+          "RVOL": 3.32,
+          "Volume": 1317215
         },
         {
           "Date": "2026-08-25",
-          "RVOL": 1.84,
-          "Volume": 3617182
+          "RVOL": 1.39,
+          "Volume": 625842
         },
         {
           "Date": "2026-08-26",
-          "RVOL": 3.07,
-          "Volume": 6509187
+          "RVOL": 0.81,
+          "Volume": 374331
         },
         {
           "Date": "2026-08-27",
-          "RVOL": 3.11,
-          "Volume": 7375648
+          "RVOL": 0.97,
+          "Volume": 455385
         },
         {
           "Date": "2026-08-28",
-          "RVOL": 1.52,
-          "Volume": 4033348
+          "RVOL": 0.58,
+          "Volume": 278973
         },
         {
           "Date": "2026-08-31",
-          "RVOL": 1.27,
-          "Volume": 3367439
+          "RVOL": 0.47,
+          "Volume": 222185
         },
         {
           "Date": "2026-09-01",
-          "RVOL": 0.74,
-          "Volume": 2000075
+          "RVOL": 0.71,
+          "Volume": 317161
         },
         {
           "Date": "2026-09-02",
-          "RVOL": 1.02,
-          "Volume": 2788144
+          "RVOL": 0.64,
+          "Volume": 263290
         },
         {
           "Date": "2026-09-03",
-          "RVOL": 2.05,
-          "Volume": 5798155
+          "RVOL": 0.96,
+          "Volume": 388897
         },
         {
           "Date": "2026-09-04",
-          "RVOL": 2.38,
-          "Volume": 7126780
+          "RVOL": 0.43,
+          "Volume": 177116
         },
         {
           "Date": "2026-09-07",
-          "RVOL": 0.5,
-          "Volume": 1618855
+          "RVOL": 0.49,
+          "Volume": 200987
         },
         {
           "Date": "2026-09-08",
-          "RVOL": 0.87,
-          "Volume": 2858992
+          "RVOL": 0.86,
+          "Volume": 349820
         },
         {
           "Date": "2026-09-09",
-          "RVOL": 0.78,
-          "Volume": 2616014
+          "RVOL": 1.04,
+          "Volume": 378664
         },
         {
           "Date": "2026-09-10",
-          "RVOL": 0.84,
-          "Volume": 2842584
+          "RVOL": 0.66,
+          "Volume": 227398
         },
         {
           "Date": "2026-09-11",
-          "RVOL": 3.33,
-          "Volume": 11556446
+          "RVOL": 0.5,
+          "Volume": 172514
         },
         {
           "Date": "2026-09-14",
@@ -1482,61 +769,66 @@
         },
         {
           "Date": "2026-09-15",
-          "RVOL": 1.2,
-          "Volume": 4654811
+          "RVOL": 1.06,
+          "Volume": 347469
         },
         {
           "Date": "2026-09-16",
-          "RVOL": 0.92,
-          "Volume": 3693410
+          "RVOL": 0.39,
+          "Volume": 132688
         },
         {
           "Date": "2026-09-17",
-          "RVOL": 0.82,
-          "Volume": 3377564
+          "RVOL": 1.1,
+          "Volume": 373967
         },
         {
           "Date": "2026-09-18",
-          "RVOL": 0.54,
-          "Volume": 2234836
+          "RVOL": 1.91,
+          "Volume": 666502
         },
         {
           "Date": "2026-09-21",
-          "RVOL": 0.91,
-          "Volume": 3749732
+          "RVOL": 0.54,
+          "Volume": 196942
         },
         {
           "Date": "2026-09-22",
-          "RVOL": 0.68,
-          "Volume": 2772548
+          "RVOL": 0.84,
+          "Volume": 257553
         },
         {
           "Date": "2026-09-23",
-          "RVOL": 0.74,
-          "Volume": 3008551
+          "RVOL": 0.46,
+          "Volume": 133100
         },
         {
           "Date": "2026-09-24",
-          "RVOL": 0.34,
-          "Volume": 1297709
+          "RVOL": 0.72,
+          "Volume": 199507
         },
         {
           "Date": "2026-09-25",
           "RVOL": 0.3,
-          "Volume": 1070523
+          "Volume": 80353
         },
         {
           "Date": "2026-09-28",
-          "RVOL": 0.85,
-          "Volume": 2923229
+          "RVOL": 0.71,
+          "Volume": 180360
         },
         {
           "Date": "2026-09-29",
-          "RVOL": 0.84,
-          "Volume": 2869107
+          "RVOL": 1.37,
+          "Volume": 344496
+        },
+        {
+          "Date": "2026-09-30",
+          "RVOL": 0.72,
+          "Volume": 183291
         }
       ],
-      "Current_RVOL": 0.84
+      "Current_RVOL": 0.72
     },
     "LGEINDIA": {
       "cup": {
@@ -1557,16 +849,11 @@
         "Handle_Low_Date": "2026-09-16",
         "Handle_Low": 1599.0,
         "Handle_Depth_Pct": 8.88888888888889,
-        "Sessions_After_Rim": 31,
+        "Sessions_After_Rim": 32,
         "Handle_Stage": "NEAR BREAKOUT",
         "Breakout_Level": 1772.55
       },
       "rvol": [
-        {
-          "Date": "2026-08-19",
-          "RVOL": 1.49,
-          "Volume": 1294924
-        },
         {
           "Date": "2026-08-20",
           "RVOL": 0.64,
@@ -1710,10 +997,546 @@
         {
           "Date": "2026-09-29",
           "RVOL": 1.25,
-          "Volume": 622342
+          "Volume": 622387
+        },
+        {
+          "Date": "2026-09-30",
+          "RVOL": 0.82,
+          "Volume": 421253
         }
       ],
-      "Current_RVOL": 1.25
+      "Current_RVOL": 0.82
+    },
+    "MOTILALOFS": {
+      "cup": {
+        "Left_Rim_Date": "2026-07-14",
+        "Left_Rim_Price": 989.75,
+        "Bottom_Date": "2026-07-30",
+        "Bottom_Price": 835.0999755859375,
+        "Right_Rim_Date": "2026-09-08",
+        "Right_Rim_Price": 1060.199951171875,
+        "Cup_Duration_Days": 56,
+        "Cup_Depth_Pct": 15.625160334838343,
+        "Rim_Difference_Pct": 7.117954147196262,
+        "Right_Rim_Ratio": 1.0711795414719627,
+        "Cup_Midpoint": 912.4249877929688
+      },
+      "handle": {
+        "Handle_Start_Date": "2026-09-08",
+        "Handle_Low_Date": "2026-09-16",
+        "Handle_Low": 963.7999877929688,
+        "Handle_Depth_Pct": 9.092620997798774,
+        "Sessions_After_Rim": 16,
+        "Handle_Stage": "HANDLE DEVELOPING",
+        "Breakout_Level": 1070.8019506835938
+      },
+      "rvol": [
+        {
+          "Date": "2026-08-20",
+          "RVOL": 1.37,
+          "Volume": 2367401
+        },
+        {
+          "Date": "2026-08-21",
+          "RVOL": 1.02,
+          "Volume": 1852541
+        },
+        {
+          "Date": "2026-08-24",
+          "RVOL": 0.93,
+          "Volume": 1108082
+        },
+        {
+          "Date": "2026-08-25",
+          "RVOL": 1.56,
+          "Volume": 1836119
+        },
+        {
+          "Date": "2026-08-26",
+          "RVOL": 1.59,
+          "Volume": 1931146
+        },
+        {
+          "Date": "2026-08-27",
+          "RVOL": 0.71,
+          "Volume": 903803
+        },
+        {
+          "Date": "2026-08-28",
+          "RVOL": 0.44,
+          "Volume": 554756
+        },
+        {
+          "Date": "2026-08-31",
+          "RVOL": 0.51,
+          "Volume": 635723
+        },
+        {
+          "Date": "2026-09-01",
+          "RVOL": 0.4,
+          "Volume": 501197
+        },
+        {
+          "Date": "2026-09-02",
+          "RVOL": 0.84,
+          "Volume": 1044243
+        },
+        {
+          "Date": "2026-09-03",
+          "RVOL": 0.36,
+          "Volume": 456816
+        },
+        {
+          "Date": "2026-09-04",
+          "RVOL": 0.64,
+          "Volume": 807197
+        },
+        {
+          "Date": "2026-09-07",
+          "RVOL": 1.24,
+          "Volume": 1551861
+        },
+        {
+          "Date": "2026-09-08",
+          "RVOL": 0.73,
+          "Volume": 940774
+        },
+        {
+          "Date": "2026-09-09",
+          "RVOL": 0.38,
+          "Volume": 489071
+        },
+        {
+          "Date": "2026-09-10",
+          "RVOL": 0.26,
+          "Volume": 338388
+        },
+        {
+          "Date": "2026-09-11",
+          "RVOL": 0.49,
+          "Volume": 625141
+        },
+        {
+          "Date": "2026-09-14",
+          "RVOL": 0.0,
+          "Volume": 0
+        },
+        {
+          "Date": "2026-09-15",
+          "RVOL": 0.59,
+          "Volume": 581522
+        },
+        {
+          "Date": "2026-09-16",
+          "RVOL": 0.81,
+          "Volume": 771004
+        },
+        {
+          "Date": "2026-09-17",
+          "RVOL": 0.85,
+          "Volume": 819010
+        },
+        {
+          "Date": "2026-09-18",
+          "RVOL": 0.83,
+          "Volume": 739629
+        },
+        {
+          "Date": "2026-09-21",
+          "RVOL": 0.33,
+          "Volume": 277400
+        },
+        {
+          "Date": "2026-09-22",
+          "RVOL": 1.03,
+          "Volume": 813525
+        },
+        {
+          "Date": "2026-09-23",
+          "RVOL": 2.84,
+          "Volume": 2096581
+        },
+        {
+          "Date": "2026-09-24",
+          "RVOL": 1.16,
+          "Volume": 869276
+        },
+        {
+          "Date": "2026-09-25",
+          "RVOL": 1.16,
+          "Volume": 866039
+        },
+        {
+          "Date": "2026-09-28",
+          "RVOL": 0.93,
+          "Volume": 709373
+        },
+        {
+          "Date": "2026-09-29",
+          "RVOL": 1.14,
+          "Volume": 873780
+        },
+        {
+          "Date": "2026-09-30",
+          "RVOL": 0.98,
+          "Volume": 766731
+        }
+      ],
+      "Current_RVOL": 0.98
+    },
+    "LICHSGFIN": {
+      "cup": {
+        "Left_Rim_Date": "2026-06-15",
+        "Left_Rim_Price": 570.75,
+        "Bottom_Date": "2026-08-24",
+        "Bottom_Price": 485.45001220703125,
+        "Right_Rim_Date": "2026-09-04",
+        "Right_Rim_Price": 579.4000244140625,
+        "Cup_Duration_Days": 81,
+        "Cup_Depth_Pct": 14.945245342613886,
+        "Rim_Difference_Pct": 1.5155539928274202,
+        "Right_Rim_Ratio": 1.0151555399282741,
+        "Cup_Midpoint": 528.1000061035156
+      },
+      "handle": {
+        "Handle_Start_Date": "2026-09-04",
+        "Handle_Low_Date": "2026-09-16",
+        "Handle_Low": 529.5999755859375,
+        "Handle_Depth_Pct": 8.595106442821944,
+        "Sessions_After_Rim": 18,
+        "Handle_Stage": "HANDLE DEVELOPING",
+        "Breakout_Level": 585.1940246582031
+      },
+      "rvol": [
+        {
+          "Date": "2026-08-20",
+          "RVOL": 1.91,
+          "Volume": 2938868
+        },
+        {
+          "Date": "2026-08-21",
+          "RVOL": 1.89,
+          "Volume": 3123216
+        },
+        {
+          "Date": "2026-08-24",
+          "RVOL": 2.44,
+          "Volume": 4349249
+        },
+        {
+          "Date": "2026-08-25",
+          "RVOL": 1.84,
+          "Volume": 3617182
+        },
+        {
+          "Date": "2026-08-26",
+          "RVOL": 3.07,
+          "Volume": 6509187
+        },
+        {
+          "Date": "2026-08-27",
+          "RVOL": 3.11,
+          "Volume": 7375648
+        },
+        {
+          "Date": "2026-08-28",
+          "RVOL": 1.52,
+          "Volume": 4033348
+        },
+        {
+          "Date": "2026-08-31",
+          "RVOL": 1.27,
+          "Volume": 3367439
+        },
+        {
+          "Date": "2026-09-01",
+          "RVOL": 0.74,
+          "Volume": 2000075
+        },
+        {
+          "Date": "2026-09-02",
+          "RVOL": 1.02,
+          "Volume": 2788144
+        },
+        {
+          "Date": "2026-09-03",
+          "RVOL": 2.05,
+          "Volume": 5798155
+        },
+        {
+          "Date": "2026-09-04",
+          "RVOL": 2.38,
+          "Volume": 7126780
+        },
+        {
+          "Date": "2026-09-07",
+          "RVOL": 0.5,
+          "Volume": 1618855
+        },
+        {
+          "Date": "2026-09-08",
+          "RVOL": 0.87,
+          "Volume": 2858992
+        },
+        {
+          "Date": "2026-09-09",
+          "RVOL": 0.78,
+          "Volume": 2616014
+        },
+        {
+          "Date": "2026-09-10",
+          "RVOL": 0.84,
+          "Volume": 2842584
+        },
+        {
+          "Date": "2026-09-11",
+          "RVOL": 3.33,
+          "Volume": 11556446
+        },
+        {
+          "Date": "2026-09-14",
+          "RVOL": 0.0,
+          "Volume": 0
+        },
+        {
+          "Date": "2026-09-15",
+          "RVOL": 1.2,
+          "Volume": 4654811
+        },
+        {
+          "Date": "2026-09-16",
+          "RVOL": 0.92,
+          "Volume": 3693410
+        },
+        {
+          "Date": "2026-09-17",
+          "RVOL": 0.82,
+          "Volume": 3377564
+        },
+        {
+          "Date": "2026-09-18",
+          "RVOL": 0.54,
+          "Volume": 2234836
+        },
+        {
+          "Date": "2026-09-21",
+          "RVOL": 0.91,
+          "Volume": 3749732
+        },
+        {
+          "Date": "2026-09-22",
+          "RVOL": 0.68,
+          "Volume": 2772548
+        },
+        {
+          "Date": "2026-09-23",
+          "RVOL": 0.74,
+          "Volume": 3008551
+        },
+        {
+          "Date": "2026-09-24",
+          "RVOL": 0.34,
+          "Volume": 1297709
+        },
+        {
+          "Date": "2026-09-25",
+          "RVOL": 0.3,
+          "Volume": 1070523
+        },
+        {
+          "Date": "2026-09-28",
+          "RVOL": 0.85,
+          "Volume": 2923229
+        },
+        {
+          "Date": "2026-09-29",
+          "RVOL": 0.84,
+          "Volume": 2870480
+        },
+        {
+          "Date": "2026-09-30",
+          "RVOL": 1.59,
+          "Volume": 5473401
+        }
+      ],
+      "Current_RVOL": 1.59
+    },
+    "HAL": {
+      "cup": {
+        "Left_Rim_Date": "2026-05-08",
+        "Left_Rim_Price": 4836.2998046875,
+        "Bottom_Date": "2026-06-08",
+        "Bottom_Price": 4148.7998046875,
+        "Right_Rim_Date": "2026-08-17",
+        "Right_Rim_Price": 5149.89990234375,
+        "Cup_Duration_Days": 101,
+        "Cup_Depth_Pct": 14.215413182897645,
+        "Rim_Difference_Pct": 6.484298127099121,
+        "Right_Rim_Ratio": 1.0648429812709912,
+        "Cup_Midpoint": 4492.5498046875
+      },
+      "handle": {
+        "Handle_Start_Date": "2026-08-17",
+        "Handle_Low_Date": "2026-09-29",
+        "Handle_Low": 4549.2998046875,
+        "Handle_Depth_Pct": 11.662364493393616,
+        "Sessions_After_Rim": 32,
+        "Handle_Stage": "HANDLE DEVELOPING",
+        "Breakout_Level": 5201.398901367187
+      },
+      "rvol": [
+        {
+          "Date": "2026-08-20",
+          "RVOL": 0.37,
+          "Volume": 421506
+        },
+        {
+          "Date": "2026-08-21",
+          "RVOL": 0.64,
+          "Volume": 733538
+        },
+        {
+          "Date": "2026-08-24",
+          "RVOL": 0.56,
+          "Volume": 647190
+        },
+        {
+          "Date": "2026-08-25",
+          "RVOL": 0.49,
+          "Volume": 565718
+        },
+        {
+          "Date": "2026-08-26",
+          "RVOL": 0.36,
+          "Volume": 416245
+        },
+        {
+          "Date": "2026-08-27",
+          "RVOL": 0.31,
+          "Volume": 351457
+        },
+        {
+          "Date": "2026-08-28",
+          "RVOL": 0.43,
+          "Volume": 484334
+        },
+        {
+          "Date": "2026-08-31",
+          "RVOL": 0.61,
+          "Volume": 681564
+        },
+        {
+          "Date": "2026-09-01",
+          "RVOL": 0.44,
+          "Volume": 492865
+        },
+        {
+          "Date": "2026-09-02",
+          "RVOL": 0.47,
+          "Volume": 525620
+        },
+        {
+          "Date": "2026-09-03",
+          "RVOL": 0.36,
+          "Volume": 401080
+        },
+        {
+          "Date": "2026-09-04",
+          "RVOL": 1.57,
+          "Volume": 1399667
+        },
+        {
+          "Date": "2026-09-07",
+          "RVOL": 0.66,
+          "Volume": 602641
+        },
+        {
+          "Date": "2026-09-08",
+          "RVOL": 2.81,
+          "Volume": 2553021
+        },
+        {
+          "Date": "2026-09-09",
+          "RVOL": 1.65,
+          "Volume": 1669937
+        },
+        {
+          "Date": "2026-09-10",
+          "RVOL": 0.72,
+          "Volume": 688500
+        },
+        {
+          "Date": "2026-09-11",
+          "RVOL": 0.84,
+          "Volume": 762754
+        },
+        {
+          "Date": "2026-09-14",
+          "RVOL": 0.0,
+          "Volume": 0
+        },
+        {
+          "Date": "2026-09-15",
+          "RVOL": 1.04,
+          "Volume": 809202
+        },
+        {
+          "Date": "2026-09-16",
+          "RVOL": 0.89,
+          "Volume": 679509
+        },
+        {
+          "Date": "2026-09-17",
+          "RVOL": 0.71,
+          "Volume": 528884
+        },
+        {
+          "Date": "2026-09-18",
+          "RVOL": 1.3,
+          "Volume": 972849
+        },
+        {
+          "Date": "2026-09-21",
+          "RVOL": 1.03,
+          "Volume": 784570
+        },
+        {
+          "Date": "2026-09-22",
+          "RVOL": 0.71,
+          "Volume": 548249
+        },
+        {
+          "Date": "2026-09-23",
+          "RVOL": 0.56,
+          "Volume": 432866
+        },
+        {
+          "Date": "2026-09-24",
+          "RVOL": 0.47,
+          "Volume": 357585
+        },
+        {
+          "Date": "2026-09-25",
+          "RVOL": 0.5,
+          "Volume": 384467
+        },
+        {
+          "Date": "2026-09-28",
+          "RVOL": 1.06,
+          "Volume": 810334
+        },
+        {
+          "Date": "2026-09-29",
+          "RVOL": 1.42,
+          "Volume": 1096291
+        },
+        {
+          "Date": "2026-09-30",
+          "RVOL": 1.54,
+          "Volume": 1233410
+        }
+      ],
+      "Current_RVOL": 1.54
     },
     "HCLTECH": {
       "cup": {
@@ -1734,16 +1557,11 @@
         "Handle_Low_Date": "2026-09-11",
         "Handle_Low": 1195.699951171875,
         "Handle_Depth_Pct": 13.342520013143039,
-        "Sessions_After_Rim": 35,
+        "Sessions_After_Rim": 36,
         "Handle_Stage": "HANDLE DEVELOPING",
         "Breakout_Level": 1393.5980493164063
       },
       "rvol": [
-        {
-          "Date": "2026-08-19",
-          "RVOL": 0.66,
-          "Volume": 1693632
-        },
         {
           "Date": "2026-08-20",
           "RVOL": 0.59,
@@ -1887,10 +1705,192 @@
         {
           "Date": "2026-09-29",
           "RVOL": 2.44,
-          "Volume": 5591772
+          "Volume": 5604932
+        },
+        {
+          "Date": "2026-09-30",
+          "RVOL": 1.79,
+          "Volume": 4242611
         }
       ],
-      "Current_RVOL": 2.44
+      "Current_RVOL": 1.79
+    },
+    "UNIONBANK": {
+      "cup": {
+        "Left_Rim_Date": "2026-06-18",
+        "Left_Rim_Price": 177.60000610351562,
+        "Bottom_Date": "2026-07-08",
+        "Bottom_Price": 153.5,
+        "Right_Rim_Date": "2026-08-26",
+        "Right_Rim_Price": 192.3300018310547,
+        "Cup_Duration_Days": 69,
+        "Cup_Depth_Pct": 13.569822790134781,
+        "Rim_Difference_Pct": 8.293916228219926,
+        "Right_Rim_Ratio": 1.0829391622821993,
+        "Cup_Midpoint": 165.5500030517578
+      },
+      "handle": {
+        "Handle_Start_Date": "2026-08-26",
+        "Handle_Low_Date": "2026-09-29",
+        "Handle_Low": 166.0,
+        "Handle_Depth_Pct": 13.69001278031668,
+        "Sessions_After_Rim": 25,
+        "Handle_Stage": "HANDLE DEVELOPING",
+        "Breakout_Level": 194.25330184936524
+      },
+      "rvol": [
+        {
+          "Date": "2026-08-20",
+          "RVOL": 0.8,
+          "Volume": 9632097
+        },
+        {
+          "Date": "2026-08-21",
+          "RVOL": 0.57,
+          "Volume": 6917352
+        },
+        {
+          "Date": "2026-08-24",
+          "RVOL": 0.38,
+          "Volume": 4499886
+        },
+        {
+          "Date": "2026-08-25",
+          "RVOL": 0.98,
+          "Volume": 11180970
+        },
+        {
+          "Date": "2026-08-26",
+          "RVOL": 1.22,
+          "Volume": 13973998
+        },
+        {
+          "Date": "2026-08-27",
+          "RVOL": 0.61,
+          "Volume": 6999263
+        },
+        {
+          "Date": "2026-08-28",
+          "RVOL": 0.32,
+          "Volume": 3617223
+        },
+        {
+          "Date": "2026-08-31",
+          "RVOL": 0.86,
+          "Volume": 9767401
+        },
+        {
+          "Date": "2026-09-01",
+          "RVOL": 0.62,
+          "Volume": 7002385
+        },
+        {
+          "Date": "2026-09-02",
+          "RVOL": 0.83,
+          "Volume": 9420048
+        },
+        {
+          "Date": "2026-09-03",
+          "RVOL": 1.22,
+          "Volume": 13672026
+        },
+        {
+          "Date": "2026-09-04",
+          "RVOL": 0.73,
+          "Volume": 7910433
+        },
+        {
+          "Date": "2026-09-07",
+          "RVOL": 1.18,
+          "Volume": 12010754
+        },
+        {
+          "Date": "2026-09-08",
+          "RVOL": 0.55,
+          "Volume": 5714683
+        },
+        {
+          "Date": "2026-09-09",
+          "RVOL": 0.72,
+          "Volume": 7080822
+        },
+        {
+          "Date": "2026-09-10",
+          "RVOL": 0.93,
+          "Volume": 8544176
+        },
+        {
+          "Date": "2026-09-11",
+          "RVOL": 0.81,
+          "Volume": 7422504
+        },
+        {
+          "Date": "2026-09-14",
+          "RVOL": 0.0,
+          "Volume": 0
+        },
+        {
+          "Date": "2026-09-15",
+          "RVOL": 0.56,
+          "Volume": 4444675
+        },
+        {
+          "Date": "2026-09-16",
+          "RVOL": 1.22,
+          "Volume": 9588072
+        },
+        {
+          "Date": "2026-09-17",
+          "RVOL": 0.66,
+          "Volume": 5299874
+        },
+        {
+          "Date": "2026-09-18",
+          "RVOL": 0.83,
+          "Volume": 6401370
+        },
+        {
+          "Date": "2026-09-21",
+          "RVOL": 0.53,
+          "Volume": 4110898
+        },
+        {
+          "Date": "2026-09-22",
+          "RVOL": 0.68,
+          "Volume": 5275793
+        },
+        {
+          "Date": "2026-09-23",
+          "RVOL": 0.77,
+          "Volume": 5681838
+        },
+        {
+          "Date": "2026-09-24",
+          "RVOL": 0.64,
+          "Volume": 4484417
+        },
+        {
+          "Date": "2026-09-25",
+          "RVOL": 0.94,
+          "Volume": 6466107
+        },
+        {
+          "Date": "2026-09-28",
+          "RVOL": 1.22,
+          "Volume": 8523339
+        },
+        {
+          "Date": "2026-09-29",
+          "RVOL": 2.8,
+          "Volume": 19452924
+        },
+        {
+          "Date": "2026-09-30",
+          "RVOL": 2.23,
+          "Volume": 16921563
+        }
+      ],
+      "Current_RVOL": 2.23
     }
   },
   "history_summary": {
@@ -1902,2400 +1902,2400 @@
   "stocks": [
     {
       "Symbol": "360ONE",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1029.2,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1030.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-26",
       "Cup_Depth_Pct": 10.87,
-      "Cup_Duration_Days": 35,
+      "Cup_Duration_Days": 35.0,
       "Rim_Difference_Pct": 1.77,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ABB",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 6660.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 6776.0,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 21.11,
-      "Cup_Duration_Days": 37,
+      "Cup_Duration_Days": 37.0,
       "Rim_Difference_Pct": 6.17,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "APLAPOLLO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2188.6,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2190.1,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-04-21",
       "Cup_Depth_Pct": 20.31,
-      "Cup_Duration_Days": 68,
+      "Cup_Duration_Days": 68.0,
       "Rim_Difference_Pct": 5.58,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "AUBANK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1005.2,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1010.3,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-25",
       "Cup_Depth_Pct": 11.96,
-      "Cup_Duration_Days": 50,
+      "Cup_Duration_Days": 50.0,
       "Rim_Difference_Pct": 4.92,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ADANIENSOL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1305.8,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1314.6,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-02-25",
       "Cup_Depth_Pct": 24.78,
-      "Cup_Duration_Days": 54,
+      "Cup_Duration_Days": 54.0,
       "Rim_Difference_Pct": 1.49,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ADANIENT",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2972.9,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2903.4,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-09",
       "Cup_Depth_Pct": 19.79,
-      "Cup_Duration_Days": 35,
+      "Cup_Duration_Days": 35.0,
       "Rim_Difference_Pct": 0.69,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ADANIGREEN",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1260.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1278.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-18",
       "Cup_Depth_Pct": 27.74,
-      "Cup_Duration_Days": 65,
+      "Cup_Duration_Days": 65.0,
       "Rim_Difference_Pct": 3.66,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ADANIPORTS",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1822.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1798.3,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-02-25",
       "Cup_Depth_Pct": 16.59,
-      "Cup_Duration_Days": 86,
+      "Cup_Duration_Days": 86.0,
       "Rim_Difference_Pct": 2.26,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ADANIPOWER",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 196.3,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 204.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-05",
       "Cup_Depth_Pct": 16.36,
-      "Cup_Duration_Days": 35,
+      "Cup_Duration_Days": 35.0,
       "Rim_Difference_Pct": 2.44,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ATGL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 588.4,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 593.9,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-19",
       "Cup_Depth_Pct": 14.25,
-      "Cup_Duration_Days": 40,
+      "Cup_Duration_Days": 40.0,
       "Rim_Difference_Pct": 8.28,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ABCAPITAL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 378.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 380.6,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-06",
       "Cup_Depth_Pct": 10.95,
-      "Cup_Duration_Days": 60,
+      "Cup_Duration_Days": 60.0,
       "Rim_Difference_Pct": 9.24,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
-      "Symbol": "ALKEM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 5250.0,
-      "Cup_Candidates": 3,
-      "Latest_Right_Rim": "2026-07-30",
-      "Cup_Depth_Pct": 10.82,
-      "Cup_Duration_Days": 62,
-      "Rim_Difference_Pct": 1.62,
-      "Current_Stage": "NO CURRENT VALID PATTERN",
-      "Message": "No fresh, valid Cup & Handle setup is currently available."
-    },
-    {
       "Symbol": "AMBUJACEM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 365.75,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 374.0,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-07-21",
       "Cup_Depth_Pct": 12.38,
-      "Cup_Duration_Days": 55,
+      "Cup_Duration_Days": 55.0,
       "Rim_Difference_Pct": 3.63,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
+      "Symbol": "APARINDS",
+      "Current_Date": "2026-09-30",
+      "Current_Close": 17384.0,
+      "Cup_Candidates": 5,
+      "Latest_Right_Rim": "2026-08-12",
+      "Cup_Depth_Pct": 22.59,
+      "Cup_Duration_Days": 49.0,
+      "Rim_Difference_Pct": 7.62,
+      "Current_Stage": "NO CURRENT VALID PATTERN",
+      "Message": "No fresh, valid Cup & Handle setup is currently available."
+    },
+    {
       "Symbol": "APOLLOHOSP",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 8659.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 8165.5,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-02-27",
       "Cup_Depth_Pct": 10.57,
-      "Cup_Duration_Days": 51,
+      "Cup_Duration_Days": 51.0,
       "Rim_Difference_Pct": 5.11,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ASHOKLEY",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 153.44,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 154.19,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-13",
       "Cup_Depth_Pct": 11.91,
-      "Cup_Duration_Days": 41,
+      "Cup_Duration_Days": 41.0,
       "Rim_Difference_Pct": 9.04,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ASIANPAINT",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2415.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2402.6,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-07-09",
       "Cup_Depth_Pct": 12.69,
-      "Cup_Duration_Days": 76,
+      "Cup_Duration_Days": 76.0,
       "Rim_Difference_Pct": 1.77,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ASTRAL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1375.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1370.4,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-13",
       "Cup_Depth_Pct": 18.78,
-      "Cup_Duration_Days": 76,
+      "Cup_Duration_Days": 76.0,
       "Rim_Difference_Pct": 0.92,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "AUROPHARMA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1697.7,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1672.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-03",
       "Cup_Depth_Pct": 10.26,
-      "Cup_Duration_Days": 43,
+      "Cup_Duration_Days": 43.0,
       "Rim_Difference_Pct": 5.6,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "DMART",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 3750.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 3801.4,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-14",
       "Cup_Depth_Pct": 15.22,
-      "Cup_Duration_Days": 51,
+      "Cup_Duration_Days": 51.0,
       "Rim_Difference_Pct": 7.46,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "AXISBANK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1212.1,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1226.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-31",
       "Cup_Depth_Pct": 13.68,
-      "Cup_Duration_Days": 67,
+      "Cup_Duration_Days": 67.0,
       "Rim_Difference_Pct": 7.15,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BSE",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 3200.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 3092.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-03-18",
       "Cup_Depth_Pct": 21.38,
-      "Cup_Duration_Days": 35,
+      "Cup_Duration_Days": 35.0,
       "Rim_Difference_Pct": 6.76,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BAJAJ-AUTO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 10811.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 10874.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-15",
       "Cup_Depth_Pct": 15.34,
-      "Cup_Duration_Days": 48,
+      "Cup_Duration_Days": 48.0,
       "Rim_Difference_Pct": 2.07,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BAJFINANCE",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 973.8,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 959.4,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-07",
       "Cup_Depth_Pct": 24.67,
-      "Cup_Duration_Days": 73,
+      "Cup_Duration_Days": 73.0,
       "Rim_Difference_Pct": 5.14,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BAJAJFINSV",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1742.4,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1731.0,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-02-25",
       "Cup_Depth_Pct": 11.4,
-      "Cup_Duration_Days": 90,
+      "Cup_Duration_Days": 90.0,
       "Rim_Difference_Pct": 2.03,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BAJAJHLDNG",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 10600.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 10788.0,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-07-03",
       "Cup_Depth_Pct": 10.2,
-      "Cup_Duration_Days": 38,
+      "Cup_Duration_Days": 38.0,
       "Rim_Difference_Pct": 2.63,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BANKBARODA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 227.68,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 230.55,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-06-23",
       "Cup_Depth_Pct": 10.81,
-      "Cup_Duration_Days": 64,
+      "Cup_Duration_Days": 64.0,
       "Rim_Difference_Pct": 0.33,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BANKINDIA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 130.11,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 130.24,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-21",
       "Cup_Depth_Pct": 11.25,
-      "Cup_Duration_Days": 36,
+      "Cup_Duration_Days": 36.0,
       "Rim_Difference_Pct": 1.11,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
+      "Symbol": "MAHABANK",
+      "Current_Date": "2026-09-30",
+      "Current_Close": 79.37,
+      "Cup_Candidates": 3,
+      "Latest_Right_Rim": "2026-09-07",
+      "Cup_Depth_Pct": 18.31,
+      "Cup_Duration_Days": 70.0,
+      "Rim_Difference_Pct": 7.41,
+      "Current_Stage": "NO CURRENT VALID PATTERN",
+      "Message": "No fresh, valid Cup & Handle setup is currently available."
+    },
+    {
       "Symbol": "BDL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1085.1,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1110.1,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-17",
       "Cup_Depth_Pct": 15.24,
-      "Cup_Duration_Days": 55,
+      "Cup_Duration_Days": 55.0,
       "Rim_Difference_Pct": 0.89,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BEL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 387.75,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 388.3,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-18",
       "Cup_Depth_Pct": 12.14,
-      "Cup_Duration_Days": 56,
+      "Cup_Duration_Days": 56.0,
       "Rim_Difference_Pct": 4.29,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BHARATFORG",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1942.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1926.0,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-06-29",
       "Cup_Depth_Pct": 10.59,
-      "Cup_Duration_Days": 52,
+      "Cup_Duration_Days": 52.0,
       "Rim_Difference_Pct": 9.49,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BHEL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 413.35,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 415.5,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-31",
       "Cup_Depth_Pct": 11.42,
-      "Cup_Duration_Days": 45,
+      "Cup_Duration_Days": 45.0,
       "Rim_Difference_Pct": 0.86,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BPCL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 299.35,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 303.2,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 13.59,
-      "Cup_Duration_Days": 38,
+      "Cup_Duration_Days": 38.0,
       "Rim_Difference_Pct": 2.53,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BHARTIARTL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1771.2,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1757.0,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-04-30",
       "Cup_Depth_Pct": 15.08,
-      "Cup_Duration_Days": 79,
+      "Cup_Duration_Days": 79.0,
       "Rim_Difference_Pct": 7.34,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "GROWW",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 183.52,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 183.91,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-08-25",
       "Cup_Depth_Pct": 14.87,
-      "Cup_Duration_Days": 40,
+      "Cup_Duration_Days": 40.0,
       "Rim_Difference_Pct": 7.14,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BIOCON",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 377.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 370.3,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-26",
       "Cup_Depth_Pct": 16.16,
-      "Cup_Duration_Days": 76,
+      "Cup_Duration_Days": 76.0,
       "Rim_Difference_Pct": 9.33,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BLUESTARCO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1529.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1518.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-28",
       "Cup_Depth_Pct": 28.56,
-      "Cup_Duration_Days": 69,
+      "Cup_Duration_Days": 69.0,
       "Rim_Difference_Pct": 4.96,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BOSCHLTD",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 45700.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 47100.0,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-07-03",
       "Cup_Depth_Pct": 10.37,
-      "Cup_Duration_Days": 56,
+      "Cup_Duration_Days": 56.0,
       "Rim_Difference_Pct": 9.55,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "BRITANNIA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 4835.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 4830.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-13",
       "Cup_Depth_Pct": 15.01,
-      "Cup_Duration_Days": 113,
+      "Cup_Duration_Days": 113.0,
       "Rim_Difference_Pct": 3.96,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "CGPOWER",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 858.05,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 854.2,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-10",
       "Cup_Depth_Pct": 16.93,
-      "Cup_Duration_Days": 70,
+      "Cup_Duration_Days": 70.0,
       "Rim_Difference_Pct": 5.09,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "CANBK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 119.51,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 119.44,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-07-10",
       "Cup_Depth_Pct": 12.85,
-      "Cup_Duration_Days": 30,
+      "Cup_Duration_Days": 30.0,
       "Rim_Difference_Pct": 4.9,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "CHOLAFIN",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1627.3,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1620.0,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-06",
       "Cup_Depth_Pct": 11.45,
-      "Cup_Duration_Days": 30,
+      "Cup_Duration_Days": 30.0,
       "Rim_Difference_Pct": 4.13,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "CIPLA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1379.3,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1346.0,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-15",
       "Cup_Depth_Pct": 14.59,
-      "Cup_Duration_Days": 78,
+      "Cup_Duration_Days": 78.0,
       "Rim_Difference_Pct": 5.83,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "COALINDIA",
-      "Current_Date": "2026-09-29",
+      "Current_Date": "2026-09-30",
       "Current_Close": 425.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-10",
       "Cup_Depth_Pct": 18.3,
-      "Cup_Duration_Days": 98,
+      "Cup_Duration_Days": 98.0,
       "Rim_Difference_Pct": 9.94,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "COCHINSHIP",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1359.3,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1315.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-27",
       "Cup_Depth_Pct": 12.53,
-      "Cup_Duration_Days": 55,
+      "Cup_Duration_Days": 55.0,
       "Rim_Difference_Pct": 1.73,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "COFORGE",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1722.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1749.1,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-10-27",
       "Cup_Depth_Pct": 16.67,
-      "Cup_Duration_Days": 38,
+      "Cup_Duration_Days": 38.0,
       "Rim_Difference_Pct": 2.0,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "COLPAL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1785.1,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1763.3,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-05-19",
       "Cup_Depth_Pct": 22.58,
-      "Cup_Duration_Days": 81,
+      "Cup_Duration_Days": 81.0,
       "Rim_Difference_Pct": 3.38,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "CONCOR",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 443.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 447.5,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-14",
       "Cup_Depth_Pct": 18.54,
-      "Cup_Duration_Days": 98,
+      "Cup_Duration_Days": 98.0,
       "Rim_Difference_Pct": 1.25,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
-      "Symbol": "COROMANDEL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1792.9,
-      "Cup_Candidates": 7,
-      "Latest_Right_Rim": "2026-06-16",
-      "Cup_Depth_Pct": 22.36,
-      "Cup_Duration_Days": 67,
-      "Rim_Difference_Pct": 5.32,
-      "Current_Stage": "NO CURRENT VALID PATTERN",
-      "Message": "No fresh, valid Cup & Handle setup is currently available."
-    },
-    {
       "Symbol": "CUMMINSIND",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 4800.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 4760.0,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-02-27",
       "Cup_Depth_Pct": 15.86,
-      "Cup_Duration_Days": 77,
+      "Cup_Duration_Days": 77.0,
       "Rim_Difference_Pct": 8.06,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "DLF",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 653.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 674.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-07",
       "Cup_Depth_Pct": 27.67,
-      "Cup_Duration_Days": 86,
+      "Cup_Duration_Days": 86.0,
       "Rim_Difference_Pct": 8.37,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "DABUR",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 380.4,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 380.1,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-07",
       "Cup_Depth_Pct": 15.47,
-      "Cup_Duration_Days": 60,
+      "Cup_Duration_Days": 60.0,
       "Rim_Difference_Pct": 7.03,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "DIVISLAB",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 9431.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 9291.5,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-15",
       "Cup_Depth_Pct": 16.86,
-      "Cup_Duration_Days": 93,
+      "Cup_Duration_Days": 93.0,
       "Rim_Difference_Pct": 2.58,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "DIXON",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 13250.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 13100.0,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-05-05",
       "Cup_Depth_Pct": 18.97,
-      "Cup_Duration_Days": 84,
+      "Cup_Duration_Days": 84.0,
       "Rim_Difference_Pct": 1.46,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "DRREDDY",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1251.9,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1233.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-29",
       "Cup_Depth_Pct": 12.7,
-      "Cup_Duration_Days": 48,
+      "Cup_Duration_Days": 48.0,
       "Rim_Difference_Pct": 2.89,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "EICHERMOT",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 7179.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 7150.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-17",
       "Cup_Depth_Pct": 10.47,
-      "Cup_Duration_Days": 53,
+      "Cup_Duration_Days": 53.0,
       "Rim_Difference_Pct": 5.3,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ETERNAL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 327.85,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 320.0,
       "Cup_Candidates": 1,
       "Latest_Right_Rim": "2025-05-16",
       "Cup_Depth_Pct": 18.4,
-      "Cup_Duration_Days": 84,
+      "Cup_Duration_Days": 84.0,
       "Rim_Difference_Pct": 3.44,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "EXIDEIND",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 407.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 412.6,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-06-04",
       "Cup_Depth_Pct": 12.21,
-      "Cup_Duration_Days": 31,
+      "Cup_Duration_Days": 31.0,
       "Rim_Difference_Pct": 7.87,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "NYKAA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 327.35,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 320.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-07",
       "Cup_Depth_Pct": 18.75,
-      "Cup_Duration_Days": 85,
+      "Cup_Duration_Days": 85.0,
       "Rim_Difference_Pct": 2.22,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "FEDERALBNK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 320.2,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 317.4,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-29",
       "Cup_Depth_Pct": 16.13,
-      "Cup_Duration_Days": 61,
+      "Cup_Duration_Days": 61.0,
       "Rim_Difference_Pct": 0.1,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "FORTIS",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 822.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 770.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-28",
       "Cup_Depth_Pct": 11.79,
-      "Cup_Duration_Days": 52,
+      "Cup_Duration_Days": 52.0,
       "Rim_Difference_Pct": 5.48,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "GAIL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 170.04,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 170.55,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-08",
       "Cup_Depth_Pct": 21.64,
-      "Cup_Duration_Days": 70,
+      "Cup_Duration_Days": 70.0,
       "Rim_Difference_Pct": 1.97,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "GVT&D",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 4130.3,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 4201.0,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-12-22",
       "Cup_Depth_Pct": 18.89,
-      "Cup_Duration_Days": 49,
+      "Cup_Duration_Days": 49.0,
       "Rim_Difference_Pct": 2.17,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "GMRAIRPORT",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 93.75,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 95.15,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-08",
       "Cup_Depth_Pct": 18.36,
-      "Cup_Duration_Days": 72,
+      "Cup_Duration_Days": 72.0,
       "Rim_Difference_Pct": 1.2,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "GLENMARK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2441.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2334.7,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-07-14",
       "Cup_Depth_Pct": 15.08,
-      "Cup_Duration_Days": 76,
+      "Cup_Duration_Days": 76.0,
       "Rim_Difference_Pct": 5.98,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "GODFRYPHLP",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1862.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1891.8,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-04",
       "Cup_Depth_Pct": 13.86,
-      "Cup_Duration_Days": 50,
+      "Cup_Duration_Days": 50.0,
       "Rim_Difference_Pct": 3.13,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "GODREJCP",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 855.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 850.0,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 12.76,
-      "Cup_Duration_Days": 35,
+      "Cup_Duration_Days": 35.0,
       "Rim_Difference_Pct": 8.22,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "GODREJPROP",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1634.4,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1628.5,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-04",
       "Cup_Depth_Pct": 24.3,
-      "Cup_Duration_Days": 75,
+      "Cup_Duration_Days": 75.0,
       "Rim_Difference_Pct": 3.04,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "GRASIM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 3100.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 3061.9,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-27",
       "Cup_Depth_Pct": 16.0,
-      "Cup_Duration_Days": 105,
+      "Cup_Duration_Days": 105.0,
       "Rim_Difference_Pct": 7.33,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "HCLTECH",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1222.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1230.0,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-11",
       "Cup_Depth_Pct": 18.06,
-      "Cup_Duration_Days": 70,
+      "Cup_Duration_Days": 70.0,
       "Rim_Difference_Pct": 9.77,
       "Current_Stage": "HANDLE DEVELOPING",
       "Message": "Post-rim pullback is within acceptable handle parameters."
     },
     {
       "Symbol": "HDFCAMC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2223.3,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2280.7,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-25",
       "Cup_Depth_Pct": 13.03,
-      "Cup_Duration_Days": 50,
+      "Cup_Duration_Days": 50.0,
       "Rim_Difference_Pct": 4.95,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "HDFCBANK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 722.7,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 708.7,
       "Cup_Candidates": 1,
       "Latest_Right_Rim": "2025-02-07",
       "Cup_Depth_Pct": 13.6,
-      "Cup_Duration_Days": 60,
+      "Cup_Duration_Days": 60.0,
       "Rim_Difference_Pct": 6.01,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "HDFCLIFE",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 523.55,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 521.2,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 12.31,
-      "Cup_Duration_Days": 64,
+      "Cup_Duration_Days": 64.0,
       "Rim_Difference_Pct": 6.86,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "HAVELLS",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1043.3,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1016.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-04-22",
       "Cup_Depth_Pct": 20.79,
-      "Cup_Duration_Days": 63,
+      "Cup_Duration_Days": 63.0,
       "Rim_Difference_Pct": 2.19,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "HEROMOTOCO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 5208.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 5241.0,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-04-10",
       "Cup_Depth_Pct": 16.74,
-      "Cup_Duration_Days": 64,
+      "Cup_Duration_Days": 64.0,
       "Rim_Difference_Pct": 6.88,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "HINDALCO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 955.2,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 941.8,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-03-05",
       "Cup_Depth_Pct": 14.45,
-      "Cup_Duration_Days": 35,
+      "Cup_Duration_Days": 35.0,
       "Rim_Difference_Pct": 4.5,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "HAL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 4549.3,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 4668.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-17",
       "Cup_Depth_Pct": 14.22,
-      "Cup_Duration_Days": 101,
+      "Cup_Duration_Days": 101.0,
       "Rim_Difference_Pct": 6.48,
       "Current_Stage": "HANDLE DEVELOPING",
       "Message": "Post-rim pullback is within acceptable handle parameters."
     },
     {
+      "Symbol": "HINDCOPPER",
+      "Current_Date": "2026-09-30",
+      "Current_Close": 472.65,
+      "Cup_Candidates": 3,
+      "Latest_Right_Rim": "2026-08-24",
+      "Cup_Depth_Pct": 24.12,
+      "Cup_Duration_Days": 102.0,
+      "Rim_Difference_Pct": 5.07,
+      "Current_Stage": "NO CURRENT VALID PATTERN",
+      "Message": "No fresh, valid Cup & Handle setup is currently available."
+    },
+    {
       "Symbol": "HINDPETRO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 349.2,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 350.35,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-06-25",
       "Cup_Depth_Pct": 12.47,
-      "Cup_Duration_Days": 31,
+      "Cup_Duration_Days": 31.0,
       "Rim_Difference_Pct": 1.81,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "HINDUNILVR",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1863.8,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1879.1,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-06-17",
       "Cup_Depth_Pct": 14.22,
-      "Cup_Duration_Days": 56,
+      "Cup_Duration_Days": 56.0,
       "Rim_Difference_Pct": 7.62,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "HINDZINC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 563.3,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 566.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 24.08,
-      "Cup_Duration_Days": 104,
+      "Cup_Duration_Days": 104.0,
       "Rim_Difference_Pct": 6.82,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "POWERINDIA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 30735.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 30630.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-11",
       "Cup_Depth_Pct": 18.58,
-      "Cup_Duration_Days": 49,
+      "Cup_Duration_Days": 49.0,
       "Rim_Difference_Pct": 2.0,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
-      "Symbol": "HUDCO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 165.57,
-      "Cup_Candidates": 7,
-      "Latest_Right_Rim": "2026-08-04",
-      "Cup_Depth_Pct": 12.04,
-      "Cup_Duration_Days": 47,
-      "Rim_Difference_Pct": 5.89,
-      "Current_Stage": "NO CURRENT VALID PATTERN",
-      "Message": "No fresh, valid Cup & Handle setup is currently available."
-    },
-    {
       "Symbol": "HYUNDAI",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2100.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2031.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-20",
       "Cup_Depth_Pct": 14.37,
-      "Cup_Duration_Days": 109,
+      "Cup_Duration_Days": 109.0,
       "Rim_Difference_Pct": 4.11,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ICICIBANK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1292.2,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1321.7,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-07-20",
       "Cup_Depth_Pct": 12.88,
-      "Cup_Duration_Days": 90,
+      "Cup_Duration_Days": 90.0,
       "Rim_Difference_Pct": 6.24,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ICICIGI",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1515.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1590.0,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-05",
       "Cup_Depth_Pct": 18.43,
-      "Cup_Duration_Days": 44,
+      "Cup_Duration_Days": 44.0,
       "Rim_Difference_Pct": 6.47,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ICICIAMC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 3233.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 3136.7,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-08-20",
       "Cup_Depth_Pct": 15.34,
-      "Cup_Duration_Days": 62,
+      "Cup_Duration_Days": 62.0,
       "Rim_Difference_Pct": 7.13,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "IDFCFIRSTB",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 79.46,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 81.44,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-09-10",
       "Cup_Depth_Pct": 14.21,
-      "Cup_Duration_Days": 68,
+      "Cup_Duration_Days": 68.0,
       "Rim_Difference_Pct": 5.69,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ITC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 265.1,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 262.75,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-06-19",
       "Cup_Depth_Pct": 12.47,
-      "Cup_Duration_Days": 31,
+      "Cup_Duration_Days": 31.0,
       "Rim_Difference_Pct": 6.27,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "INDIANB",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 795.25,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 805.9,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-09-03",
       "Cup_Depth_Pct": 13.07,
-      "Cup_Duration_Days": 77,
+      "Cup_Duration_Days": 77.0,
       "Rim_Difference_Pct": 2.46,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "INDHOTEL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 714.35,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 728.65,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-08",
       "Cup_Depth_Pct": 20.86,
-      "Cup_Duration_Days": 85,
+      "Cup_Duration_Days": 85.0,
       "Rim_Difference_Pct": 4.96,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "IOC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 131.33,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 134.93,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-10-09",
       "Cup_Depth_Pct": 11.96,
-      "Cup_Duration_Days": 90,
+      "Cup_Duration_Days": 90.0,
       "Rim_Difference_Pct": 1.42,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "IRCTC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 452.55,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 455.4,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-10",
       "Cup_Depth_Pct": 16.51,
-      "Cup_Duration_Days": 97,
+      "Cup_Duration_Days": 97.0,
       "Rim_Difference_Pct": 9.34,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "IRFC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 80.26,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 79.28,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-06-22",
       "Cup_Depth_Pct": 12.19,
-      "Cup_Duration_Days": 60,
+      "Cup_Duration_Days": 60.0,
       "Rim_Difference_Pct": 6.62,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "IREDA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 111.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 111.68,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-03",
       "Cup_Depth_Pct": 11.84,
-      "Cup_Duration_Days": 42,
+      "Cup_Duration_Days": 42.0,
       "Rim_Difference_Pct": 6.97,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "INDUSTOWER",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 367.55,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 373.2,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 12.39,
-      "Cup_Duration_Days": 41,
+      "Cup_Duration_Days": 41.0,
       "Rim_Difference_Pct": 6.15,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "INDUSINDBK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 878.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 901.4,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-08",
       "Cup_Depth_Pct": 22.54,
-      "Cup_Duration_Days": 71,
+      "Cup_Duration_Days": 71.0,
       "Rim_Difference_Pct": 1.13,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "NAUKRI",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1245.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1219.5,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 15.97,
-      "Cup_Duration_Days": 38,
+      "Cup_Duration_Days": 38.0,
       "Rim_Difference_Pct": 3.06,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "INFY",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1015.4,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 994.1,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-10",
       "Cup_Depth_Pct": 23.18,
-      "Cup_Duration_Days": 69,
+      "Cup_Duration_Days": 69.0,
       "Rim_Difference_Pct": 6.56,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "INDIGO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 4872.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 4984.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-05",
       "Cup_Depth_Pct": 10.78,
-      "Cup_Duration_Days": 33,
+      "Cup_Duration_Days": 33.0,
       "Rim_Difference_Pct": 0.58,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "JSWENERGY",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 501.15,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 494.7,
       "Cup_Candidates": 9,
       "Latest_Right_Rim": "2026-08-11",
       "Cup_Depth_Pct": 10.22,
-      "Cup_Duration_Days": 43,
+      "Cup_Duration_Days": 43.0,
       "Rim_Difference_Pct": 1.45,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "JSWSTEEL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1272.4,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1253.4,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-04-28",
       "Cup_Depth_Pct": 14.18,
-      "Cup_Duration_Days": 62,
+      "Cup_Duration_Days": 62.0,
       "Rim_Difference_Pct": 1.72,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "JINDALSTEL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1130.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1134.9,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-21",
       "Cup_Depth_Pct": 14.02,
-      "Cup_Duration_Days": 54,
+      "Cup_Duration_Days": 54.0,
       "Rim_Difference_Pct": 2.68,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "JIOFIN",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 217.56,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 216.88,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 11.59,
-      "Cup_Duration_Days": 30,
+      "Cup_Duration_Days": 30.0,
       "Rim_Difference_Pct": 4.61,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "JUBLFOOD",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 463.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 456.7,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-07",
       "Cup_Depth_Pct": 17.57,
-      "Cup_Duration_Days": 75,
+      "Cup_Duration_Days": 75.0,
       "Rim_Difference_Pct": 8.29,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "KEI",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 4461.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 4455.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-18",
       "Cup_Depth_Pct": 16.86,
-      "Cup_Duration_Days": 56,
+      "Cup_Duration_Days": 56.0,
       "Rim_Difference_Pct": 3.35,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
-      "Symbol": "KPITTECH",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 519.7,
-      "Cup_Candidates": 6,
-      "Latest_Right_Rim": "2026-01-08",
-      "Cup_Depth_Pct": 10.5,
-      "Cup_Duration_Days": 35,
-      "Rim_Difference_Pct": 3.28,
-      "Current_Stage": "NO CURRENT VALID PATTERN",
-      "Message": "No fresh, valid Cup & Handle setup is currently available."
-    },
-    {
       "Symbol": "KALYANKJIL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 568.85,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 553.15,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-04-15",
       "Cup_Depth_Pct": 18.85,
-      "Cup_Duration_Days": 64,
+      "Cup_Duration_Days": 64.0,
       "Rim_Difference_Pct": 1.71,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "KOTAKBANK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 406.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 417.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-01",
       "Cup_Depth_Pct": 10.97,
-      "Cup_Duration_Days": 68,
+      "Cup_Duration_Days": 68.0,
       "Rim_Difference_Pct": 3.7,
-      "Current_Stage": "HANDLE DEVELOPING",
-      "Message": "Post-rim pullback is within acceptable handle parameters."
+      "Current_Stage": "NEAR BREAKOUT",
+      "Message": "Price is within the near-breakout zone."
     },
     {
       "Symbol": "LTF",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 271.05,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 265.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 12.24,
-      "Cup_Duration_Days": 50,
+      "Cup_Duration_Days": 50.0,
       "Rim_Difference_Pct": 3.34,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "LGEINDIA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1739.2,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1723.5,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-17",
       "Cup_Depth_Pct": 12.93,
-      "Cup_Duration_Days": 59,
+      "Cup_Duration_Days": 59.0,
       "Rim_Difference_Pct": 2.92,
       "Current_Stage": "NEAR BREAKOUT",
       "Message": "Price is within the near-breakout zone."
     },
     {
       "Symbol": "LICHSGFIN",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 548.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 530.2,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-09-04",
       "Cup_Depth_Pct": 14.95,
-      "Cup_Duration_Days": 81,
+      "Cup_Duration_Days": 81.0,
       "Rim_Difference_Pct": 1.52,
       "Current_Stage": "HANDLE DEVELOPING",
       "Message": "Post-rim pullback is within acceptable handle parameters."
     },
     {
       "Symbol": "LTM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 3936.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 4045.0,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-06-02",
       "Cup_Depth_Pct": 18.46,
-      "Cup_Duration_Days": 42,
+      "Cup_Duration_Days": 42.0,
       "Rim_Difference_Pct": 8.86,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "LT",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 3749.1,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 3760.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-25",
       "Cup_Depth_Pct": 12.93,
-      "Cup_Duration_Days": 61,
+      "Cup_Duration_Days": 61.0,
       "Rim_Difference_Pct": 3.44,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "LAURUSLABS",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1979.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1980.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-02-26",
       "Cup_Depth_Pct": 19.55,
-      "Cup_Duration_Days": 50,
+      "Cup_Duration_Days": 50.0,
       "Rim_Difference_Pct": 3.28,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "LENSKART",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 674.6,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 685.05,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-06-01",
       "Cup_Depth_Pct": 17.74,
-      "Cup_Duration_Days": 47,
+      "Cup_Duration_Days": 47.0,
       "Rim_Difference_Pct": 4.51,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
+      "Symbol": "LICI",
+      "Current_Date": "2026-09-30",
+      "Current_Close": 395.2,
+      "Cup_Candidates": 5,
+      "Latest_Right_Rim": "2026-08-25",
+      "Cup_Depth_Pct": 14.28,
+      "Cup_Duration_Days": 67.0,
+      "Rim_Difference_Pct": 4.9,
+      "Current_Stage": "NO CURRENT VALID PATTERN",
+      "Message": "No fresh, valid Cup & Handle setup is currently available."
+    },
+    {
       "Symbol": "LODHA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1106.6,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1135.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-02-18",
       "Cup_Depth_Pct": 24.13,
-      "Cup_Duration_Days": 42,
+      "Cup_Duration_Days": 42.0,
       "Rim_Difference_Pct": 2.22,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "LUPIN",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2052.1,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2030.2,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-07-16",
       "Cup_Depth_Pct": 11.36,
-      "Cup_Duration_Days": 70,
+      "Cup_Duration_Days": 70.0,
       "Rim_Difference_Pct": 1.42,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "MRF",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 123080.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 125280.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-07",
       "Cup_Depth_Pct": 13.35,
-      "Cup_Duration_Days": 82,
+      "Cup_Duration_Days": 82.0,
       "Rim_Difference_Pct": 1.28,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "M&MFIN",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 328.05,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 324.85,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-02-10",
       "Cup_Depth_Pct": 17.18,
-      "Cup_Duration_Days": 49,
+      "Cup_Duration_Days": 49.0,
       "Rim_Difference_Pct": 3.71,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "M&M",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2947.8,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2950.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-07",
       "Cup_Depth_Pct": 14.67,
-      "Cup_Duration_Days": 61,
+      "Cup_Duration_Days": 61.0,
       "Rim_Difference_Pct": 5.35,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "MANKIND",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2545.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2503.8,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-07-29",
       "Cup_Depth_Pct": 13.76,
-      "Cup_Duration_Days": 69,
+      "Cup_Duration_Days": 69.0,
       "Rim_Difference_Pct": 0.13,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "MARICO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 787.15,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 786.0,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-05-11",
       "Cup_Depth_Pct": 11.06,
-      "Cup_Duration_Days": 76,
+      "Cup_Duration_Days": 76.0,
       "Rim_Difference_Pct": 4.34,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "MARUTI",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 11877.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 11967.0,
       "Cup_Candidates": 1,
       "Latest_Right_Rim": "2025-05-16",
       "Cup_Depth_Pct": 17.84,
-      "Cup_Duration_Days": 102,
+      "Cup_Duration_Days": 102.0,
       "Rim_Difference_Pct": 2.79,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "MFSL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1392.4,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1373.4,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 14.36,
-      "Cup_Duration_Days": 64,
+      "Cup_Duration_Days": 64.0,
       "Rim_Difference_Pct": 6.34,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "MAXHEALTH",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 982.1,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 929.8,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-06",
       "Cup_Depth_Pct": 17.21,
-      "Cup_Duration_Days": 46,
+      "Cup_Duration_Days": 46.0,
       "Rim_Difference_Pct": 5.12,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "MAZDOCK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2087.1,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2113.0,
       "Cup_Candidates": 10,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 12.59,
-      "Cup_Duration_Days": 54,
+      "Cup_Duration_Days": 54.0,
       "Rim_Difference_Pct": 2.3,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
+      "Symbol": "MEESHO",
+      "Current_Date": "2026-09-30",
+      "Current_Close": 227.75,
+      "Cup_Candidates": 0,
+      "Latest_Right_Rim": NaN,
+      "Cup_Depth_Pct": NaN,
+      "Cup_Duration_Days": NaN,
+      "Rim_Difference_Pct": NaN,
+      "Current_Stage": "NO CURRENT VALID PATTERN",
+      "Message": "No fresh, valid Cup & Handle setup is currently available."
+    },
+    {
       "Symbol": "MOTILALOFS",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 996.2,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 994.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-08",
       "Cup_Depth_Pct": 15.63,
-      "Cup_Duration_Days": 56,
+      "Cup_Duration_Days": 56.0,
       "Rim_Difference_Pct": 7.12,
       "Current_Stage": "HANDLE DEVELOPING",
       "Message": "Post-rim pullback is within acceptable handle parameters."
     },
     {
       "Symbol": "MPHASIS",
-      "Current_Date": "2026-09-29",
+      "Current_Date": "2026-09-30",
       "Current_Close": 2154.4,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-14",
       "Cup_Depth_Pct": 12.73,
-      "Cup_Duration_Days": 73,
+      "Cup_Duration_Days": 73.0,
       "Rim_Difference_Pct": 5.2,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "MCX",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 3232.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 3300.4,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-03-18",
       "Cup_Depth_Pct": 21.42,
-      "Cup_Duration_Days": 48,
+      "Cup_Duration_Days": 48.0,
       "Rim_Difference_Pct": 0.09,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "MUTHOOTFIN",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2736.8,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2737.1,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-08-27",
       "Cup_Depth_Pct": 15.71,
-      "Cup_Duration_Days": 50,
+      "Cup_Duration_Days": 50.0,
       "Rim_Difference_Pct": 2.45,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "NHPC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 73.32,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 72.81,
       "Cup_Candidates": 10,
       "Latest_Right_Rim": "2026-09-09",
       "Cup_Depth_Pct": 10.48,
-      "Cup_Duration_Days": 50,
+      "Cup_Duration_Days": 50.0,
       "Rim_Difference_Pct": 6.16,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
+      "Symbol": "NLCINDIA",
+      "Current_Date": "2026-09-30",
+      "Current_Close": 261.7,
+      "Cup_Candidates": 5,
+      "Latest_Right_Rim": "2026-09-09",
+      "Cup_Depth_Pct": 14.43,
+      "Cup_Duration_Days": 33.0,
+      "Rim_Difference_Pct": 8.25,
+      "Current_Stage": "NO CURRENT VALID PATTERN",
+      "Message": "No fresh, valid Cup & Handle setup is currently available."
+    },
+    {
       "Symbol": "NMDC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 77.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 76.54,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-29",
       "Cup_Depth_Pct": 13.71,
-      "Cup_Duration_Days": 84,
+      "Cup_Duration_Days": 84.0,
       "Rim_Difference_Pct": 7.39,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "NTPC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 323.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 322.75,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-04-27",
       "Cup_Depth_Pct": 10.77,
-      "Cup_Duration_Days": 45,
+      "Cup_Duration_Days": 45.0,
       "Rim_Difference_Pct": 5.04,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "NATIONALUM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 346.65,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 340.95,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-06-02",
       "Cup_Depth_Pct": 12.7,
-      "Cup_Duration_Days": 36,
+      "Cup_Duration_Days": 36.0,
       "Rim_Difference_Pct": 0.15,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "NESTLEIND",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1345.7,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1310.0,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-09-04",
       "Cup_Depth_Pct": 12.88,
-      "Cup_Duration_Days": 50,
+      "Cup_Duration_Days": 50.0,
       "Rim_Difference_Pct": 0.55,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "OBEROIRLTY",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1762.9,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1765.7,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-18",
       "Cup_Depth_Pct": 11.18,
-      "Cup_Duration_Days": 43,
+      "Cup_Duration_Days": 43.0,
       "Rim_Difference_Pct": 1.28,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ONGC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 230.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 225.8,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-29",
       "Cup_Depth_Pct": 11.83,
-      "Cup_Duration_Days": 58,
+      "Cup_Duration_Days": 58.0,
       "Rim_Difference_Pct": 4.95,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "OIL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 459.45,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 448.65,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-10",
       "Cup_Depth_Pct": 23.9,
-      "Cup_Duration_Days": 119,
+      "Cup_Duration_Days": 119.0,
       "Rim_Difference_Pct": 3.12,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "PAYTM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1683.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1678.0,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-11-10",
       "Cup_Depth_Pct": 15.36,
-      "Cup_Duration_Days": 67,
+      "Cup_Duration_Days": 67.0,
       "Rim_Difference_Pct": 4.41,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "OFSS",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 10406.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 10630.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-31",
       "Cup_Depth_Pct": 17.05,
-      "Cup_Duration_Days": 42,
+      "Cup_Duration_Days": 42.0,
       "Rim_Difference_Pct": 4.68,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "POLICYBZR",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1081.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1063.9,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 12.22,
-      "Cup_Duration_Days": 65,
+      "Cup_Duration_Days": 65.0,
       "Rim_Difference_Pct": 9.57,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "PIIND",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2288.8,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2310.0,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-03",
       "Cup_Depth_Pct": 13.52,
-      "Cup_Duration_Days": 49,
+      "Cup_Duration_Days": 49.0,
       "Rim_Difference_Pct": 2.63,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "PAGEIND",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 36580.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 36385.0,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-04-20",
       "Cup_Depth_Pct": 17.88,
-      "Cup_Duration_Days": 74,
+      "Cup_Duration_Days": 74.0,
       "Rim_Difference_Pct": 6.08,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "PATANJALI",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 371.4,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 363.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-02-18",
       "Cup_Depth_Pct": 17.58,
-      "Cup_Duration_Days": 42,
+      "Cup_Duration_Days": 42.0,
       "Rim_Difference_Pct": 7.22,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "PERSISTENT",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 5162.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 5279.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-28",
       "Cup_Depth_Pct": 24.37,
-      "Cup_Duration_Days": 87,
+      "Cup_Duration_Days": 87.0,
       "Rim_Difference_Pct": 5.31,
       "Current_Stage": "HANDLE DEVELOPING",
       "Message": "Post-rim pullback is within acceptable handle parameters."
     },
     {
       "Symbol": "PHOENIXLTD",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1929.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1935.0,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-09-03",
       "Cup_Depth_Pct": 13.82,
-      "Cup_Duration_Days": 51,
+      "Cup_Duration_Days": 51.0,
       "Rim_Difference_Pct": 9.16,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "PIDILITIND",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1461.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1465.1,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-08",
       "Cup_Depth_Pct": 17.44,
-      "Cup_Duration_Days": 71,
+      "Cup_Duration_Days": 71.0,
       "Rim_Difference_Pct": 0.66,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "POLYCAB",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 8102.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 8026.0,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-31",
       "Cup_Depth_Pct": 13.18,
-      "Cup_Duration_Days": 70,
+      "Cup_Duration_Days": 70.0,
       "Rim_Difference_Pct": 6.73,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "PFC",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 324.1,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 325.5,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-29",
       "Cup_Depth_Pct": 10.3,
-      "Cup_Duration_Days": 37,
+      "Cup_Duration_Days": 37.0,
       "Rim_Difference_Pct": 3.01,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "POWERGRID",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 261.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 260.5,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-11",
       "Cup_Depth_Pct": 11.02,
-      "Cup_Duration_Days": 38,
+      "Cup_Duration_Days": 38.0,
       "Rim_Difference_Pct": 6.82,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "PREMIERENE",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 870.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 870.1,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-21",
       "Cup_Depth_Pct": 13.81,
-      "Cup_Duration_Days": 42,
+      "Cup_Duration_Days": 42.0,
       "Rim_Difference_Pct": 5.43,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "PRESTIGE",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1417.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1481.9,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-21",
       "Cup_Depth_Pct": 10.69,
-      "Cup_Duration_Days": 42,
+      "Cup_Duration_Days": 42.0,
       "Rim_Difference_Pct": 5.18,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "PNB",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 111.75,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 113.06,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-06-10",
       "Cup_Depth_Pct": 14.79,
-      "Cup_Duration_Days": 49,
+      "Cup_Duration_Days": 49.0,
       "Rim_Difference_Pct": 4.41,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "RECLTD",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 292.45,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 299.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-07-03",
       "Cup_Depth_Pct": 17.15,
-      "Cup_Duration_Days": 73,
+      "Cup_Duration_Days": 73.0,
       "Rim_Difference_Pct": 3.9,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "RADICO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 4364.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 4366.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2025-12-30",
       "Cup_Depth_Pct": 14.75,
-      "Cup_Duration_Days": 40,
+      "Cup_Duration_Days": 40.0,
       "Rim_Difference_Pct": 5.37,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "RVNL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 197.9,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 201.76,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-07",
       "Cup_Depth_Pct": 12.42,
-      "Cup_Duration_Days": 50,
+      "Cup_Duration_Days": 50.0,
       "Rim_Difference_Pct": 5.82,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "RELIANCE",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1182.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1187.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-06-22",
       "Cup_Depth_Pct": 14.95,
-      "Cup_Duration_Days": 48,
+      "Cup_Duration_Days": 48.0,
       "Rim_Difference_Pct": 8.72,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "SBICARD",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 581.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 578.05,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-06-25",
       "Cup_Depth_Pct": 19.27,
-      "Cup_Duration_Days": 66,
+      "Cup_Duration_Days": 66.0,
       "Rim_Difference_Pct": 8.79,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "SBILIFE",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1735.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1696.4,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-03",
       "Cup_Depth_Pct": 10.83,
-      "Cup_Duration_Days": 69,
+      "Cup_Duration_Days": 69.0,
       "Rim_Difference_Pct": 0.42,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "SRF",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2420.1,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2472.5,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-11",
       "Cup_Depth_Pct": 23.58,
-      "Cup_Duration_Days": 97,
+      "Cup_Duration_Days": 97.0,
       "Rim_Difference_Pct": 8.1,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "MOTHERSON",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 158.56,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 163.26,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-22",
       "Cup_Depth_Pct": 24.48,
-      "Cup_Duration_Days": 54,
+      "Cup_Duration_Days": 54.0,
       "Rim_Difference_Pct": 2.32,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
-      "Symbol": "SHREECEM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 21900.0,
-      "Cup_Candidates": 5,
-      "Latest_Right_Rim": "2026-04-21",
-      "Cup_Depth_Pct": 19.72,
-      "Cup_Duration_Days": 105,
-      "Rim_Difference_Pct": 7.83,
-      "Current_Stage": "NO CURRENT VALID PATTERN",
-      "Message": "No fresh, valid Cup & Handle setup is currently available."
-    },
-    {
       "Symbol": "SHRIRAMFIN",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 971.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 982.7,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 15.19,
-      "Cup_Duration_Days": 38,
+      "Cup_Duration_Days": 38.0,
       "Rim_Difference_Pct": 8.2,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ENRIN",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 3199.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 3200.0,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-08-07",
       "Cup_Depth_Pct": 21.35,
-      "Cup_Duration_Days": 45,
+      "Cup_Duration_Days": 45.0,
       "Rim_Difference_Pct": 4.47,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "SIEMENS",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 3710.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 3725.6,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-25",
       "Cup_Depth_Pct": 10.76,
-      "Cup_Duration_Days": 63,
+      "Cup_Duration_Days": 63.0,
       "Rim_Difference_Pct": 8.97,
       "Current_Stage": "HANDLE DEVELOPING",
       "Message": "Post-rim pullback is within acceptable handle parameters."
     },
     {
       "Symbol": "SOLARINDS",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 18650.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 19700.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-07-01",
       "Cup_Depth_Pct": 10.82,
-      "Cup_Duration_Days": 33,
+      "Cup_Duration_Days": 33.0,
       "Rim_Difference_Pct": 0.52,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "SBIN",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 964.7,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 959.5,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-07-21",
       "Cup_Depth_Pct": 16.69,
-      "Cup_Duration_Days": 92,
+      "Cup_Duration_Days": 92.0,
       "Rim_Difference_Pct": 4.81,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "SAIL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 181.82,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 181.49,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-28",
       "Cup_Depth_Pct": 24.65,
-      "Cup_Duration_Days": 106,
+      "Cup_Duration_Days": 106.0,
       "Rim_Difference_Pct": 4.17,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "SUNPHARMA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1865.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1816.6,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-19",
       "Cup_Depth_Pct": 12.45,
-      "Cup_Duration_Days": 69,
+      "Cup_Duration_Days": 69.0,
       "Rim_Difference_Pct": 3.99,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "SUPREMEIND",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 3445.8,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 3451.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-28",
       "Cup_Depth_Pct": 14.81,
-      "Cup_Duration_Days": 85,
+      "Cup_Duration_Days": 85.0,
       "Rim_Difference_Pct": 0.66,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "SUZLON",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 39.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 39.49,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-06-19",
       "Cup_Depth_Pct": 11.63,
-      "Cup_Duration_Days": 51,
+      "Cup_Duration_Days": 51.0,
       "Rim_Difference_Pct": 4.12,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "SWIGGY",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 253.7,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 250.1,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-05-27",
       "Cup_Depth_Pct": 17.29,
-      "Cup_Duration_Days": 33,
+      "Cup_Duration_Days": 33.0,
       "Rim_Difference_Pct": 8.93,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TVSMOTOR",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 4091.1,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 4106.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-10",
       "Cup_Depth_Pct": 17.32,
-      "Cup_Duration_Days": 43,
+      "Cup_Duration_Days": 43.0,
       "Rim_Difference_Pct": 3.01,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TATACAP",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 331.35,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 327.95,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-06",
       "Cup_Depth_Pct": 11.66,
-      "Cup_Duration_Days": 48,
+      "Cup_Duration_Days": 48.0,
       "Rim_Difference_Pct": 2.7,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TATACOMM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1654.7,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1656.2,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-04-28",
       "Cup_Depth_Pct": 22.66,
-      "Cup_Duration_Days": 75,
+      "Cup_Duration_Days": 75.0,
       "Rim_Difference_Pct": 5.09,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TCS",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2032.4,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2050.6,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-07-30",
       "Cup_Depth_Pct": 19.56,
-      "Cup_Duration_Days": 58,
+      "Cup_Duration_Days": 58.0,
       "Rim_Difference_Pct": 1.53,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TATACONSUM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 967.7,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 949.5,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-24",
       "Cup_Depth_Pct": 15.0,
-      "Cup_Duration_Days": 58,
+      "Cup_Duration_Days": 58.0,
       "Rim_Difference_Pct": 1.01,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
-      "Symbol": "TATAELXSI",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 3211.7,
-      "Cup_Candidates": 6,
-      "Latest_Right_Rim": "2026-06-02",
-      "Cup_Depth_Pct": 17.01,
-      "Cup_Duration_Days": 46,
-      "Rim_Difference_Pct": 4.43,
-      "Current_Stage": "NO CURRENT VALID PATTERN",
-      "Message": "No fresh, valid Cup & Handle setup is currently available."
-    },
-    {
-      "Symbol": "TATAINVEST",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 625.45,
-      "Cup_Candidates": 5,
-      "Latest_Right_Rim": "2026-09-15",
-      "Cup_Depth_Pct": 13.81,
-      "Cup_Duration_Days": 34,
-      "Rim_Difference_Pct": 4.99,
-      "Current_Stage": "NO CURRENT VALID PATTERN",
-      "Message": "No fresh, valid Cup & Handle setup is currently available."
-    },
-    {
       "Symbol": "TMCV",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 430.15,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 421.65,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-08-20",
       "Cup_Depth_Pct": 10.92,
-      "Cup_Duration_Days": 49,
+      "Cup_Duration_Days": 49.0,
       "Rim_Difference_Pct": 9.18,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TMPV",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 280.95,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 283.5,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-22",
       "Cup_Depth_Pct": 25.31,
-      "Cup_Duration_Days": 54,
+      "Cup_Duration_Days": 54.0,
       "Rim_Difference_Pct": 6.62,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TATAPOWER",
-      "Current_Date": "2026-09-29",
+      "Current_Date": "2026-09-30",
       "Current_Close": 359.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-09-15",
       "Cup_Depth_Pct": 11.12,
-      "Cup_Duration_Days": 32,
+      "Cup_Duration_Days": 32.0,
       "Rim_Difference_Pct": 3.27,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TATASTEEL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 188.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 184.3,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-15",
       "Cup_Depth_Pct": 16.26,
-      "Cup_Duration_Days": 79,
+      "Cup_Duration_Days": 79.0,
       "Rim_Difference_Pct": 3.67,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TECHM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1510.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1524.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-30",
       "Cup_Depth_Pct": 15.42,
-      "Cup_Duration_Days": 58,
+      "Cup_Duration_Days": 58.0,
       "Rim_Difference_Pct": 6.14,
       "Current_Stage": "HANDLE DEVELOPING",
       "Message": "Post-rim pullback is within acceptable handle parameters."
     },
     {
       "Symbol": "TITAN",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 4675.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 4587.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-08",
       "Cup_Depth_Pct": 12.64,
-      "Cup_Duration_Days": 86,
+      "Cup_Duration_Days": 86.0,
       "Rim_Difference_Pct": 5.18,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TORNTPHARM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 4894.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 4800.0,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-25",
       "Cup_Depth_Pct": 13.65,
-      "Cup_Duration_Days": 73,
+      "Cup_Duration_Days": 73.0,
       "Rim_Difference_Pct": 5.13,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TRENT",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2635.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2621.6,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-06",
       "Cup_Depth_Pct": 16.58,
-      "Cup_Duration_Days": 34,
+      "Cup_Duration_Days": 34.0,
       "Rim_Difference_Pct": 4.57,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TIINDIA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2413.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2375.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 13.44,
-      "Cup_Duration_Days": 36,
+      "Cup_Duration_Days": 36.0,
       "Rim_Difference_Pct": 3.08,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "UPL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 538.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 539.75,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-27",
       "Cup_Depth_Pct": 11.3,
-      "Cup_Duration_Days": 42,
+      "Cup_Duration_Days": 42.0,
       "Rim_Difference_Pct": 6.04,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ULTRACEMCO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 10829.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 10956.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-05",
       "Cup_Depth_Pct": 12.83,
-      "Cup_Duration_Days": 99,
+      "Cup_Duration_Days": 99.0,
       "Rim_Difference_Pct": 0.35,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "UNIONBANK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 166.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 171.0,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 13.57,
-      "Cup_Duration_Days": 69,
+      "Cup_Duration_Days": 69.0,
       "Rim_Difference_Pct": 8.29,
       "Current_Stage": "HANDLE DEVELOPING",
       "Message": "Post-rim pullback is within acceptable handle parameters."
     },
     {
       "Symbol": "UNITDSPR",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1363.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1354.0,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-04-27",
       "Cup_Depth_Pct": 15.41,
-      "Cup_Duration_Days": 68,
+      "Cup_Duration_Days": 68.0,
       "Rim_Difference_Pct": 1.18,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "VBL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 430.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 432.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-02-18",
       "Cup_Depth_Pct": 15.53,
-      "Cup_Duration_Days": 41,
+      "Cup_Duration_Days": 41.0,
       "Rim_Difference_Pct": 9.23,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
+      "Symbol": "VAML",
+      "Current_Date": "2026-09-30",
+      "Current_Close": 412.9,
+      "Cup_Candidates": 1,
+      "Latest_Right_Rim": "2026-08-06",
+      "Cup_Depth_Pct": 12.57,
+      "Cup_Duration_Days": 34.0,
+      "Rim_Difference_Pct": 0.76,
+      "Current_Stage": "NO CURRENT VALID PATTERN",
+      "Message": "No fresh, valid Cup & Handle setup is currently available."
+    },
+    {
       "Symbol": "VEDL",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 260.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 259.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-21",
       "Cup_Depth_Pct": 14.69,
-      "Cup_Duration_Days": 41,
+      "Cup_Duration_Days": 41.0,
       "Rim_Difference_Pct": 6.93,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "VMM",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 104.3,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 101.0,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-24",
       "Cup_Depth_Pct": 17.26,
-      "Cup_Duration_Days": 52,
+      "Cup_Duration_Days": 52.0,
       "Rim_Difference_Pct": 6.7,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "IDEA",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 13.56,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 12.95,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-09",
       "Cup_Depth_Pct": 17.86,
-      "Cup_Duration_Days": 86,
+      "Cup_Duration_Days": 86.0,
       "Rim_Difference_Pct": 2.93,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "VOLTAS",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1090.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1070.0,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-06-22",
       "Cup_Depth_Pct": 22.06,
-      "Cup_Duration_Days": 54,
+      "Cup_Duration_Days": 54.0,
       "Rim_Difference_Pct": 8.19,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "WAAREEENER",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 2380.0,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 2374.4,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-02-11",
       "Cup_Depth_Pct": 22.85,
-      "Cup_Duration_Days": 50,
+      "Cup_Duration_Days": 50.0,
       "Rim_Difference_Pct": 3.18,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "WIPRO",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 156.79,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 158.5,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-30",
       "Cup_Depth_Pct": 19.91,
-      "Cup_Duration_Days": 62,
+      "Cup_Duration_Days": 62.0,
       "Rim_Difference_Pct": 9.32,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "YESBANK",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 20.71,
-      "Cup_Candidates": 2,
-      "Latest_Right_Rim": "2026-05-11",
-      "Cup_Depth_Pct": 28.3,
-      "Cup_Duration_Days": 112,
-      "Rim_Difference_Pct": 3.38,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 20.95,
+      "Cup_Candidates": 3,
+      "Latest_Right_Rim": "2026-09-16",
+      "Cup_Depth_Pct": 15.36,
+      "Cup_Duration_Days": 90.0,
+      "Rim_Difference_Pct": 6.52,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ZYDUSLIFE",
-      "Current_Date": "2026-09-29",
-      "Current_Close": 1200.5,
+      "Current_Date": "2026-09-30",
+      "Current_Close": 1162.0,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-23",
       "Cup_Depth_Pct": 11.83,
-      "Cup_Duration_Days": 56,
+      "Cup_Duration_Days": 56.0,
       "Rim_Difference_Pct": 1.62,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
