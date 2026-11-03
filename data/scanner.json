@@ -6,9 +6,9 @@
   "universe": "NIFTY 200",
   "stocks_scanned": 200,
   "successful_stocks": 200,
-  "scan_date": "2026-11-02",
-  "data_through": "2026-11-02",
-  "last_successful_refresh": "2026-11-03T02:21:11.259621+05:30",
+  "scan_date": "2026-11-03",
+  "data_through": "2026-11-03",
+  "last_successful_refresh": "2026-11-04T00:01:21.612932+05:30",
   "active_candidates": [],
   "details": {},
   "history_summary": {
@@ -20,7 +20,7 @@
   "stocks": [
     {
       "Symbol": "360ONE",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-16",
@@ -32,7 +32,7 @@
     },
     {
       "Symbol": "ABB",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-05-29",
@@ -44,7 +44,7 @@
     },
     {
       "Symbol": "APLAPOLLO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-04-21",
@@ -56,7 +56,7 @@
     },
     {
       "Symbol": "AUBANK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-25",
@@ -68,7 +68,7 @@
     },
     {
       "Symbol": "ADANIENSOL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-02-25",
@@ -80,7 +80,7 @@
     },
     {
       "Symbol": "ADANIENT",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-09",
@@ -92,7 +92,7 @@
     },
     {
       "Symbol": "ADANIGREEN",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-18",
@@ -104,7 +104,7 @@
     },
     {
       "Symbol": "ADANIPORTS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-18",
@@ -116,7 +116,7 @@
     },
     {
       "Symbol": "ADANIPOWER",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-05",
@@ -128,7 +128,7 @@
     },
     {
       "Symbol": "ATGL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-18",
@@ -140,7 +140,7 @@
     },
     {
       "Symbol": "ABCAPITAL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-06",
@@ -152,7 +152,7 @@
     },
     {
       "Symbol": "AMBUJACEM",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-07-21",
@@ -164,7 +164,7 @@
     },
     {
       "Symbol": "APARINDS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-22",
@@ -176,7 +176,7 @@
     },
     {
       "Symbol": "APOLLOHOSP",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-02-27",
@@ -188,7 +188,7 @@
     },
     {
       "Symbol": "ASHOKLEY",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-13",
@@ -200,7 +200,7 @@
     },
     {
       "Symbol": "ASIANPAINT",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-07-09",
@@ -212,7 +212,7 @@
     },
     {
       "Symbol": "ASTRAL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-10-15",
@@ -224,7 +224,7 @@
     },
     {
       "Symbol": "AUROPHARMA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-03",
@@ -236,7 +236,7 @@
     },
     {
       "Symbol": "DMART",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-10-01",
@@ -248,7 +248,7 @@
     },
     {
       "Symbol": "AXISBANK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-31",
@@ -260,7 +260,7 @@
     },
     {
       "Symbol": "BSE",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-03-18",
@@ -272,7 +272,7 @@
     },
     {
       "Symbol": "BAJAJ-AUTO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-15",
@@ -284,7 +284,7 @@
     },
     {
       "Symbol": "BAJFINANCE",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-07",
@@ -296,7 +296,7 @@
     },
     {
       "Symbol": "BAJAJFINSV",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-02-25",
@@ -308,7 +308,7 @@
     },
     {
       "Symbol": "BAJAJHLDNG",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-07-03",
@@ -320,7 +320,7 @@
     },
     {
       "Symbol": "BANKBARODA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-06-23",
@@ -332,7 +332,7 @@
     },
     {
       "Symbol": "BANKINDIA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-21",
@@ -344,7 +344,7 @@
     },
     {
       "Symbol": "MAHABANK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-07",
@@ -356,7 +356,7 @@
     },
     {
       "Symbol": "BDL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-17",
@@ -368,7 +368,7 @@
     },
     {
       "Symbol": "BEL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-18",
@@ -380,7 +380,7 @@
     },
     {
       "Symbol": "BHARATFORG",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-06-29",
@@ -392,7 +392,7 @@
     },
     {
       "Symbol": "BHEL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-31",
@@ -404,7 +404,7 @@
     },
     {
       "Symbol": "BPCL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-29",
@@ -416,7 +416,7 @@
     },
     {
       "Symbol": "BHARTIARTL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-18",
@@ -428,7 +428,7 @@
     },
     {
       "Symbol": "GROWW",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-10-16",
@@ -440,7 +440,7 @@
     },
     {
       "Symbol": "BIOCON",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-26",
@@ -452,7 +452,7 @@
     },
     {
       "Symbol": "BLUESTARCO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-28",
@@ -464,7 +464,7 @@
     },
     {
       "Symbol": "BOSCHLTD",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-07-03",
@@ -476,7 +476,7 @@
     },
     {
       "Symbol": "BRITANNIA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-13",
@@ -488,7 +488,7 @@
     },
     {
       "Symbol": "CGPOWER",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-10",
@@ -500,7 +500,7 @@
     },
     {
       "Symbol": "CANBK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-10-14",
@@ -512,7 +512,7 @@
     },
     {
       "Symbol": "CHOLAFIN",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-06",
@@ -524,7 +524,7 @@
     },
     {
       "Symbol": "CIPLA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-15",
@@ -536,7 +536,7 @@
     },
     {
       "Symbol": "COALINDIA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-10",
@@ -548,7 +548,7 @@
     },
     {
       "Symbol": "COCHINSHIP",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-27",
@@ -560,7 +560,7 @@
     },
     {
       "Symbol": "COFORGE",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-10-27",
@@ -572,7 +572,7 @@
     },
     {
       "Symbol": "COLPAL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-05-19",
@@ -584,7 +584,7 @@
     },
     {
       "Symbol": "CONCOR",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-14",
@@ -596,7 +596,7 @@
     },
     {
       "Symbol": "CUMMINSIND",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 1,
       "Latest_Right_Rim": "2026-02-27",
@@ -608,7 +608,7 @@
     },
     {
       "Symbol": "DLF",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-07",
@@ -620,7 +620,7 @@
     },
     {
       "Symbol": "DABUR",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-07",
@@ -632,7 +632,7 @@
     },
     {
       "Symbol": "DIVISLAB",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-15",
@@ -644,7 +644,7 @@
     },
     {
       "Symbol": "DIXON",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-28",
@@ -656,7 +656,7 @@
     },
     {
       "Symbol": "DRREDDY",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-29",
@@ -668,7 +668,7 @@
     },
     {
       "Symbol": "EICHERMOT",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-17",
@@ -680,7 +680,7 @@
     },
     {
       "Symbol": "ETERNAL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 1,
       "Latest_Right_Rim": "2025-05-16",
@@ -692,7 +692,7 @@
     },
     {
       "Symbol": "EXIDEIND",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-06-04",
@@ -704,7 +704,7 @@
     },
     {
       "Symbol": "NYKAA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-07",
@@ -716,19 +716,19 @@
     },
     {
       "Symbol": "FEDERALBNK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
-      "Cup_Candidates": 4,
-      "Latest_Right_Rim": "2026-04-29",
-      "Cup_Depth_Pct": 16.13,
-      "Cup_Duration_Days": 61.0,
-      "Rim_Difference_Pct": 0.1,
+      "Cup_Candidates": 5,
+      "Latest_Right_Rim": "2026-10-19",
+      "Cup_Depth_Pct": 15.59,
+      "Cup_Duration_Days": 77.0,
+      "Rim_Difference_Pct": 4.36,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "FORTIS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-28",
@@ -740,7 +740,7 @@
     },
     {
       "Symbol": "GAIL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-08",
@@ -752,7 +752,7 @@
     },
     {
       "Symbol": "GVT&D",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-12-22",
@@ -764,7 +764,7 @@
     },
     {
       "Symbol": "GMRAIRPORT",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-08",
@@ -776,7 +776,7 @@
     },
     {
       "Symbol": "GLENMARK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-07-14",
@@ -788,7 +788,7 @@
     },
     {
       "Symbol": "GODFRYPHLP",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-08-04",
@@ -800,7 +800,7 @@
     },
     {
       "Symbol": "GODREJCP",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-07-06",
@@ -812,7 +812,7 @@
     },
     {
       "Symbol": "GODREJPROP",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-04",
@@ -824,7 +824,7 @@
     },
     {
       "Symbol": "GRASIM",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-27",
@@ -836,7 +836,7 @@
     },
     {
       "Symbol": "HCLTECH",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-11",
@@ -848,7 +848,7 @@
     },
     {
       "Symbol": "HDFCAMC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-16",
@@ -860,7 +860,7 @@
     },
     {
       "Symbol": "HDFCBANK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-07-07",
@@ -872,7 +872,7 @@
     },
     {
       "Symbol": "HDFCLIFE",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-26",
@@ -884,7 +884,7 @@
     },
     {
       "Symbol": "HAVELLS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-04-22",
@@ -896,7 +896,7 @@
     },
     {
       "Symbol": "HEROMOTOCO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-23",
@@ -908,7 +908,7 @@
     },
     {
       "Symbol": "HINDALCO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-03-05",
@@ -920,19 +920,19 @@
     },
     {
       "Symbol": "HAL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
-      "Cup_Candidates": 4,
-      "Latest_Right_Rim": "2026-08-17",
-      "Cup_Depth_Pct": 14.22,
-      "Cup_Duration_Days": 101.0,
-      "Rim_Difference_Pct": 6.48,
+      "Cup_Candidates": 5,
+      "Latest_Right_Rim": "2026-10-19",
+      "Cup_Depth_Pct": 11.66,
+      "Cup_Duration_Days": 63.0,
+      "Rim_Difference_Pct": 2.68,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "HINDCOPPER",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-08-24",
@@ -944,7 +944,7 @@
     },
     {
       "Symbol": "HINDPETRO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-06-25",
@@ -956,7 +956,7 @@
     },
     {
       "Symbol": "HINDUNILVR",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-06-17",
@@ -968,7 +968,7 @@
     },
     {
       "Symbol": "HINDZINC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-26",
@@ -980,7 +980,7 @@
     },
     {
       "Symbol": "POWERINDIA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-11",
@@ -992,7 +992,7 @@
     },
     {
       "Symbol": "HYUNDAI",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-20",
@@ -1004,7 +1004,7 @@
     },
     {
       "Symbol": "ICICIBANK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-07-20",
@@ -1016,7 +1016,7 @@
     },
     {
       "Symbol": "ICICIGI",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-10-15",
@@ -1028,7 +1028,7 @@
     },
     {
       "Symbol": "ICICIAMC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-21",
@@ -1040,7 +1040,7 @@
     },
     {
       "Symbol": "IDFCFIRSTB",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-09-10",
@@ -1052,7 +1052,7 @@
     },
     {
       "Symbol": "ITC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-23",
@@ -1064,7 +1064,7 @@
     },
     {
       "Symbol": "INDIANB",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-03",
@@ -1076,7 +1076,7 @@
     },
     {
       "Symbol": "INDHOTEL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-08",
@@ -1088,7 +1088,7 @@
     },
     {
       "Symbol": "IOC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-10-09",
@@ -1100,7 +1100,7 @@
     },
     {
       "Symbol": "IRCTC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-09-18",
@@ -1112,7 +1112,7 @@
     },
     {
       "Symbol": "IRFC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2025-12-29",
@@ -1124,7 +1124,7 @@
     },
     {
       "Symbol": "IREDA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-09-28",
@@ -1136,7 +1136,7 @@
     },
     {
       "Symbol": "INDUSTOWER",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-26",
@@ -1148,7 +1148,7 @@
     },
     {
       "Symbol": "INDUSINDBK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-08",
@@ -1160,7 +1160,7 @@
     },
     {
       "Symbol": "NAUKRI",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-10-16",
@@ -1172,7 +1172,7 @@
     },
     {
       "Symbol": "INFY",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-10",
@@ -1184,7 +1184,7 @@
     },
     {
       "Symbol": "INDIGO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-07",
@@ -1196,7 +1196,7 @@
     },
     {
       "Symbol": "JSWENERGY",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-08-11",
@@ -1208,7 +1208,7 @@
     },
     {
       "Symbol": "JSWSTEEL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-27",
@@ -1220,7 +1220,7 @@
     },
     {
       "Symbol": "JINDALSTEL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-21",
@@ -1232,7 +1232,7 @@
     },
     {
       "Symbol": "JIOFIN",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-05-29",
@@ -1244,7 +1244,7 @@
     },
     {
       "Symbol": "JUBLFOOD",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-07",
@@ -1256,7 +1256,7 @@
     },
     {
       "Symbol": "KEI",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-18",
@@ -1268,7 +1268,7 @@
     },
     {
       "Symbol": "KALYANKJIL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-15",
@@ -1280,7 +1280,7 @@
     },
     {
       "Symbol": "KOTAKBANK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-01",
@@ -1292,7 +1292,7 @@
     },
     {
       "Symbol": "LTF",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-26",
@@ -1304,7 +1304,7 @@
     },
     {
       "Symbol": "LGEINDIA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-17",
@@ -1316,7 +1316,7 @@
     },
     {
       "Symbol": "LICHSGFIN",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-09-04",
@@ -1328,7 +1328,7 @@
     },
     {
       "Symbol": "LTM",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-10-16",
@@ -1340,7 +1340,7 @@
     },
     {
       "Symbol": "LT",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-25",
@@ -1352,7 +1352,7 @@
     },
     {
       "Symbol": "LAURUSLABS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-02-26",
@@ -1364,7 +1364,7 @@
     },
     {
       "Symbol": "LENSKART",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-06-01",
@@ -1376,7 +1376,7 @@
     },
     {
       "Symbol": "LICI",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-25",
@@ -1388,7 +1388,7 @@
     },
     {
       "Symbol": "LODHA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-02-18",
@@ -1400,7 +1400,7 @@
     },
     {
       "Symbol": "LUPIN",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-16",
@@ -1412,7 +1412,7 @@
     },
     {
       "Symbol": "MRF",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-07",
@@ -1424,7 +1424,7 @@
     },
     {
       "Symbol": "M&MFIN",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-02-10",
@@ -1436,7 +1436,7 @@
     },
     {
       "Symbol": "M&M",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-07",
@@ -1448,7 +1448,7 @@
     },
     {
       "Symbol": "MANKIND",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-29",
@@ -1460,7 +1460,7 @@
     },
     {
       "Symbol": "MARICO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-05-11",
@@ -1472,7 +1472,7 @@
     },
     {
       "Symbol": "MARUTI",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 1,
       "Latest_Right_Rim": "2025-05-16",
@@ -1484,7 +1484,7 @@
     },
     {
       "Symbol": "MFSL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-26",
@@ -1496,7 +1496,7 @@
     },
     {
       "Symbol": "MAXHEALTH",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-09-21",
@@ -1508,7 +1508,7 @@
     },
     {
       "Symbol": "MAZDOCK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 10,
       "Latest_Right_Rim": "2026-08-26",
@@ -1520,7 +1520,7 @@
     },
     {
       "Symbol": "MEESHO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 0,
       "Latest_Right_Rim": NaN,
@@ -1532,7 +1532,7 @@
     },
     {
       "Symbol": "MOTILALOFS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-08",
@@ -1544,7 +1544,7 @@
     },
     {
       "Symbol": "MPHASIS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-14",
@@ -1556,7 +1556,7 @@
     },
     {
       "Symbol": "MCX",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-03-18",
@@ -1568,7 +1568,7 @@
     },
     {
       "Symbol": "MUTHOOTFIN",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-07-31",
@@ -1580,7 +1580,7 @@
     },
     {
       "Symbol": "NHPC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-09-09",
@@ -1592,7 +1592,7 @@
     },
     {
       "Symbol": "NLCINDIA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-09",
@@ -1604,7 +1604,7 @@
     },
     {
       "Symbol": "NMDC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2025-07-24",
@@ -1616,7 +1616,7 @@
     },
     {
       "Symbol": "NTPC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-04-27",
@@ -1628,7 +1628,7 @@
     },
     {
       "Symbol": "NATIONALUM",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-06-02",
@@ -1640,7 +1640,7 @@
     },
     {
       "Symbol": "NESTLEIND",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-09-04",
@@ -1652,7 +1652,7 @@
     },
     {
       "Symbol": "OBEROIRLTY",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-09-25",
@@ -1664,7 +1664,7 @@
     },
     {
       "Symbol": "ONGC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-29",
@@ -1676,7 +1676,7 @@
     },
     {
       "Symbol": "OIL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-10",
@@ -1688,7 +1688,7 @@
     },
     {
       "Symbol": "PAYTM",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-11-10",
@@ -1700,7 +1700,7 @@
     },
     {
       "Symbol": "OFSS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-31",
@@ -1712,7 +1712,7 @@
     },
     {
       "Symbol": "POLICYBZR",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-06-22",
@@ -1724,7 +1724,7 @@
     },
     {
       "Symbol": "PIIND",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-03",
@@ -1736,7 +1736,7 @@
     },
     {
       "Symbol": "PAGEIND",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-10-06",
@@ -1748,7 +1748,7 @@
     },
     {
       "Symbol": "PATANJALI",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-02-18",
@@ -1760,7 +1760,7 @@
     },
     {
       "Symbol": "PERSISTENT",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-14",
@@ -1772,7 +1772,7 @@
     },
     {
       "Symbol": "PHOENIXLTD",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-09-03",
@@ -1784,7 +1784,7 @@
     },
     {
       "Symbol": "PIDILITIND",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-07-07",
@@ -1796,7 +1796,7 @@
     },
     {
       "Symbol": "POLYCAB",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-31",
@@ -1808,7 +1808,7 @@
     },
     {
       "Symbol": "PFC",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-29",
@@ -1820,7 +1820,7 @@
     },
     {
       "Symbol": "POWERGRID",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-11",
@@ -1832,7 +1832,7 @@
     },
     {
       "Symbol": "PREMIERENE",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-21",
@@ -1844,7 +1844,7 @@
     },
     {
       "Symbol": "PRESTIGE",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-10-14",
@@ -1856,7 +1856,7 @@
     },
     {
       "Symbol": "PNB",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-06-10",
@@ -1868,7 +1868,7 @@
     },
     {
       "Symbol": "RECLTD",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-07-03",
@@ -1880,7 +1880,7 @@
     },
     {
       "Symbol": "RADICO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2025-12-30",
@@ -1892,7 +1892,7 @@
     },
     {
       "Symbol": "RVNL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-07",
@@ -1904,7 +1904,7 @@
     },
     {
       "Symbol": "RELIANCE",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-06-22",
@@ -1916,7 +1916,7 @@
     },
     {
       "Symbol": "SBICARD",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-06-25",
@@ -1928,7 +1928,7 @@
     },
     {
       "Symbol": "SBILIFE",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-24",
@@ -1940,7 +1940,7 @@
     },
     {
       "Symbol": "SRF",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-11",
@@ -1952,7 +1952,7 @@
     },
     {
       "Symbol": "MOTHERSON",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-22",
@@ -1964,7 +1964,7 @@
     },
     {
       "Symbol": "SHRIRAMFIN",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-29",
@@ -1976,7 +1976,7 @@
     },
     {
       "Symbol": "ENRIN",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-10-05",
@@ -1988,7 +1988,7 @@
     },
     {
       "Symbol": "SIEMENS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-25",
@@ -2000,7 +2000,7 @@
     },
     {
       "Symbol": "SOLARINDS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-01",
@@ -2012,7 +2012,7 @@
     },
     {
       "Symbol": "SBIN",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-07-21",
@@ -2024,7 +2024,7 @@
     },
     {
       "Symbol": "SAIL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-28",
@@ -2036,7 +2036,7 @@
     },
     {
       "Symbol": "SUNPHARMA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-19",
@@ -2048,7 +2048,7 @@
     },
     {
       "Symbol": "SUPREMEIND",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-28",
@@ -2060,7 +2060,7 @@
     },
     {
       "Symbol": "SUZLON",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-06-19",
@@ -2072,7 +2072,7 @@
     },
     {
       "Symbol": "SWIGGY",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-23",
@@ -2084,7 +2084,7 @@
     },
     {
       "Symbol": "TVSMOTOR",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-10",
@@ -2096,7 +2096,7 @@
     },
     {
       "Symbol": "TATACAP",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-06",
@@ -2108,7 +2108,7 @@
     },
     {
       "Symbol": "TATACOMM",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-09-18",
@@ -2120,7 +2120,7 @@
     },
     {
       "Symbol": "TCS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-07-30",
@@ -2132,7 +2132,7 @@
     },
     {
       "Symbol": "TATACONSUM",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-12",
@@ -2144,7 +2144,7 @@
     },
     {
       "Symbol": "TMCV",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-08-20",
@@ -2156,7 +2156,7 @@
     },
     {
       "Symbol": "TMPV",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-22",
@@ -2168,7 +2168,7 @@
     },
     {
       "Symbol": "TATAPOWER",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-15",
@@ -2180,7 +2180,7 @@
     },
     {
       "Symbol": "TATASTEEL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-15",
@@ -2192,7 +2192,7 @@
     },
     {
       "Symbol": "TECHM",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-30",
@@ -2204,7 +2204,7 @@
     },
     {
       "Symbol": "TITAN",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-08",
@@ -2216,7 +2216,7 @@
     },
     {
       "Symbol": "TORNTPHARM",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-25",
@@ -2228,7 +2228,7 @@
     },
     {
       "Symbol": "TRENT",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-10-14",
@@ -2240,7 +2240,7 @@
     },
     {
       "Symbol": "TIINDIA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-29",
@@ -2252,7 +2252,7 @@
     },
     {
       "Symbol": "UPL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-10-15",
@@ -2264,7 +2264,7 @@
     },
     {
       "Symbol": "ULTRACEMCO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-05",
@@ -2276,7 +2276,7 @@
     },
     {
       "Symbol": "UNIONBANK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-26",
@@ -2288,7 +2288,7 @@
     },
     {
       "Symbol": "UNITDSPR",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-07",
@@ -2300,7 +2300,7 @@
     },
     {
       "Symbol": "VBL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-15",
@@ -2312,7 +2312,7 @@
     },
     {
       "Symbol": "VAML",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-09-29",
@@ -2324,7 +2324,7 @@
     },
     {
       "Symbol": "VEDL",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-21",
@@ -2336,7 +2336,7 @@
     },
     {
       "Symbol": "VMM",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-24",
@@ -2348,7 +2348,7 @@
     },
     {
       "Symbol": "IDEA",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-09",
@@ -2360,7 +2360,7 @@
     },
     {
       "Symbol": "VOLTAS",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-06-22",
@@ -2372,7 +2372,7 @@
     },
     {
       "Symbol": "WAAREEENER",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-02-11",
@@ -2384,7 +2384,7 @@
     },
     {
       "Symbol": "WIPRO",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-30",
@@ -2396,7 +2396,7 @@
     },
     {
       "Symbol": "YESBANK",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-16",
@@ -2408,7 +2408,7 @@
     },
     {
       "Symbol": "ZYDUSLIFE",
-      "Current_Date": "2026-11-02",
+      "Current_Date": "2026-11-03",
       "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-23",
