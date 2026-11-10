@@ -8,7 +8,7 @@
   "successful_stocks": 200,
   "scan_date": "2026-11-09",
   "data_through": "2026-11-09",
-  "last_successful_refresh": "2026-11-10T03:01:19.703284+05:30",
+  "last_successful_refresh": "2026-11-11T00:13:58.784269+05:30",
   "active_candidates": [
     {
       "Candidate_ID": "HAL_2026-11-09",
@@ -34,183 +34,6 @@
     }
   ],
   "details": {
-    "TCS": {
-      "cup": {
-        "Left_Rim_Date": "2026-07-30",
-        "Left_Rim_Price": 2495.0,
-        "Bottom_Date": "2026-09-29",
-        "Bottom_Price": 2032.4000244140625,
-        "Right_Rim_Date": "2026-10-23",
-        "Right_Rim_Price": 2625.0,
-        "Cup_Duration_Days": 85,
-        "Cup_Depth_Pct": 18.54108118580912,
-        "Rim_Difference_Pct": 5.210420841683367,
-        "Right_Rim_Ratio": 1.0521042084168337,
-        "Cup_Midpoint": 2263.7000122070312
-      },
-      "handle": {
-        "Handle_Start_Date": "2026-10-23",
-        "Handle_Low_Date": "2026-10-28",
-        "Handle_Low": 2408.199951171875,
-        "Handle_Depth_Pct": 8.259049479166666,
-        "Sessions_After_Rim": 11,
-        "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 2651.25
-      },
-      "rvol": [
-        {
-          "Date": "2026-09-25",
-          "RVOL": 1.12,
-          "Volume": 3342195
-        },
-        {
-          "Date": "2026-09-28",
-          "RVOL": 0.8,
-          "Volume": 2457049
-        },
-        {
-          "Date": "2026-09-29",
-          "RVOL": 1.49,
-          "Volume": 4437783
-        },
-        {
-          "Date": "2026-09-30",
-          "RVOL": 1.2,
-          "Volume": 3656425
-        },
-        {
-          "Date": "2026-10-01",
-          "RVOL": 1.1,
-          "Volume": 3428501
-        },
-        {
-          "Date": "2026-10-05",
-          "RVOL": 1.67,
-          "Volume": 5270768
-        },
-        {
-          "Date": "2026-10-06",
-          "RVOL": 0.72,
-          "Volume": 2382510
-        },
-        {
-          "Date": "2026-10-07",
-          "RVOL": 0.41,
-          "Volume": 1349758
-        },
-        {
-          "Date": "2026-10-08",
-          "RVOL": 1.31,
-          "Volume": 4288031
-        },
-        {
-          "Date": "2026-10-09",
-          "RVOL": 3.47,
-          "Volume": 11692314
-        },
-        {
-          "Date": "2026-10-12",
-          "RVOL": 0.93,
-          "Volume": 3540523
-        },
-        {
-          "Date": "2026-10-13",
-          "RVOL": 2.88,
-          "Volume": 11048193
-        },
-        {
-          "Date": "2026-10-14",
-          "RVOL": 2.85,
-          "Volume": 12145767
-        },
-        {
-          "Date": "2026-10-15",
-          "RVOL": 1.99,
-          "Volume": 9150523
-        },
-        {
-          "Date": "2026-10-16",
-          "RVOL": 2.47,
-          "Volume": 12166634
-        },
-        {
-          "Date": "2026-10-19",
-          "RVOL": 1.62,
-          "Volume": 8676373
-        },
-        {
-          "Date": "2026-10-21",
-          "RVOL": 1.05,
-          "Volume": 5707347
-        },
-        {
-          "Date": "2026-10-22",
-          "RVOL": 0.74,
-          "Volume": 4174671
-        },
-        {
-          "Date": "2026-10-23",
-          "RVOL": 1.21,
-          "Volume": 6857942
-        },
-        {
-          "Date": "2026-10-26",
-          "RVOL": 0.74,
-          "Volume": 4326029
-        },
-        {
-          "Date": "2026-10-27",
-          "RVOL": 0.72,
-          "Volume": 4337081
-        },
-        {
-          "Date": "2026-10-28",
-          "RVOL": 0.42,
-          "Volume": 2540047
-        },
-        {
-          "Date": "2026-10-29",
-          "RVOL": 0.57,
-          "Volume": 3427569
-        },
-        {
-          "Date": "2026-10-30",
-          "RVOL": 0.5,
-          "Volume": 3016983
-        },
-        {
-          "Date": "2026-11-02",
-          "RVOL": 0.47,
-          "Volume": 2817192
-        },
-        {
-          "Date": "2026-11-03",
-          "RVOL": 0.59,
-          "Volume": 3488517
-        },
-        {
-          "Date": "2026-11-04",
-          "RVOL": 0.54,
-          "Volume": 3142051
-        },
-        {
-          "Date": "2026-11-05",
-          "RVOL": 1.15,
-          "Volume": 6767948
-        },
-        {
-          "Date": "2026-11-06",
-          "RVOL": 0.8,
-          "Volume": 4922308
-        },
-        {
-          "Date": "2026-11-09",
-          "RVOL": 0.47,
-          "Volume": 2894460
-        }
-      ],
-      "Current_RVOL": 0.47
-    },
     "HAL": {
       "cup": {
         "Left_Rim_Date": "2026-08-17",
@@ -383,10 +206,187 @@
         {
           "Date": "2026-11-09",
           "RVOL": 1.09,
-          "Volume": 831490
+          "Volume": 831506
         }
       ],
       "Current_RVOL": 1.09
+    },
+    "TCS": {
+      "cup": {
+        "Left_Rim_Date": "2026-07-30",
+        "Left_Rim_Price": 2495.0,
+        "Bottom_Date": "2026-09-29",
+        "Bottom_Price": 2032.4000244140625,
+        "Right_Rim_Date": "2026-10-23",
+        "Right_Rim_Price": 2625.0,
+        "Cup_Duration_Days": 85,
+        "Cup_Depth_Pct": 18.54108118580912,
+        "Rim_Difference_Pct": 5.210420841683367,
+        "Right_Rim_Ratio": 1.0521042084168337,
+        "Cup_Midpoint": 2263.7000122070312
+      },
+      "handle": {
+        "Handle_Start_Date": "2026-10-23",
+        "Handle_Low_Date": "2026-10-28",
+        "Handle_Low": 2408.199951171875,
+        "Handle_Depth_Pct": 8.259049479166666,
+        "Sessions_After_Rim": 11,
+        "Handle_Stage": "HANDLE DEVELOPING",
+        "Breakout_Level": 2651.25
+      },
+      "rvol": [
+        {
+          "Date": "2026-09-25",
+          "RVOL": 1.12,
+          "Volume": 3342195
+        },
+        {
+          "Date": "2026-09-28",
+          "RVOL": 0.8,
+          "Volume": 2457049
+        },
+        {
+          "Date": "2026-09-29",
+          "RVOL": 1.49,
+          "Volume": 4437783
+        },
+        {
+          "Date": "2026-09-30",
+          "RVOL": 1.2,
+          "Volume": 3656425
+        },
+        {
+          "Date": "2026-10-01",
+          "RVOL": 1.1,
+          "Volume": 3428501
+        },
+        {
+          "Date": "2026-10-05",
+          "RVOL": 1.67,
+          "Volume": 5270768
+        },
+        {
+          "Date": "2026-10-06",
+          "RVOL": 0.72,
+          "Volume": 2382510
+        },
+        {
+          "Date": "2026-10-07",
+          "RVOL": 0.41,
+          "Volume": 1349758
+        },
+        {
+          "Date": "2026-10-08",
+          "RVOL": 1.31,
+          "Volume": 4288031
+        },
+        {
+          "Date": "2026-10-09",
+          "RVOL": 3.47,
+          "Volume": 11692314
+        },
+        {
+          "Date": "2026-10-12",
+          "RVOL": 0.93,
+          "Volume": 3540523
+        },
+        {
+          "Date": "2026-10-13",
+          "RVOL": 2.88,
+          "Volume": 11048193
+        },
+        {
+          "Date": "2026-10-14",
+          "RVOL": 2.85,
+          "Volume": 12145767
+        },
+        {
+          "Date": "2026-10-15",
+          "RVOL": 1.99,
+          "Volume": 9150523
+        },
+        {
+          "Date": "2026-10-16",
+          "RVOL": 2.47,
+          "Volume": 12166634
+        },
+        {
+          "Date": "2026-10-19",
+          "RVOL": 1.62,
+          "Volume": 8676373
+        },
+        {
+          "Date": "2026-10-21",
+          "RVOL": 1.05,
+          "Volume": 5707347
+        },
+        {
+          "Date": "2026-10-22",
+          "RVOL": 0.74,
+          "Volume": 4174671
+        },
+        {
+          "Date": "2026-10-23",
+          "RVOL": 1.21,
+          "Volume": 6857942
+        },
+        {
+          "Date": "2026-10-26",
+          "RVOL": 0.74,
+          "Volume": 4326029
+        },
+        {
+          "Date": "2026-10-27",
+          "RVOL": 0.72,
+          "Volume": 4337081
+        },
+        {
+          "Date": "2026-10-28",
+          "RVOL": 0.42,
+          "Volume": 2540047
+        },
+        {
+          "Date": "2026-10-29",
+          "RVOL": 0.57,
+          "Volume": 3427569
+        },
+        {
+          "Date": "2026-10-30",
+          "RVOL": 0.5,
+          "Volume": 3016983
+        },
+        {
+          "Date": "2026-11-02",
+          "RVOL": 0.47,
+          "Volume": 2817192
+        },
+        {
+          "Date": "2026-11-03",
+          "RVOL": 0.59,
+          "Volume": 3488517
+        },
+        {
+          "Date": "2026-11-04",
+          "RVOL": 0.54,
+          "Volume": 3142051
+        },
+        {
+          "Date": "2026-11-05",
+          "RVOL": 1.15,
+          "Volume": 6767948
+        },
+        {
+          "Date": "2026-11-06",
+          "RVOL": 0.8,
+          "Volume": 4922308
+        },
+        {
+          "Date": "2026-11-09",
+          "RVOL": 0.47,
+          "Volume": 2897701
+        }
+      ],
+      "Current_RVOL": 0.47
     }
   },
   "history_summary": {
