@@ -6,75 +6,86 @@
   "universe": "NIFTY 200",
   "stocks_scanned": 200,
   "successful_stocks": 200,
-  "scan_date": "2026-11-23",
-  "data_through": "2026-11-23",
-  "last_successful_refresh": "2026-11-25T02:54:25.222218+05:30",
+  "scan_date": "2026-11-25",
+  "data_through": "2026-11-25",
+  "last_successful_refresh": "2026-11-26T02:02:27.104948+05:30",
   "active_candidates": [
     {
-      "Candidate_ID": "HCLTECH_2026-11-23",
-      "Symbol": "HCLTECH",
-      "Detection_Date": "2026-11-23",
-      "Last_Seen_Date": "2026-11-23",
-      "Expiry_Date": "2026-12-22",
+      "Candidate_ID": "MANKIND_2026-11-25",
+      "Symbol": "MANKIND",
+      "Detection_Date": "2026-11-25",
+      "Last_Seen_Date": "2026-11-25",
+      "Expiry_Date": "2026-12-24",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
       "Days_Since_Detection": 0,
       "Days_Remaining": 30
     },
     {
+      "Candidate_ID": "HCLTECH_2026-11-23",
+      "Symbol": "HCLTECH",
+      "Detection_Date": "2026-11-23",
+      "Last_Seen_Date": "2026-11-25",
+      "Expiry_Date": "2026-12-22",
+      "Status": "ACTIVE",
+      "Current_Stage": "HANDLE DEVELOPING",
+      "Days_Since_Detection": 2,
+      "Days_Remaining": 28
+    },
+    {
       "Candidate_ID": "BOSCHLTD_2026-11-20",
       "Symbol": "BOSCHLTD",
       "Detection_Date": "2026-11-20",
-      "Last_Seen_Date": "2026-11-23",
+      "Last_Seen_Date": "2026-11-25",
       "Expiry_Date": "2026-12-19",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 3,
-      "Days_Remaining": 27
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "JSWSTEEL_2026-11-20",
       "Symbol": "JSWSTEEL",
       "Detection_Date": "2026-11-20",
-      "Last_Seen_Date": "2026-11-23",
+      "Last_Seen_Date": "2026-11-25",
       "Expiry_Date": "2026-12-19",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 3,
-      "Days_Remaining": 27
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "LENSKART_2026-11-20",
       "Symbol": "LENSKART",
       "Detection_Date": "2026-11-20",
-      "Last_Seen_Date": "2026-11-23",
+      "Last_Seen_Date": "2026-11-25",
       "Expiry_Date": "2026-12-19",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 3,
-      "Days_Remaining": 27
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "NHPC_2026-11-20",
       "Symbol": "NHPC",
       "Detection_Date": "2026-11-20",
-      "Last_Seen_Date": "2026-11-23",
+      "Last_Seen_Date": "2026-11-25",
       "Expiry_Date": "2026-12-19",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 3,
-      "Days_Remaining": 27
+      "Days_Since_Detection": 5,
+      "Days_Remaining": 25
     },
     {
       "Candidate_ID": "ZYDUSLIFE_2026-11-19",
       "Symbol": "ZYDUSLIFE",
       "Detection_Date": "2026-11-19",
-      "Last_Seen_Date": "2026-11-23",
+      "Last_Seen_Date": "2026-11-25",
       "Expiry_Date": "2026-12-18",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 4,
-      "Days_Remaining": 26
+      "Days_Since_Detection": 6,
+      "Days_Remaining": 24
     },
     {
       "Candidate_ID": "HAL_2026-11-09",
@@ -84,199 +95,22 @@
       "Expiry_Date": "2026-12-08",
       "Status": "ACTIVE",
       "Current_Stage": "NEAR BREAKOUT",
-      "Days_Since_Detection": 14,
-      "Days_Remaining": 16
+      "Days_Since_Detection": 16,
+      "Days_Remaining": 14
     },
     {
       "Candidate_ID": "TCS_2026-11-06",
       "Symbol": "TCS",
       "Detection_Date": "2026-11-06",
-      "Last_Seen_Date": "2026-11-23",
+      "Last_Seen_Date": "2026-11-25",
       "Expiry_Date": "2026-12-05",
       "Status": "ACTIVE",
       "Current_Stage": "HANDLE DEVELOPING",
-      "Days_Since_Detection": 17,
-      "Days_Remaining": 13
+      "Days_Since_Detection": 19,
+      "Days_Remaining": 11
     }
   ],
   "details": {
-    "HCLTECH": {
-      "cup": {
-        "Left_Rim_Date": "2026-08-11",
-        "Left_Rim_Price": 1379.800048828125,
-        "Bottom_Date": "2026-10-07",
-        "Bottom_Price": 1172.800048828125,
-        "Right_Rim_Date": "2026-11-06",
-        "Right_Rim_Price": 1469.0,
-        "Cup_Duration_Days": 87,
-        "Cup_Depth_Pct": 15.002173697254664,
-        "Rim_Difference_Pct": 6.46470126215992,
-        "Right_Rim_Ratio": 1.0646470126215992,
-        "Cup_Midpoint": 1276.300048828125
-      },
-      "handle": {
-        "Handle_Start_Date": "2026-11-06",
-        "Handle_Low_Date": "2026-11-19",
-        "Handle_Low": 1309.4000244140625,
-        "Handle_Depth_Pct": 10.864532034440947,
-        "Sessions_After_Rim": 10,
-        "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 1483.69
-      },
-      "rvol": [
-        {
-          "Date": "2026-10-09",
-          "RVOL": 1.08,
-          "Volume": 2934650
-        },
-        {
-          "Date": "2026-10-12",
-          "RVOL": 0.91,
-          "Volume": 2511247
-        },
-        {
-          "Date": "2026-10-13",
-          "RVOL": 7.8,
-          "Volume": 21744525
-        },
-        {
-          "Date": "2026-10-14",
-          "RVOL": 2.46,
-          "Volume": 9240685
-        },
-        {
-          "Date": "2026-10-15",
-          "RVOL": 2.0,
-          "Volume": 8001609
-        },
-        {
-          "Date": "2026-10-16",
-          "RVOL": 1.55,
-          "Volume": 6571412
-        },
-        {
-          "Date": "2026-10-19",
-          "RVOL": 0.89,
-          "Volume": 3994293
-        },
-        {
-          "Date": "2026-10-21",
-          "RVOL": 0.94,
-          "Volume": 4277196
-        },
-        {
-          "Date": "2026-10-22",
-          "RVOL": 0.78,
-          "Volume": 3598919
-        },
-        {
-          "Date": "2026-10-23",
-          "RVOL": 0.94,
-          "Volume": 4422383
-        },
-        {
-          "Date": "2026-10-26",
-          "RVOL": 0.71,
-          "Volume": 3392943
-        },
-        {
-          "Date": "2026-10-27",
-          "RVOL": 0.93,
-          "Volume": 4548440
-        },
-        {
-          "Date": "2026-10-28",
-          "RVOL": 0.37,
-          "Volume": 1872518
-        },
-        {
-          "Date": "2026-10-29",
-          "RVOL": 0.62,
-          "Volume": 3093428
-        },
-        {
-          "Date": "2026-10-30",
-          "RVOL": 0.9,
-          "Volume": 4432267
-        },
-        {
-          "Date": "2026-11-02",
-          "RVOL": 0.45,
-          "Volume": 2207893
-        },
-        {
-          "Date": "2026-11-03",
-          "RVOL": 0.48,
-          "Volume": 2343878
-        },
-        {
-          "Date": "2026-11-04",
-          "RVOL": 0.5,
-          "Volume": 2366758
-        },
-        {
-          "Date": "2026-11-05",
-          "RVOL": 0.79,
-          "Volume": 3773180
-        },
-        {
-          "Date": "2026-11-06",
-          "RVOL": 0.86,
-          "Volume": 4185868
-        },
-        {
-          "Date": "2026-11-09",
-          "RVOL": 0.79,
-          "Volume": 3949445
-        },
-        {
-          "Date": "2026-11-11",
-          "RVOL": 0.72,
-          "Volume": 3607726
-        },
-        {
-          "Date": "2026-11-12",
-          "RVOL": 0.36,
-          "Volume": 1830276
-        },
-        {
-          "Date": "2026-11-13",
-          "RVOL": 0.51,
-          "Volume": 2089627
-        },
-        {
-          "Date": "2026-11-16",
-          "RVOL": 0.57,
-          "Volume": 2124094
-        },
-        {
-          "Date": "2026-11-17",
-          "RVOL": 0.85,
-          "Volume": 2929186
-        },
-        {
-          "Date": "2026-11-18",
-          "RVOL": 0.52,
-          "Volume": 1677379
-        },
-        {
-          "Date": "2026-11-19",
-          "RVOL": 1.12,
-          "Volume": 3500242
-        },
-        {
-          "Date": "2026-11-20",
-          "RVOL": 1.16,
-          "Volume": 3594840
-        },
-        {
-          "Date": "2026-11-23",
-          "RVOL": 1.29,
-          "Volume": 3981800
-        }
-      ],
-      "Current_RVOL": 1.29
-    },
     "HAL": {
       "cup": {
         "Left_Rim_Date": "2026-08-17",
@@ -296,16 +130,11 @@
         "Handle_Low_Date": "2026-11-18",
         "Handle_Low": 4644.10009765625,
         "Handle_Depth_Pct": 9.277200670907405,
-        "Sessions_After_Rim": 11,
+        "Sessions_After_Rim": 12,
         "Handle_Stage": "PATTERN INVALIDATED",
         "Breakout_Level": 5170.19
       },
       "rvol": [
-        {
-          "Date": "2026-10-09",
-          "RVOL": 0.67,
-          "Volume": 503087
-        },
         {
           "Date": "2026-10-12",
           "RVOL": 0.77,
@@ -450,363 +279,14 @@
           "Date": "2026-11-23",
           "RVOL": 0.53,
           "Volume": 440368
+        },
+        {
+          "Date": "2026-11-25",
+          "RVOL": 1.22,
+          "Volume": 980937
         }
       ],
-      "Current_RVOL": 0.53
-    },
-    "NHPC": {
-      "cup": {
-        "Left_Rim_Date": "2026-09-09",
-        "Left_Rim_Price": 77.88999938964844,
-        "Bottom_Date": "2026-10-26",
-        "Bottom_Price": 68.79000091552734,
-        "Right_Rim_Date": "2026-11-05",
-        "Right_Rim_Price": 83.52999877929688,
-        "Cup_Duration_Days": 57,
-        "Cup_Depth_Pct": 11.68314102635682,
-        "Rim_Difference_Pct": 7.240980143592083,
-        "Right_Rim_Ratio": 1.072409801435921,
-        "Cup_Midpoint": 73.34000015258789
-      },
-      "handle": {
-        "Handle_Start_Date": "2026-11-05",
-        "Handle_Low_Date": "2026-11-18",
-        "Handle_Low": 73.55999755859375,
-        "Handle_Depth_Pct": 11.935833073631287,
-        "Sessions_After_Rim": 11,
-        "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 84.36529876708984
-      },
-      "rvol": [
-        {
-          "Date": "2026-10-09",
-          "RVOL": 0.53,
-          "Volume": 5018040
-        },
-        {
-          "Date": "2026-10-12",
-          "RVOL": 0.47,
-          "Volume": 4112974
-        },
-        {
-          "Date": "2026-10-13",
-          "RVOL": 0.39,
-          "Volume": 3331773
-        },
-        {
-          "Date": "2026-10-14",
-          "RVOL": 1.6,
-          "Volume": 13089125
-        },
-        {
-          "Date": "2026-10-15",
-          "RVOL": 0.54,
-          "Volume": 4524987
-        },
-        {
-          "Date": "2026-10-16",
-          "RVOL": 2.41,
-          "Volume": 19587775
-        },
-        {
-          "Date": "2026-10-19",
-          "RVOL": 1.04,
-          "Volume": 8894570
-        },
-        {
-          "Date": "2026-10-21",
-          "RVOL": 2.74,
-          "Volume": 22066344
-        },
-        {
-          "Date": "2026-10-22",
-          "RVOL": 0.82,
-          "Volume": 7051322
-        },
-        {
-          "Date": "2026-10-23",
-          "RVOL": 1.61,
-          "Volume": 13659037
-        },
-        {
-          "Date": "2026-10-26",
-          "RVOL": 0.82,
-          "Volume": 7246832
-        },
-        {
-          "Date": "2026-10-27",
-          "RVOL": 2.2,
-          "Volume": 19295057
-        },
-        {
-          "Date": "2026-10-28",
-          "RVOL": 0.93,
-          "Volume": 8763446
-        },
-        {
-          "Date": "2026-10-29",
-          "RVOL": 1.45,
-          "Volume": 13943198
-        },
-        {
-          "Date": "2026-10-30",
-          "RVOL": 1.55,
-          "Volume": 15095474
-        },
-        {
-          "Date": "2026-11-02",
-          "RVOL": 0.81,
-          "Volume": 8150757
-        },
-        {
-          "Date": "2026-11-03",
-          "RVOL": 0.72,
-          "Volume": 7167029
-        },
-        {
-          "Date": "2026-11-04",
-          "RVOL": 1.56,
-          "Volume": 15707654
-        },
-        {
-          "Date": "2026-11-05",
-          "RVOL": 5.25,
-          "Volume": 55680793
-        },
-        {
-          "Date": "2026-11-06",
-          "RVOL": 1.74,
-          "Volume": 22865301
-        },
-        {
-          "Date": "2026-11-09",
-          "RVOL": 1.25,
-          "Volume": 17190932
-        },
-        {
-          "Date": "2026-11-11",
-          "RVOL": 1.46,
-          "Volume": 21013755
-        },
-        {
-          "Date": "2026-11-12",
-          "RVOL": 0.66,
-          "Volume": 10040304
-        },
-        {
-          "Date": "2026-11-13",
-          "RVOL": 0.45,
-          "Volume": 7065622
-        },
-        {
-          "Date": "2026-11-16",
-          "RVOL": 0.66,
-          "Volume": 10038889
-        },
-        {
-          "Date": "2026-11-17",
-          "RVOL": 0.58,
-          "Volume": 8972139
-        },
-        {
-          "Date": "2026-11-18",
-          "RVOL": 0.7,
-          "Volume": 10532364
-        },
-        {
-          "Date": "2026-11-19",
-          "RVOL": 0.56,
-          "Volume": 8490749
-        },
-        {
-          "Date": "2026-11-20",
-          "RVOL": 0.54,
-          "Volume": 7800188
-        },
-        {
-          "Date": "2026-11-23",
-          "RVOL": 0.48,
-          "Volume": 6972122
-        }
-      ],
-      "Current_RVOL": 0.48
-    },
-    "TCS": {
-      "cup": {
-        "Left_Rim_Date": "2026-07-30",
-        "Left_Rim_Price": 2495.0,
-        "Bottom_Date": "2026-09-29",
-        "Bottom_Price": 2032.4000244140625,
-        "Right_Rim_Date": "2026-10-23",
-        "Right_Rim_Price": 2625.0,
-        "Cup_Duration_Days": 85,
-        "Cup_Depth_Pct": 18.54108118580912,
-        "Rim_Difference_Pct": 5.210420841683367,
-        "Right_Rim_Ratio": 1.0521042084168337,
-        "Cup_Midpoint": 2263.7000122070312
-      },
-      "handle": {
-        "Handle_Start_Date": "2026-10-23",
-        "Handle_Low_Date": "2026-11-20",
-        "Handle_Low": 2317.0,
-        "Handle_Depth_Pct": 11.733333333333333,
-        "Sessions_After_Rim": 20,
-        "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 2651.25
-      },
-      "rvol": [
-        {
-          "Date": "2026-10-09",
-          "RVOL": 3.47,
-          "Volume": 11692314
-        },
-        {
-          "Date": "2026-10-12",
-          "RVOL": 0.93,
-          "Volume": 3540523
-        },
-        {
-          "Date": "2026-10-13",
-          "RVOL": 2.88,
-          "Volume": 11048193
-        },
-        {
-          "Date": "2026-10-14",
-          "RVOL": 2.85,
-          "Volume": 12145767
-        },
-        {
-          "Date": "2026-10-15",
-          "RVOL": 1.99,
-          "Volume": 9150523
-        },
-        {
-          "Date": "2026-10-16",
-          "RVOL": 2.47,
-          "Volume": 12166634
-        },
-        {
-          "Date": "2026-10-19",
-          "RVOL": 1.62,
-          "Volume": 8676373
-        },
-        {
-          "Date": "2026-10-21",
-          "RVOL": 1.05,
-          "Volume": 5707347
-        },
-        {
-          "Date": "2026-10-22",
-          "RVOL": 0.74,
-          "Volume": 4174671
-        },
-        {
-          "Date": "2026-10-23",
-          "RVOL": 1.21,
-          "Volume": 6857942
-        },
-        {
-          "Date": "2026-10-26",
-          "RVOL": 0.74,
-          "Volume": 4326029
-        },
-        {
-          "Date": "2026-10-27",
-          "RVOL": 0.72,
-          "Volume": 4337081
-        },
-        {
-          "Date": "2026-10-28",
-          "RVOL": 0.42,
-          "Volume": 2540047
-        },
-        {
-          "Date": "2026-10-29",
-          "RVOL": 0.57,
-          "Volume": 3427569
-        },
-        {
-          "Date": "2026-10-30",
-          "RVOL": 0.5,
-          "Volume": 3016983
-        },
-        {
-          "Date": "2026-11-02",
-          "RVOL": 0.47,
-          "Volume": 2817192
-        },
-        {
-          "Date": "2026-11-03",
-          "RVOL": 0.59,
-          "Volume": 3488517
-        },
-        {
-          "Date": "2026-11-04",
-          "RVOL": 0.54,
-          "Volume": 3142051
-        },
-        {
-          "Date": "2026-11-05",
-          "RVOL": 1.15,
-          "Volume": 6767948
-        },
-        {
-          "Date": "2026-11-06",
-          "RVOL": 0.8,
-          "Volume": 4922308
-        },
-        {
-          "Date": "2026-11-09",
-          "RVOL": 0.47,
-          "Volume": 2897701
-        },
-        {
-          "Date": "2026-11-11",
-          "RVOL": 0.7,
-          "Volume": 4013371
-        },
-        {
-          "Date": "2026-11-12",
-          "RVOL": 0.37,
-          "Volume": 2138619
-        },
-        {
-          "Date": "2026-11-13",
-          "RVOL": 0.63,
-          "Volume": 3344738
-        },
-        {
-          "Date": "2026-11-16",
-          "RVOL": 0.37,
-          "Volume": 1802456
-        },
-        {
-          "Date": "2026-11-17",
-          "RVOL": 0.67,
-          "Volume": 3027101
-        },
-        {
-          "Date": "2026-11-18",
-          "RVOL": 0.34,
-          "Volume": 1374716
-        },
-        {
-          "Date": "2026-11-19",
-          "RVOL": 0.67,
-          "Volume": 2471096
-        },
-        {
-          "Date": "2026-11-20",
-          "RVOL": 0.84,
-          "Volume": 2960416
-        },
-        {
-          "Date": "2026-11-23",
-          "RVOL": 2.12,
-          "Volume": 7386320
-        }
-      ],
-      "Current_RVOL": 2.12
+      "Current_RVOL": 1.22
     },
     "BOSCHLTD": {
       "cup": {
@@ -827,16 +307,11 @@
         "Handle_Low_Date": "2026-11-16",
         "Handle_Low": 48370.0,
         "Handle_Depth_Pct": 7.822772748928061,
-        "Sessions_After_Rim": 11,
+        "Sessions_After_Rim": 12,
         "Handle_Stage": "HANDLE DEVELOPING",
         "Breakout_Level": 52999.75
       },
       "rvol": [
-        {
-          "Date": "2026-10-09",
-          "RVOL": 1.17,
-          "Volume": 27986
-        },
         {
           "Date": "2026-10-12",
           "RVOL": 0.85,
@@ -981,363 +456,545 @@
           "Date": "2026-11-23",
           "RVOL": 0.69,
           "Volume": 22714
+        },
+        {
+          "Date": "2026-11-25",
+          "RVOL": 0.66,
+          "Volume": 21872
         }
       ],
-      "Current_RVOL": 0.69
+      "Current_RVOL": 0.66
     },
-    "LENSKART": {
+    "MANKIND": {
       "cup": {
-        "Left_Rim_Date": "2026-09-18",
-        "Left_Rim_Price": 725.0,
+        "Left_Rim_Date": "2026-09-29",
+        "Left_Rim_Price": 2559.0,
         "Bottom_Date": "2026-10-23",
-        "Bottom_Price": 615.2000122070312,
-        "Right_Rim_Date": "2026-11-05",
-        "Right_Rim_Price": 762.75,
-        "Cup_Duration_Days": 48,
-        "Cup_Depth_Pct": 15.144825902478448,
-        "Rim_Difference_Pct": 5.206896551724138,
-        "Right_Rim_Ratio": 1.0520689655172413,
-        "Cup_Midpoint": 670.1000061035156
+        "Bottom_Price": 2196.10009765625,
+        "Right_Rim_Date": "2026-11-09",
+        "Right_Rim_Price": 2705.0,
+        "Cup_Duration_Days": 41,
+        "Cup_Depth_Pct": 14.18131701226065,
+        "Rim_Difference_Pct": 5.705353653771004,
+        "Right_Rim_Ratio": 1.05705353653771,
+        "Cup_Midpoint": 2377.550048828125
       },
       "handle": {
-        "Handle_Start_Date": "2026-11-05",
-        "Handle_Low_Date": "2026-11-11",
-        "Handle_Low": 701.5,
-        "Handle_Depth_Pct": 8.030154047853163,
-        "Sessions_After_Rim": 11,
+        "Handle_Start_Date": "2026-11-09",
+        "Handle_Low_Date": "2026-11-19",
+        "Handle_Low": 2584.0,
+        "Handle_Depth_Pct": 4.473197781885398,
+        "Sessions_After_Rim": 10,
         "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 770.3775
+        "Breakout_Level": 2732.05
       },
       "rvol": [
         {
-          "Date": "2026-10-09",
-          "RVOL": 0.31,
-          "Volume": 2487958
-        },
-        {
           "Date": "2026-10-12",
-          "RVOL": 2.64,
-          "Volume": 20368124
+          "RVOL": 0.34,
+          "Volume": 205896
         },
         {
           "Date": "2026-10-13",
-          "RVOL": 0.43,
-          "Volume": 3604483
+          "RVOL": 0.54,
+          "Volume": 329114
         },
         {
           "Date": "2026-10-14",
-          "RVOL": 0.47,
-          "Volume": 3952315
-        },
-        {
-          "Date": "2026-10-15",
-          "RVOL": 0.27,
-          "Volume": 2256389
-        },
-        {
-          "Date": "2026-10-16",
-          "RVOL": 0.25,
-          "Volume": 2022774
-        },
-        {
-          "Date": "2026-10-19",
-          "RVOL": 0.23,
-          "Volume": 1787720
-        },
-        {
-          "Date": "2026-10-21",
-          "RVOL": 0.44,
-          "Volume": 2959317
-        },
-        {
-          "Date": "2026-10-22",
-          "RVOL": 0.47,
-          "Volume": 2178017
-        },
-        {
-          "Date": "2026-10-23",
-          "RVOL": 0.57,
-          "Volume": 2487254
-        },
-        {
-          "Date": "2026-10-26",
-          "RVOL": 1.02,
-          "Volume": 4308854
-        },
-        {
-          "Date": "2026-10-27",
-          "RVOL": 0.77,
-          "Volume": 3296791
-        },
-        {
-          "Date": "2026-10-28",
-          "RVOL": 2.01,
-          "Volume": 8738982
-        },
-        {
-          "Date": "2026-10-29",
-          "RVOL": 1.08,
-          "Volume": 4932559
-        },
-        {
-          "Date": "2026-10-30",
-          "RVOL": 0.51,
-          "Volume": 2273901
-        },
-        {
-          "Date": "2026-11-02",
-          "RVOL": 0.79,
-          "Volume": 3375231
-        },
-        {
-          "Date": "2026-11-03",
-          "RVOL": 1.09,
-          "Volume": 4580287
-        },
-        {
-          "Date": "2026-11-04",
-          "RVOL": 0.71,
-          "Volume": 3038081
-        },
-        {
-          "Date": "2026-11-05",
-          "RVOL": 5.88,
-          "Volume": 25146928
-        },
-        {
-          "Date": "2026-11-06",
-          "RVOL": 1.69,
-          "Volume": 9220591
-        },
-        {
-          "Date": "2026-11-09",
-          "RVOL": 0.67,
-          "Volume": 3809078
-        },
-        {
-          "Date": "2026-11-11",
-          "RVOL": 1.95,
-          "Volume": 11143385
-        },
-        {
-          "Date": "2026-11-12",
-          "RVOL": 0.55,
-          "Volume": 2874089
-        },
-        {
-          "Date": "2026-11-13",
-          "RVOL": 0.47,
-          "Volume": 2473367
-        },
-        {
-          "Date": "2026-11-16",
-          "RVOL": 1.27,
-          "Volume": 6513544
-        },
-        {
-          "Date": "2026-11-17",
-          "RVOL": 1.36,
-          "Volume": 7271038
-        },
-        {
-          "Date": "2026-11-18",
-          "RVOL": 0.41,
-          "Volume": 2331735
-        },
-        {
-          "Date": "2026-11-19",
           "RVOL": 0.83,
-          "Volume": 4679772
-        },
-        {
-          "Date": "2026-11-20",
-          "RVOL": 0.57,
-          "Volume": 3260264
-        },
-        {
-          "Date": "2026-11-23",
-          "RVOL": 0.96,
-          "Volume": 5570272
-        }
-      ],
-      "Current_RVOL": 0.96
-    },
-    "JSWSTEEL": {
-      "cup": {
-        "Left_Rim_Date": "2026-08-27",
-        "Left_Rim_Price": 1351.0,
-        "Bottom_Date": "2026-10-14",
-        "Bottom_Price": 1158.0,
-        "Right_Rim_Date": "2026-11-05",
-        "Right_Rim_Price": 1370.0,
-        "Cup_Duration_Days": 70,
-        "Cup_Depth_Pct": 14.285714285714285,
-        "Rim_Difference_Pct": 1.4063656550703183,
-        "Right_Rim_Ratio": 1.014063656550703,
-        "Cup_Midpoint": 1254.5
-      },
-      "handle": {
-        "Handle_Start_Date": "2026-11-05",
-        "Handle_Low_Date": "2026-11-20",
-        "Handle_Low": 1284.0999755859375,
-        "Handle_Depth_Pct": 6.270074774749087,
-        "Sessions_After_Rim": 11,
-        "Handle_Stage": "HANDLE DEVELOPING",
-        "Breakout_Level": 1383.7
-      },
-      "rvol": [
-        {
-          "Date": "2026-10-09",
-          "RVOL": 0.68,
-          "Volume": 1084351
-        },
-        {
-          "Date": "2026-10-12",
-          "RVOL": 0.62,
-          "Volume": 973895
-        },
-        {
-          "Date": "2026-10-13",
-          "RVOL": 0.49,
-          "Volume": 766518
-        },
-        {
-          "Date": "2026-10-14",
-          "RVOL": 1.92,
-          "Volume": 2949881
+          "Volume": 498158
         },
         {
           "Date": "2026-10-15",
-          "RVOL": 0.95,
-          "Volume": 1547603
+          "RVOL": 1.07,
+          "Volume": 645492
         },
         {
           "Date": "2026-10-16",
-          "RVOL": 1.61,
-          "Volume": 2610240
+          "RVOL": 1.48,
+          "Volume": 889731
         },
         {
           "Date": "2026-10-19",
-          "RVOL": 1.98,
-          "Volume": 3320243
+          "RVOL": 1.97,
+          "Volume": 1228705
         },
         {
           "Date": "2026-10-21",
-          "RVOL": 0.72,
-          "Volume": 1251287
+          "RVOL": 0.37,
+          "Volume": 246631
         },
         {
           "Date": "2026-10-22",
-          "RVOL": 0.77,
-          "Volume": 1333179
+          "RVOL": 1.07,
+          "Volume": 649740
         },
         {
           "Date": "2026-10-23",
-          "RVOL": 1.29,
-          "Volume": 2278716
+          "RVOL": 1.12,
+          "Volume": 679106
         },
         {
           "Date": "2026-10-26",
-          "RVOL": 1.71,
-          "Volume": 3096405
+          "RVOL": 1.65,
+          "Volume": 1025428
         },
         {
           "Date": "2026-10-27",
-          "RVOL": 1.36,
-          "Volume": 2619986
+          "RVOL": 4.67,
+          "Volume": 3030899
         },
         {
           "Date": "2026-10-28",
-          "RVOL": 0.88,
-          "Volume": 1771449
+          "RVOL": 1.39,
+          "Volume": 1086410
         },
         {
           "Date": "2026-10-29",
-          "RVOL": 1.11,
-          "Volume": 2258404
+          "RVOL": 0.89,
+          "Volume": 728540
         },
         {
           "Date": "2026-10-30",
-          "RVOL": 0.6,
-          "Volume": 1216636
+          "RVOL": 0.9,
+          "Volume": 681497
         },
         {
           "Date": "2026-11-02",
-          "RVOL": 1.57,
-          "Volume": 3161991
+          "RVOL": 0.62,
+          "Volume": 448020
         },
         {
           "Date": "2026-11-03",
-          "RVOL": 1.3,
-          "Volume": 2616273
+          "RVOL": 1.06,
+          "Volume": 770948
         },
         {
           "Date": "2026-11-04",
-          "RVOL": 0.7,
-          "Volume": 1471634
+          "RVOL": 0.89,
+          "Volume": 655420
         },
         {
           "Date": "2026-11-05",
-          "RVOL": 1.99,
-          "Volume": 4171403
+          "RVOL": 0.5,
+          "Volume": 377293
         },
         {
           "Date": "2026-11-06",
-          "RVOL": 1.35,
-          "Volume": 2985592
+          "RVOL": 0.36,
+          "Volume": 274574
         },
         {
           "Date": "2026-11-09",
-          "RVOL": 1.07,
-          "Volume": 2320236
+          "RVOL": 2.05,
+          "Volume": 1515775
         },
         {
           "Date": "2026-11-11",
-          "RVOL": 0.92,
-          "Volume": 2064619
+          "RVOL": 1.06,
+          "Volume": 844724
         },
         {
           "Date": "2026-11-12",
-          "RVOL": 0.9,
-          "Volume": 2052849
+          "RVOL": 0.51,
+          "Volume": 424106
         },
         {
           "Date": "2026-11-13",
-          "RVOL": 0.68,
-          "Volume": 1611804
+          "RVOL": 0.59,
+          "Volume": 494743
         },
         {
           "Date": "2026-11-16",
-          "RVOL": 0.82,
-          "Volume": 1864995
+          "RVOL": 0.51,
+          "Volume": 427083
         },
         {
           "Date": "2026-11-17",
-          "RVOL": 0.73,
-          "Volume": 1691243
+          "RVOL": 0.39,
+          "Volume": 324556
         },
         {
           "Date": "2026-11-18",
-          "RVOL": 0.55,
-          "Volume": 1245540
+          "RVOL": 0.43,
+          "Volume": 341887
         },
         {
           "Date": "2026-11-19",
-          "RVOL": 0.9,
-          "Volume": 1936242
+          "RVOL": 0.28,
+          "Volume": 209593
         },
         {
           "Date": "2026-11-20",
-          "RVOL": 1.07,
-          "Volume": 2343853
+          "RVOL": 0.61,
+          "Volume": 455854
         },
         {
           "Date": "2026-11-23",
-          "RVOL": 1.45,
-          "Volume": 3255627
+          "RVOL": 0.24,
+          "Volume": 177934
+        },
+        {
+          "Date": "2026-11-25",
+          "RVOL": 0.5,
+          "Volume": 358633
         }
       ],
-      "Current_RVOL": 1.45
+      "Current_RVOL": 0.5
+    },
+    "NHPC": {
+      "cup": {
+        "Left_Rim_Date": "2026-09-09",
+        "Left_Rim_Price": 77.88999938964844,
+        "Bottom_Date": "2026-10-26",
+        "Bottom_Price": 68.79000091552734,
+        "Right_Rim_Date": "2026-11-05",
+        "Right_Rim_Price": 83.52999877929688,
+        "Cup_Duration_Days": 57,
+        "Cup_Depth_Pct": 11.68314102635682,
+        "Rim_Difference_Pct": 7.240980143592083,
+        "Right_Rim_Ratio": 1.072409801435921,
+        "Cup_Midpoint": 73.34000015258789
+      },
+      "handle": {
+        "Handle_Start_Date": "2026-11-05",
+        "Handle_Low_Date": "2026-11-18",
+        "Handle_Low": 73.55999755859375,
+        "Handle_Depth_Pct": 11.935833073631287,
+        "Sessions_After_Rim": 12,
+        "Handle_Stage": "HANDLE DEVELOPING",
+        "Breakout_Level": 84.36529876708984
+      },
+      "rvol": [
+        {
+          "Date": "2026-10-12",
+          "RVOL": 0.47,
+          "Volume": 4112974
+        },
+        {
+          "Date": "2026-10-13",
+          "RVOL": 0.39,
+          "Volume": 3331773
+        },
+        {
+          "Date": "2026-10-14",
+          "RVOL": 1.6,
+          "Volume": 13089125
+        },
+        {
+          "Date": "2026-10-15",
+          "RVOL": 0.54,
+          "Volume": 4524987
+        },
+        {
+          "Date": "2026-10-16",
+          "RVOL": 2.41,
+          "Volume": 19587775
+        },
+        {
+          "Date": "2026-10-19",
+          "RVOL": 1.04,
+          "Volume": 8894570
+        },
+        {
+          "Date": "2026-10-21",
+          "RVOL": 2.74,
+          "Volume": 22066344
+        },
+        {
+          "Date": "2026-10-22",
+          "RVOL": 0.82,
+          "Volume": 7051322
+        },
+        {
+          "Date": "2026-10-23",
+          "RVOL": 1.61,
+          "Volume": 13659037
+        },
+        {
+          "Date": "2026-10-26",
+          "RVOL": 0.82,
+          "Volume": 7246832
+        },
+        {
+          "Date": "2026-10-27",
+          "RVOL": 2.2,
+          "Volume": 19295057
+        },
+        {
+          "Date": "2026-10-28",
+          "RVOL": 0.93,
+          "Volume": 8763446
+        },
+        {
+          "Date": "2026-10-29",
+          "RVOL": 1.45,
+          "Volume": 13943198
+        },
+        {
+          "Date": "2026-10-30",
+          "RVOL": 1.55,
+          "Volume": 15095474
+        },
+        {
+          "Date": "2026-11-02",
+          "RVOL": 0.81,
+          "Volume": 8150757
+        },
+        {
+          "Date": "2026-11-03",
+          "RVOL": 0.72,
+          "Volume": 7167029
+        },
+        {
+          "Date": "2026-11-04",
+          "RVOL": 1.56,
+          "Volume": 15707654
+        },
+        {
+          "Date": "2026-11-05",
+          "RVOL": 5.25,
+          "Volume": 55680793
+        },
+        {
+          "Date": "2026-11-06",
+          "RVOL": 1.74,
+          "Volume": 22865301
+        },
+        {
+          "Date": "2026-11-09",
+          "RVOL": 1.25,
+          "Volume": 17190932
+        },
+        {
+          "Date": "2026-11-11",
+          "RVOL": 1.46,
+          "Volume": 21013755
+        },
+        {
+          "Date": "2026-11-12",
+          "RVOL": 0.66,
+          "Volume": 10040304
+        },
+        {
+          "Date": "2026-11-13",
+          "RVOL": 0.45,
+          "Volume": 7065622
+        },
+        {
+          "Date": "2026-11-16",
+          "RVOL": 0.66,
+          "Volume": 10038889
+        },
+        {
+          "Date": "2026-11-17",
+          "RVOL": 0.58,
+          "Volume": 8972139
+        },
+        {
+          "Date": "2026-11-18",
+          "RVOL": 0.7,
+          "Volume": 10532364
+        },
+        {
+          "Date": "2026-11-19",
+          "RVOL": 0.56,
+          "Volume": 8490749
+        },
+        {
+          "Date": "2026-11-20",
+          "RVOL": 0.54,
+          "Volume": 7800188
+        },
+        {
+          "Date": "2026-11-23",
+          "RVOL": 0.48,
+          "Volume": 6972122
+        },
+        {
+          "Date": "2026-11-25",
+          "RVOL": 0.92,
+          "Volume": 12959501
+        }
+      ],
+      "Current_RVOL": 0.92
+    },
+    "TCS": {
+      "cup": {
+        "Left_Rim_Date": "2026-07-30",
+        "Left_Rim_Price": 2495.0,
+        "Bottom_Date": "2026-09-29",
+        "Bottom_Price": 2032.4000244140625,
+        "Right_Rim_Date": "2026-10-23",
+        "Right_Rim_Price": 2625.0,
+        "Cup_Duration_Days": 85,
+        "Cup_Depth_Pct": 18.54108118580912,
+        "Rim_Difference_Pct": 5.210420841683367,
+        "Right_Rim_Ratio": 1.0521042084168337,
+        "Cup_Midpoint": 2263.7000122070312
+      },
+      "handle": {
+        "Handle_Start_Date": "2026-10-23",
+        "Handle_Low_Date": "2026-11-20",
+        "Handle_Low": 2317.0,
+        "Handle_Depth_Pct": 11.733333333333333,
+        "Sessions_After_Rim": 21,
+        "Handle_Stage": "HANDLE DEVELOPING",
+        "Breakout_Level": 2651.25
+      },
+      "rvol": [
+        {
+          "Date": "2026-10-12",
+          "RVOL": 0.93,
+          "Volume": 3540523
+        },
+        {
+          "Date": "2026-10-13",
+          "RVOL": 2.88,
+          "Volume": 11048193
+        },
+        {
+          "Date": "2026-10-14",
+          "RVOL": 2.85,
+          "Volume": 12145767
+        },
+        {
+          "Date": "2026-10-15",
+          "RVOL": 1.99,
+          "Volume": 9150523
+        },
+        {
+          "Date": "2026-10-16",
+          "RVOL": 2.47,
+          "Volume": 12166634
+        },
+        {
+          "Date": "2026-10-19",
+          "RVOL": 1.62,
+          "Volume": 8676373
+        },
+        {
+          "Date": "2026-10-21",
+          "RVOL": 1.05,
+          "Volume": 5707347
+        },
+        {
+          "Date": "2026-10-22",
+          "RVOL": 0.74,
+          "Volume": 4174671
+        },
+        {
+          "Date": "2026-10-23",
+          "RVOL": 1.21,
+          "Volume": 6857942
+        },
+        {
+          "Date": "2026-10-26",
+          "RVOL": 0.74,
+          "Volume": 4326029
+        },
+        {
+          "Date": "2026-10-27",
+          "RVOL": 0.72,
+          "Volume": 4337081
+        },
+        {
+          "Date": "2026-10-28",
+          "RVOL": 0.42,
+          "Volume": 2540047
+        },
+        {
+          "Date": "2026-10-29",
+          "RVOL": 0.57,
+          "Volume": 3427569
+        },
+        {
+          "Date": "2026-10-30",
+          "RVOL": 0.5,
+          "Volume": 3016983
+        },
+        {
+          "Date": "2026-11-02",
+          "RVOL": 0.47,
+          "Volume": 2817192
+        },
+        {
+          "Date": "2026-11-03",
+          "RVOL": 0.59,
+          "Volume": 3488517
+        },
+        {
+          "Date": "2026-11-04",
+          "RVOL": 0.54,
+          "Volume": 3142051
+        },
+        {
+          "Date": "2026-11-05",
+          "RVOL": 1.15,
+          "Volume": 6767948
+        },
+        {
+          "Date": "2026-11-06",
+          "RVOL": 0.8,
+          "Volume": 4922308
+        },
+        {
+          "Date": "2026-11-09",
+          "RVOL": 0.47,
+          "Volume": 2897701
+        },
+        {
+          "Date": "2026-11-11",
+          "RVOL": 0.7,
+          "Volume": 4013371
+        },
+        {
+          "Date": "2026-11-12",
+          "RVOL": 0.37,
+          "Volume": 2138619
+        },
+        {
+          "Date": "2026-11-13",
+          "RVOL": 0.63,
+          "Volume": 3344738
+        },
+        {
+          "Date": "2026-11-16",
+          "RVOL": 0.37,
+          "Volume": 1802456
+        },
+        {
+          "Date": "2026-11-17",
+          "RVOL": 0.67,
+          "Volume": 3027101
+        },
+        {
+          "Date": "2026-11-18",
+          "RVOL": 0.34,
+          "Volume": 1374716
+        },
+        {
+          "Date": "2026-11-19",
+          "RVOL": 0.67,
+          "Volume": 2471096
+        },
+        {
+          "Date": "2026-11-20",
+          "RVOL": 0.84,
+          "Volume": 2960416
+        },
+        {
+          "Date": "2026-11-23",
+          "RVOL": 2.12,
+          "Volume": 7386320
+        },
+        {
+          "Date": "2026-11-25",
+          "RVOL": 1.42,
+          "Volume": 5000666
+        }
+      ],
+      "Current_RVOL": 1.42
     },
     "ZYDUSLIFE": {
       "cup": {
@@ -1358,16 +1015,11 @@
         "Handle_Low_Date": "2026-11-05",
         "Handle_Low": 1172.0,
         "Handle_Depth_Pct": 7.468812364549031,
-        "Sessions_After_Rim": 12,
+        "Sessions_After_Rim": 13,
         "Handle_Stage": "HANDLE DEVELOPING",
         "Breakout_Level": 1279.2659753417968
       },
       "rvol": [
-        {
-          "Date": "2026-10-09",
-          "RVOL": 0.33,
-          "Volume": 529822
-        },
         {
           "Date": "2026-10-12",
           "RVOL": 0.5,
@@ -1512,13 +1164,549 @@
           "Date": "2026-11-23",
           "RVOL": 0.42,
           "Volume": 690350
+        },
+        {
+          "Date": "2026-11-25",
+          "RVOL": 0.78,
+          "Volume": 1256545
         }
       ],
-      "Current_RVOL": 0.42
+      "Current_RVOL": 0.78
+    },
+    "HCLTECH": {
+      "cup": {
+        "Left_Rim_Date": "2026-08-11",
+        "Left_Rim_Price": 1379.800048828125,
+        "Bottom_Date": "2026-10-07",
+        "Bottom_Price": 1172.800048828125,
+        "Right_Rim_Date": "2026-11-06",
+        "Right_Rim_Price": 1469.0,
+        "Cup_Duration_Days": 87,
+        "Cup_Depth_Pct": 15.002173697254664,
+        "Rim_Difference_Pct": 6.46470126215992,
+        "Right_Rim_Ratio": 1.0646470126215992,
+        "Cup_Midpoint": 1276.300048828125
+      },
+      "handle": {
+        "Handle_Start_Date": "2026-11-06",
+        "Handle_Low_Date": "2026-11-19",
+        "Handle_Low": 1309.4000244140625,
+        "Handle_Depth_Pct": 10.864532034440947,
+        "Sessions_After_Rim": 11,
+        "Handle_Stage": "HANDLE DEVELOPING",
+        "Breakout_Level": 1483.69
+      },
+      "rvol": [
+        {
+          "Date": "2026-10-12",
+          "RVOL": 0.91,
+          "Volume": 2511247
+        },
+        {
+          "Date": "2026-10-13",
+          "RVOL": 7.8,
+          "Volume": 21744525
+        },
+        {
+          "Date": "2026-10-14",
+          "RVOL": 2.46,
+          "Volume": 9240685
+        },
+        {
+          "Date": "2026-10-15",
+          "RVOL": 2.0,
+          "Volume": 8001609
+        },
+        {
+          "Date": "2026-10-16",
+          "RVOL": 1.55,
+          "Volume": 6571412
+        },
+        {
+          "Date": "2026-10-19",
+          "RVOL": 0.89,
+          "Volume": 3994293
+        },
+        {
+          "Date": "2026-10-21",
+          "RVOL": 0.94,
+          "Volume": 4277196
+        },
+        {
+          "Date": "2026-10-22",
+          "RVOL": 0.78,
+          "Volume": 3598919
+        },
+        {
+          "Date": "2026-10-23",
+          "RVOL": 0.94,
+          "Volume": 4422383
+        },
+        {
+          "Date": "2026-10-26",
+          "RVOL": 0.71,
+          "Volume": 3392943
+        },
+        {
+          "Date": "2026-10-27",
+          "RVOL": 0.93,
+          "Volume": 4548440
+        },
+        {
+          "Date": "2026-10-28",
+          "RVOL": 0.37,
+          "Volume": 1872518
+        },
+        {
+          "Date": "2026-10-29",
+          "RVOL": 0.62,
+          "Volume": 3093428
+        },
+        {
+          "Date": "2026-10-30",
+          "RVOL": 0.9,
+          "Volume": 4432267
+        },
+        {
+          "Date": "2026-11-02",
+          "RVOL": 0.45,
+          "Volume": 2207893
+        },
+        {
+          "Date": "2026-11-03",
+          "RVOL": 0.48,
+          "Volume": 2343878
+        },
+        {
+          "Date": "2026-11-04",
+          "RVOL": 0.5,
+          "Volume": 2366758
+        },
+        {
+          "Date": "2026-11-05",
+          "RVOL": 0.79,
+          "Volume": 3773180
+        },
+        {
+          "Date": "2026-11-06",
+          "RVOL": 0.86,
+          "Volume": 4185868
+        },
+        {
+          "Date": "2026-11-09",
+          "RVOL": 0.79,
+          "Volume": 3949445
+        },
+        {
+          "Date": "2026-11-11",
+          "RVOL": 0.72,
+          "Volume": 3607726
+        },
+        {
+          "Date": "2026-11-12",
+          "RVOL": 0.36,
+          "Volume": 1830276
+        },
+        {
+          "Date": "2026-11-13",
+          "RVOL": 0.51,
+          "Volume": 2089627
+        },
+        {
+          "Date": "2026-11-16",
+          "RVOL": 0.57,
+          "Volume": 2124094
+        },
+        {
+          "Date": "2026-11-17",
+          "RVOL": 0.85,
+          "Volume": 2929186
+        },
+        {
+          "Date": "2026-11-18",
+          "RVOL": 0.52,
+          "Volume": 1677379
+        },
+        {
+          "Date": "2026-11-19",
+          "RVOL": 1.12,
+          "Volume": 3500242
+        },
+        {
+          "Date": "2026-11-20",
+          "RVOL": 1.16,
+          "Volume": 3594840
+        },
+        {
+          "Date": "2026-11-23",
+          "RVOL": 1.29,
+          "Volume": 3981800
+        },
+        {
+          "Date": "2026-11-25",
+          "RVOL": 0.71,
+          "Volume": 2171045
+        }
+      ],
+      "Current_RVOL": 0.71
+    },
+    "LENSKART": {
+      "cup": {
+        "Left_Rim_Date": "2026-09-18",
+        "Left_Rim_Price": 725.0,
+        "Bottom_Date": "2026-10-23",
+        "Bottom_Price": 615.2000122070312,
+        "Right_Rim_Date": "2026-11-05",
+        "Right_Rim_Price": 762.75,
+        "Cup_Duration_Days": 48,
+        "Cup_Depth_Pct": 15.144825902478448,
+        "Rim_Difference_Pct": 5.206896551724138,
+        "Right_Rim_Ratio": 1.0520689655172413,
+        "Cup_Midpoint": 670.1000061035156
+      },
+      "handle": {
+        "Handle_Start_Date": "2026-11-05",
+        "Handle_Low_Date": "2026-11-11",
+        "Handle_Low": 701.5,
+        "Handle_Depth_Pct": 8.030154047853163,
+        "Sessions_After_Rim": 12,
+        "Handle_Stage": "HANDLE DEVELOPING",
+        "Breakout_Level": 770.3775
+      },
+      "rvol": [
+        {
+          "Date": "2026-10-12",
+          "RVOL": 2.64,
+          "Volume": 20368124
+        },
+        {
+          "Date": "2026-10-13",
+          "RVOL": 0.43,
+          "Volume": 3604483
+        },
+        {
+          "Date": "2026-10-14",
+          "RVOL": 0.47,
+          "Volume": 3952315
+        },
+        {
+          "Date": "2026-10-15",
+          "RVOL": 0.27,
+          "Volume": 2256389
+        },
+        {
+          "Date": "2026-10-16",
+          "RVOL": 0.25,
+          "Volume": 2022774
+        },
+        {
+          "Date": "2026-10-19",
+          "RVOL": 0.23,
+          "Volume": 1787720
+        },
+        {
+          "Date": "2026-10-21",
+          "RVOL": 0.44,
+          "Volume": 2959317
+        },
+        {
+          "Date": "2026-10-22",
+          "RVOL": 0.47,
+          "Volume": 2178017
+        },
+        {
+          "Date": "2026-10-23",
+          "RVOL": 0.57,
+          "Volume": 2487254
+        },
+        {
+          "Date": "2026-10-26",
+          "RVOL": 1.02,
+          "Volume": 4308854
+        },
+        {
+          "Date": "2026-10-27",
+          "RVOL": 0.77,
+          "Volume": 3296791
+        },
+        {
+          "Date": "2026-10-28",
+          "RVOL": 2.01,
+          "Volume": 8738982
+        },
+        {
+          "Date": "2026-10-29",
+          "RVOL": 1.08,
+          "Volume": 4932559
+        },
+        {
+          "Date": "2026-10-30",
+          "RVOL": 0.51,
+          "Volume": 2273901
+        },
+        {
+          "Date": "2026-11-02",
+          "RVOL": 0.79,
+          "Volume": 3375231
+        },
+        {
+          "Date": "2026-11-03",
+          "RVOL": 1.09,
+          "Volume": 4580287
+        },
+        {
+          "Date": "2026-11-04",
+          "RVOL": 0.71,
+          "Volume": 3038081
+        },
+        {
+          "Date": "2026-11-05",
+          "RVOL": 5.88,
+          "Volume": 25146928
+        },
+        {
+          "Date": "2026-11-06",
+          "RVOL": 1.69,
+          "Volume": 9220591
+        },
+        {
+          "Date": "2026-11-09",
+          "RVOL": 0.67,
+          "Volume": 3809078
+        },
+        {
+          "Date": "2026-11-11",
+          "RVOL": 1.95,
+          "Volume": 11143385
+        },
+        {
+          "Date": "2026-11-12",
+          "RVOL": 0.55,
+          "Volume": 2874089
+        },
+        {
+          "Date": "2026-11-13",
+          "RVOL": 0.47,
+          "Volume": 2473367
+        },
+        {
+          "Date": "2026-11-16",
+          "RVOL": 1.27,
+          "Volume": 6513544
+        },
+        {
+          "Date": "2026-11-17",
+          "RVOL": 1.36,
+          "Volume": 7271038
+        },
+        {
+          "Date": "2026-11-18",
+          "RVOL": 0.41,
+          "Volume": 2331735
+        },
+        {
+          "Date": "2026-11-19",
+          "RVOL": 0.83,
+          "Volume": 4679772
+        },
+        {
+          "Date": "2026-11-20",
+          "RVOL": 0.57,
+          "Volume": 3260264
+        },
+        {
+          "Date": "2026-11-23",
+          "RVOL": 0.96,
+          "Volume": 5570272
+        },
+        {
+          "Date": "2026-11-25",
+          "RVOL": 0.84,
+          "Volume": 4974296
+        }
+      ],
+      "Current_RVOL": 0.84
+    },
+    "JSWSTEEL": {
+      "cup": {
+        "Left_Rim_Date": "2026-08-27",
+        "Left_Rim_Price": 1351.0,
+        "Bottom_Date": "2026-10-14",
+        "Bottom_Price": 1158.0,
+        "Right_Rim_Date": "2026-11-05",
+        "Right_Rim_Price": 1370.0,
+        "Cup_Duration_Days": 70,
+        "Cup_Depth_Pct": 14.285714285714285,
+        "Rim_Difference_Pct": 1.4063656550703183,
+        "Right_Rim_Ratio": 1.014063656550703,
+        "Cup_Midpoint": 1254.5
+      },
+      "handle": {
+        "Handle_Start_Date": "2026-11-05",
+        "Handle_Low_Date": "2026-11-25",
+        "Handle_Low": 1283.5,
+        "Handle_Depth_Pct": 6.313868613138686,
+        "Sessions_After_Rim": 12,
+        "Handle_Stage": "HANDLE DEVELOPING",
+        "Breakout_Level": 1383.7
+      },
+      "rvol": [
+        {
+          "Date": "2026-10-12",
+          "RVOL": 0.62,
+          "Volume": 973895
+        },
+        {
+          "Date": "2026-10-13",
+          "RVOL": 0.49,
+          "Volume": 766518
+        },
+        {
+          "Date": "2026-10-14",
+          "RVOL": 1.92,
+          "Volume": 2949881
+        },
+        {
+          "Date": "2026-10-15",
+          "RVOL": 0.95,
+          "Volume": 1547603
+        },
+        {
+          "Date": "2026-10-16",
+          "RVOL": 1.61,
+          "Volume": 2610240
+        },
+        {
+          "Date": "2026-10-19",
+          "RVOL": 1.98,
+          "Volume": 3320243
+        },
+        {
+          "Date": "2026-10-21",
+          "RVOL": 0.72,
+          "Volume": 1251287
+        },
+        {
+          "Date": "2026-10-22",
+          "RVOL": 0.77,
+          "Volume": 1333179
+        },
+        {
+          "Date": "2026-10-23",
+          "RVOL": 1.29,
+          "Volume": 2278716
+        },
+        {
+          "Date": "2026-10-26",
+          "RVOL": 1.71,
+          "Volume": 3096405
+        },
+        {
+          "Date": "2026-10-27",
+          "RVOL": 1.36,
+          "Volume": 2619986
+        },
+        {
+          "Date": "2026-10-28",
+          "RVOL": 0.88,
+          "Volume": 1771449
+        },
+        {
+          "Date": "2026-10-29",
+          "RVOL": 1.11,
+          "Volume": 2258404
+        },
+        {
+          "Date": "2026-10-30",
+          "RVOL": 0.6,
+          "Volume": 1216636
+        },
+        {
+          "Date": "2026-11-02",
+          "RVOL": 1.57,
+          "Volume": 3161991
+        },
+        {
+          "Date": "2026-11-03",
+          "RVOL": 1.3,
+          "Volume": 2616273
+        },
+        {
+          "Date": "2026-11-04",
+          "RVOL": 0.7,
+          "Volume": 1471634
+        },
+        {
+          "Date": "2026-11-05",
+          "RVOL": 1.99,
+          "Volume": 4171403
+        },
+        {
+          "Date": "2026-11-06",
+          "RVOL": 1.35,
+          "Volume": 2985592
+        },
+        {
+          "Date": "2026-11-09",
+          "RVOL": 1.07,
+          "Volume": 2320236
+        },
+        {
+          "Date": "2026-11-11",
+          "RVOL": 0.92,
+          "Volume": 2064619
+        },
+        {
+          "Date": "2026-11-12",
+          "RVOL": 0.9,
+          "Volume": 2052849
+        },
+        {
+          "Date": "2026-11-13",
+          "RVOL": 0.68,
+          "Volume": 1611804
+        },
+        {
+          "Date": "2026-11-16",
+          "RVOL": 0.82,
+          "Volume": 1864995
+        },
+        {
+          "Date": "2026-11-17",
+          "RVOL": 0.73,
+          "Volume": 1691243
+        },
+        {
+          "Date": "2026-11-18",
+          "RVOL": 0.55,
+          "Volume": 1245540
+        },
+        {
+          "Date": "2026-11-19",
+          "RVOL": 0.9,
+          "Volume": 1936242
+        },
+        {
+          "Date": "2026-11-20",
+          "RVOL": 1.07,
+          "Volume": 2343853
+        },
+        {
+          "Date": "2026-11-23",
+          "RVOL": 1.45,
+          "Volume": 3255627
+        },
+        {
+          "Date": "2026-11-25",
+          "RVOL": 0.72,
+          "Volume": 1645116
+        }
+      ],
+      "Current_RVOL": 0.72
     }
   },
   "history_summary": {
-    "ACTIVE": 8,
+    "ACTIVE": 9,
     "BREAKOUT": 1,
     "EXPIRED": 9
   },
@@ -1526,8 +1714,8 @@
   "stocks": [
     {
       "Symbol": "360ONE",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1201.15,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-16",
       "Cup_Depth_Pct": 17.57,
@@ -1538,8 +1726,8 @@
     },
     {
       "Symbol": "ABB",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 6868.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 21.11,
@@ -1550,8 +1738,8 @@
     },
     {
       "Symbol": "APLAPOLLO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1670.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-04-21",
       "Cup_Depth_Pct": 20.31,
@@ -1562,8 +1750,8 @@
     },
     {
       "Symbol": "AUBANK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 983.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-25",
       "Cup_Depth_Pct": 11.96,
@@ -1574,8 +1762,8 @@
     },
     {
       "Symbol": "ADANIENSOL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1470.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-02-25",
       "Cup_Depth_Pct": 24.78,
@@ -1586,8 +1774,8 @@
     },
     {
       "Symbol": "ADANIENT",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2677.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-09",
       "Cup_Depth_Pct": 19.79,
@@ -1598,8 +1786,8 @@
     },
     {
       "Symbol": "ADANIGREEN",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1391.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-18",
       "Cup_Depth_Pct": 27.74,
@@ -1610,8 +1798,8 @@
     },
     {
       "Symbol": "ADANIPORTS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1919.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-18",
       "Cup_Depth_Pct": 15.76,
@@ -1622,8 +1810,8 @@
     },
     {
       "Symbol": "ADANIPOWER",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 207.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-05",
       "Cup_Depth_Pct": 16.36,
@@ -1634,8 +1822,8 @@
     },
     {
       "Symbol": "ATGL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 550.45,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-18",
       "Cup_Depth_Pct": 16.21,
@@ -1646,8 +1834,8 @@
     },
     {
       "Symbol": "ABCAPITAL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 415.8,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-06",
       "Cup_Depth_Pct": 10.95,
@@ -1658,8 +1846,8 @@
     },
     {
       "Symbol": "AMBUJACEM",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 391.95,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-07-21",
       "Cup_Depth_Pct": 12.38,
@@ -1670,8 +1858,8 @@
     },
     {
       "Symbol": "APARINDS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 14184.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-22",
       "Cup_Depth_Pct": 13.27,
@@ -1682,8 +1870,8 @@
     },
     {
       "Symbol": "APOLLOHOSP",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 9257.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-02-27",
       "Cup_Depth_Pct": 10.57,
@@ -1694,20 +1882,20 @@
     },
     {
       "Symbol": "ASHOKLEY",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 158.7,
-      "Cup_Candidates": 5,
-      "Latest_Right_Rim": "2026-08-13",
-      "Cup_Depth_Pct": 11.91,
-      "Cup_Duration_Days": 41.0,
-      "Rim_Difference_Pct": 9.04,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
+      "Cup_Candidates": 6,
+      "Latest_Right_Rim": "2026-11-09",
+      "Cup_Depth_Pct": 23.37,
+      "Cup_Duration_Days": 88.0,
+      "Rim_Difference_Pct": 2.12,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "ASIANPAINT",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2580.4,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-07-09",
       "Cup_Depth_Pct": 12.69,
@@ -1718,8 +1906,8 @@
     },
     {
       "Symbol": "ASTRAL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1225.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-10-15",
       "Cup_Depth_Pct": 17.74,
@@ -1730,8 +1918,8 @@
     },
     {
       "Symbol": "AUROPHARMA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1796.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-03",
       "Cup_Depth_Pct": 10.26,
@@ -1742,8 +1930,8 @@
     },
     {
       "Symbol": "DMART",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 3405.4,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-10-01",
       "Cup_Depth_Pct": 10.95,
@@ -1754,8 +1942,8 @@
     },
     {
       "Symbol": "AXISBANK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1388.6,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-31",
       "Cup_Depth_Pct": 13.68,
@@ -1766,8 +1954,8 @@
     },
     {
       "Symbol": "BSE",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 3757.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-03-18",
       "Cup_Depth_Pct": 21.38,
@@ -1778,8 +1966,8 @@
     },
     {
       "Symbol": "BAJAJ-AUTO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 10643.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-15",
       "Cup_Depth_Pct": 15.34,
@@ -1790,8 +1978,8 @@
     },
     {
       "Symbol": "BAJFINANCE",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1095.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-07",
       "Cup_Depth_Pct": 24.67,
@@ -1802,8 +1990,8 @@
     },
     {
       "Symbol": "BAJAJFINSV",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1880.1,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-02-25",
       "Cup_Depth_Pct": 11.4,
@@ -1814,8 +2002,8 @@
     },
     {
       "Symbol": "BAJAJHLDNG",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 11541.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-10-22",
       "Cup_Depth_Pct": 10.55,
@@ -1826,8 +2014,8 @@
     },
     {
       "Symbol": "BANKBARODA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 275.58,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-06-23",
       "Cup_Depth_Pct": 10.81,
@@ -1838,8 +2026,8 @@
     },
     {
       "Symbol": "BANKINDIA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 159.01,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-21",
       "Cup_Depth_Pct": 14.31,
@@ -1850,8 +2038,8 @@
     },
     {
       "Symbol": "MAHABANK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 97.56,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-07",
       "Cup_Depth_Pct": 18.31,
@@ -1862,8 +2050,8 @@
     },
     {
       "Symbol": "BDL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1020.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-17",
       "Cup_Depth_Pct": 15.24,
@@ -1874,8 +2062,8 @@
     },
     {
       "Symbol": "BEL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 395.8,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-18",
       "Cup_Depth_Pct": 12.14,
@@ -1886,8 +2074,8 @@
     },
     {
       "Symbol": "BHARATFORG",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1722.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-06-29",
       "Cup_Depth_Pct": 10.59,
@@ -1898,8 +2086,8 @@
     },
     {
       "Symbol": "BHEL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 415.7,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-31",
       "Cup_Depth_Pct": 11.42,
@@ -1910,8 +2098,8 @@
     },
     {
       "Symbol": "BPCL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 305.35,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 13.59,
@@ -1922,8 +2110,8 @@
     },
     {
       "Symbol": "BHARTIARTL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2128.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-18",
       "Cup_Depth_Pct": 10.79,
@@ -1934,8 +2122,8 @@
     },
     {
       "Symbol": "GROWW",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 216.46,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-10-16",
       "Cup_Depth_Pct": 12.61,
@@ -1946,8 +2134,8 @@
     },
     {
       "Symbol": "BIOCON",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 356.7,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-26",
       "Cup_Depth_Pct": 16.16,
@@ -1958,8 +2146,8 @@
     },
     {
       "Symbol": "BLUESTARCO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1785.1,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-29",
       "Cup_Depth_Pct": 18.77,
@@ -1970,8 +2158,8 @@
     },
     {
       "Symbol": "BOSCHLTD",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 48800.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-11-05",
       "Cup_Depth_Pct": 14.65,
@@ -1982,8 +2170,8 @@
     },
     {
       "Symbol": "BRITANNIA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 4830.7,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-13",
       "Cup_Depth_Pct": 15.01,
@@ -1994,8 +2182,8 @@
     },
     {
       "Symbol": "CGPOWER",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 790.6,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-10",
       "Cup_Depth_Pct": 16.93,
@@ -2006,8 +2194,8 @@
     },
     {
       "Symbol": "CANBK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 133.75,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-10-14",
       "Cup_Depth_Pct": 12.47,
@@ -2018,8 +2206,8 @@
     },
     {
       "Symbol": "CHOLAFIN",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1831.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-06",
       "Cup_Depth_Pct": 11.45,
@@ -2030,8 +2218,8 @@
     },
     {
       "Symbol": "CIPLA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1399.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-15",
       "Cup_Depth_Pct": 14.59,
@@ -2042,8 +2230,8 @@
     },
     {
       "Symbol": "COALINDIA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 382.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-10",
       "Cup_Depth_Pct": 18.3,
@@ -2054,8 +2242,8 @@
     },
     {
       "Symbol": "COCHINSHIP",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1090.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-27",
       "Cup_Depth_Pct": 12.53,
@@ -2066,8 +2254,8 @@
     },
     {
       "Symbol": "COFORGE",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2142.3,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-10-27",
       "Cup_Depth_Pct": 16.67,
@@ -2078,8 +2266,8 @@
     },
     {
       "Symbol": "COLPAL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1755.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-19",
       "Cup_Depth_Pct": 22.58,
@@ -2090,8 +2278,8 @@
     },
     {
       "Symbol": "CONCOR",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 427.25,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-14",
       "Cup_Depth_Pct": 18.54,
@@ -2102,8 +2290,8 @@
     },
     {
       "Symbol": "CUMMINSIND",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 4052.8,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 1,
       "Latest_Right_Rim": "2026-02-27",
       "Cup_Depth_Pct": 15.86,
@@ -2114,8 +2302,8 @@
     },
     {
       "Symbol": "DLF",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 794.1,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-07",
       "Cup_Depth_Pct": 27.67,
@@ -2126,8 +2314,8 @@
     },
     {
       "Symbol": "DABUR",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 399.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-11-05",
       "Cup_Depth_Pct": 10.41,
@@ -2138,8 +2326,8 @@
     },
     {
       "Symbol": "DIVISLAB",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 11203.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-15",
       "Cup_Depth_Pct": 16.86,
@@ -2150,8 +2338,8 @@
     },
     {
       "Symbol": "DIXON",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 13390.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-28",
       "Cup_Depth_Pct": 14.33,
@@ -2162,8 +2350,8 @@
     },
     {
       "Symbol": "DRREDDY",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1380.1,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-29",
       "Cup_Depth_Pct": 12.7,
@@ -2174,8 +2362,8 @@
     },
     {
       "Symbol": "EICHERMOT",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 8172.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-17",
       "Cup_Depth_Pct": 10.47,
@@ -2186,8 +2374,8 @@
     },
     {
       "Symbol": "ETERNAL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 362.1,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 1,
       "Latest_Right_Rim": "2025-05-16",
       "Cup_Depth_Pct": 18.4,
@@ -2198,8 +2386,8 @@
     },
     {
       "Symbol": "EXIDEIND",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 401.85,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-06-04",
       "Cup_Depth_Pct": 12.21,
@@ -2210,8 +2398,8 @@
     },
     {
       "Symbol": "NYKAA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 357.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-07",
       "Cup_Depth_Pct": 18.75,
@@ -2222,8 +2410,8 @@
     },
     {
       "Symbol": "FEDERALBNK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 359.8,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-10-19",
       "Cup_Depth_Pct": 15.59,
@@ -2234,8 +2422,8 @@
     },
     {
       "Symbol": "FORTIS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 809.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-28",
       "Cup_Depth_Pct": 11.79,
@@ -2246,8 +2434,8 @@
     },
     {
       "Symbol": "GAIL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 185.6,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-08",
       "Cup_Depth_Pct": 21.64,
@@ -2258,8 +2446,8 @@
     },
     {
       "Symbol": "GVT&D",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 4195.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-12-22",
       "Cup_Depth_Pct": 18.89,
@@ -2270,8 +2458,8 @@
     },
     {
       "Symbol": "GMRAIRPORT",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 102.32,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-08",
       "Cup_Depth_Pct": 18.36,
@@ -2282,8 +2470,8 @@
     },
     {
       "Symbol": "GLENMARK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2657.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-07-14",
       "Cup_Depth_Pct": 15.08,
@@ -2294,8 +2482,8 @@
     },
     {
       "Symbol": "GODFRYPHLP",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1746.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-08-04",
       "Cup_Depth_Pct": 13.86,
@@ -2306,8 +2494,8 @@
     },
     {
       "Symbol": "GODREJCP",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 912.3,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-07-06",
       "Cup_Depth_Pct": 15.03,
@@ -2318,8 +2506,8 @@
     },
     {
       "Symbol": "GODREJPROP",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1923.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-04",
       "Cup_Depth_Pct": 24.3,
@@ -2330,8 +2518,8 @@
     },
     {
       "Symbol": "GRASIM",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 3075.2,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-27",
       "Cup_Depth_Pct": 16.0,
@@ -2342,8 +2530,8 @@
     },
     {
       "Symbol": "HCLTECH",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1364.3,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-11-06",
       "Cup_Depth_Pct": 15.0,
@@ -2354,8 +2542,8 @@
     },
     {
       "Symbol": "HDFCAMC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2682.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-16",
       "Cup_Depth_Pct": 17.59,
@@ -2366,8 +2554,8 @@
     },
     {
       "Symbol": "HDFCBANK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 817.8,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-07-07",
       "Cup_Depth_Pct": 10.7,
@@ -2378,8 +2566,8 @@
     },
     {
       "Symbol": "HDFCLIFE",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 574.95,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 12.31,
@@ -2390,8 +2578,8 @@
     },
     {
       "Symbol": "HAVELLS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1184.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-04-22",
       "Cup_Depth_Pct": 20.79,
@@ -2402,8 +2590,8 @@
     },
     {
       "Symbol": "HEROMOTOCO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 5535.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-23",
       "Cup_Depth_Pct": 12.99,
@@ -2414,8 +2602,8 @@
     },
     {
       "Symbol": "HINDALCO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 900.45,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-03-05",
       "Cup_Depth_Pct": 14.45,
@@ -2426,8 +2614,8 @@
     },
     {
       "Symbol": "HAL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 4780.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-11-05",
       "Cup_Depth_Pct": 11.66,
@@ -2438,8 +2626,8 @@
     },
     {
       "Symbol": "HINDCOPPER",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 411.25,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-08-24",
       "Cup_Depth_Pct": 24.12,
@@ -2450,8 +2638,8 @@
     },
     {
       "Symbol": "HINDPETRO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 385.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-06-25",
       "Cup_Depth_Pct": 12.47,
@@ -2462,8 +2650,8 @@
     },
     {
       "Symbol": "HINDUNILVR",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2019.1,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-06-17",
       "Cup_Depth_Pct": 14.22,
@@ -2474,8 +2662,8 @@
     },
     {
       "Symbol": "HINDZINC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 528.95,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 24.08,
@@ -2486,8 +2674,8 @@
     },
     {
       "Symbol": "POWERINDIA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 30240.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-11",
       "Cup_Depth_Pct": 18.58,
@@ -2498,8 +2686,8 @@
     },
     {
       "Symbol": "HYUNDAI",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2155.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-02-20",
       "Cup_Depth_Pct": 14.37,
@@ -2510,8 +2698,8 @@
     },
     {
       "Symbol": "ICICIBANK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1585.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-07-20",
       "Cup_Depth_Pct": 12.88,
@@ -2522,8 +2710,8 @@
     },
     {
       "Symbol": "ICICIGI",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1742.6,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-10-15",
       "Cup_Depth_Pct": 19.64,
@@ -2534,8 +2722,8 @@
     },
     {
       "Symbol": "ICICIAMC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2933.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-21",
       "Cup_Depth_Pct": 11.47,
@@ -2546,8 +2734,8 @@
     },
     {
       "Symbol": "IDFCFIRSTB",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 85.4,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-09-10",
       "Cup_Depth_Pct": 14.21,
@@ -2558,8 +2746,8 @@
     },
     {
       "Symbol": "ITC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 301.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-23",
       "Cup_Depth_Pct": 12.66,
@@ -2570,8 +2758,8 @@
     },
     {
       "Symbol": "INDIANB",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 933.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-10-21",
       "Cup_Depth_Pct": 13.22,
@@ -2582,8 +2770,8 @@
     },
     {
       "Symbol": "INDHOTEL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 906.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-05-08",
       "Cup_Depth_Pct": 20.86,
@@ -2594,8 +2782,8 @@
     },
     {
       "Symbol": "IOC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 145.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-10-09",
       "Cup_Depth_Pct": 11.96,
@@ -2606,8 +2794,8 @@
     },
     {
       "Symbol": "IRCTC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 447.2,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-09-18",
       "Cup_Depth_Pct": 15.28,
@@ -2618,8 +2806,8 @@
     },
     {
       "Symbol": "IRFC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 80.8,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2025-12-29",
       "Cup_Depth_Pct": 14.64,
@@ -2630,8 +2818,8 @@
     },
     {
       "Symbol": "IREDA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 132.2,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-09-28",
       "Cup_Depth_Pct": 13.32,
@@ -2642,8 +2830,8 @@
     },
     {
       "Symbol": "INDUSTOWER",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 380.25,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 12.39,
@@ -2654,8 +2842,8 @@
     },
     {
       "Symbol": "INDUSINDBK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 963.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-08",
       "Cup_Depth_Pct": 22.54,
@@ -2666,8 +2854,8 @@
     },
     {
       "Symbol": "NAUKRI",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1187.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-10-16",
       "Cup_Depth_Pct": 15.15,
@@ -2678,8 +2866,8 @@
     },
     {
       "Symbol": "INFY",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1103.4,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-11-06",
       "Cup_Depth_Pct": 17.96,
@@ -2690,8 +2878,8 @@
     },
     {
       "Symbol": "INDIGO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 5523.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-07",
       "Cup_Depth_Pct": 14.64,
@@ -2702,20 +2890,20 @@
     },
     {
       "Symbol": "JSWENERGY",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 502.55,
-      "Cup_Candidates": 8,
-      "Latest_Right_Rim": "2026-08-11",
-      "Cup_Depth_Pct": 10.22,
-      "Cup_Duration_Days": 43.0,
-      "Rim_Difference_Pct": 1.45,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
+      "Cup_Candidates": 9,
+      "Latest_Right_Rim": "2026-11-09",
+      "Cup_Depth_Pct": 24.85,
+      "Cup_Duration_Days": 90.0,
+      "Rim_Difference_Pct": 9.55,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "JSWSTEEL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1311.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-11-05",
       "Cup_Depth_Pct": 14.29,
@@ -2726,8 +2914,8 @@
     },
     {
       "Symbol": "JINDALSTEL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1131.3,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-21",
       "Cup_Depth_Pct": 14.02,
@@ -2738,8 +2926,8 @@
     },
     {
       "Symbol": "JIOFIN",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 219.7,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 11.59,
@@ -2750,8 +2938,8 @@
     },
     {
       "Symbol": "JUBLFOOD",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 421.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-07",
       "Cup_Depth_Pct": 17.57,
@@ -2762,8 +2950,8 @@
     },
     {
       "Symbol": "KEI",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 3800.6,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-18",
       "Cup_Depth_Pct": 16.86,
@@ -2774,8 +2962,8 @@
     },
     {
       "Symbol": "KALYANKJIL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 652.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-15",
       "Cup_Depth_Pct": 18.85,
@@ -2786,8 +2974,8 @@
     },
     {
       "Symbol": "KOTAKBANK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 502.85,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-01",
       "Cup_Depth_Pct": 10.97,
@@ -2798,8 +2986,8 @@
     },
     {
       "Symbol": "LTF",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 274.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 12.24,
@@ -2810,8 +2998,8 @@
     },
     {
       "Symbol": "LGEINDIA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1777.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-11-05",
       "Cup_Depth_Pct": 12.99,
@@ -2822,8 +3010,8 @@
     },
     {
       "Symbol": "LICHSGFIN",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 606.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 8,
       "Latest_Right_Rim": "2026-09-04",
       "Cup_Depth_Pct": 14.95,
@@ -2834,8 +3022,8 @@
     },
     {
       "Symbol": "LTM",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 4215.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-10-16",
       "Cup_Depth_Pct": 19.47,
@@ -2846,8 +3034,8 @@
     },
     {
       "Symbol": "LT",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 4099.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-25",
       "Cup_Depth_Pct": 12.93,
@@ -2858,8 +3046,8 @@
     },
     {
       "Symbol": "LAURUSLABS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2370.7,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-02-26",
       "Cup_Depth_Pct": 19.55,
@@ -2870,8 +3058,8 @@
     },
     {
       "Symbol": "LENSKART",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 714.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-11-05",
       "Cup_Depth_Pct": 15.14,
@@ -2882,8 +3070,8 @@
     },
     {
       "Symbol": "LICI",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 407.3,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-25",
       "Cup_Depth_Pct": 14.28,
@@ -2894,8 +3082,8 @@
     },
     {
       "Symbol": "LODHA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1219.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-02-18",
       "Cup_Depth_Pct": 24.13,
@@ -2906,8 +3094,8 @@
     },
     {
       "Symbol": "LUPIN",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1975.6,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-16",
       "Cup_Depth_Pct": 11.36,
@@ -2918,8 +3106,8 @@
     },
     {
       "Symbol": "MRF",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 129605.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-07",
       "Cup_Depth_Pct": 13.35,
@@ -2930,8 +3118,8 @@
     },
     {
       "Symbol": "M&MFIN",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 286.85,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-02-10",
       "Cup_Depth_Pct": 17.18,
@@ -2942,8 +3130,8 @@
     },
     {
       "Symbol": "M&M",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 3487.4,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-07",
       "Cup_Depth_Pct": 14.67,
@@ -2954,20 +3142,20 @@
     },
     {
       "Symbol": "MANKIND",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2615.1,
-      "Cup_Candidates": 5,
-      "Latest_Right_Rim": "2026-09-29",
-      "Cup_Depth_Pct": 15.9,
-      "Cup_Duration_Days": 62.0,
-      "Rim_Difference_Pct": 3.14,
-      "Current_Stage": "NO CURRENT VALID PATTERN",
-      "Message": "No fresh, valid Cup & Handle setup is currently available."
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
+      "Cup_Candidates": 6,
+      "Latest_Right_Rim": "2026-11-09",
+      "Cup_Depth_Pct": 14.18,
+      "Cup_Duration_Days": 41.0,
+      "Rim_Difference_Pct": 5.71,
+      "Current_Stage": "HANDLE DEVELOPING",
+      "Message": "Post-rim pullback is within acceptable handle parameters."
     },
     {
       "Symbol": "MARICO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 919.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-05-11",
       "Cup_Depth_Pct": 11.06,
@@ -2978,8 +3166,8 @@
     },
     {
       "Symbol": "MARUTI",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 14010.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 1,
       "Latest_Right_Rim": "2025-05-16",
       "Cup_Depth_Pct": 17.84,
@@ -2990,8 +3178,8 @@
     },
     {
       "Symbol": "MFSL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1431.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 14.36,
@@ -3002,8 +3190,8 @@
     },
     {
       "Symbol": "MAXHEALTH",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1089.55,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-09-21",
       "Cup_Depth_Pct": 16.6,
@@ -3014,8 +3202,8 @@
     },
     {
       "Symbol": "MAZDOCK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1801.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 10,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 12.59,
@@ -3026,8 +3214,8 @@
     },
     {
       "Symbol": "MEESHO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 253.11,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 0,
       "Latest_Right_Rim": NaN,
       "Cup_Depth_Pct": NaN,
@@ -3038,8 +3226,8 @@
     },
     {
       "Symbol": "MOTILALOFS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1235.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-08",
       "Cup_Depth_Pct": 15.63,
@@ -3050,8 +3238,8 @@
     },
     {
       "Symbol": "MPHASIS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2468.4,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-11-06",
       "Cup_Depth_Pct": 14.99,
@@ -3062,8 +3250,8 @@
     },
     {
       "Symbol": "MCX",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 3581.6,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-03-18",
       "Cup_Depth_Pct": 21.42,
@@ -3074,8 +3262,8 @@
     },
     {
       "Symbol": "MUTHOOTFIN",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2543.3,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-07-31",
       "Cup_Depth_Pct": 10.06,
@@ -3086,8 +3274,8 @@
     },
     {
       "Symbol": "NHPC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 75.36,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 9,
       "Latest_Right_Rim": "2026-11-05",
       "Cup_Depth_Pct": 11.68,
@@ -3098,8 +3286,8 @@
     },
     {
       "Symbol": "NLCINDIA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 227.16,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-11-05",
       "Cup_Depth_Pct": 21.25,
@@ -3110,8 +3298,8 @@
     },
     {
       "Symbol": "NMDC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 67.4,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2025-07-24",
       "Cup_Depth_Pct": 11.13,
@@ -3122,8 +3310,8 @@
     },
     {
       "Symbol": "NTPC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 315.45,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-04-27",
       "Cup_Depth_Pct": 10.77,
@@ -3134,8 +3322,8 @@
     },
     {
       "Symbol": "NATIONALUM",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 298.65,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-06-02",
       "Cup_Depth_Pct": 12.7,
@@ -3146,8 +3334,8 @@
     },
     {
       "Symbol": "NESTLEIND",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1305.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-09-04",
       "Cup_Depth_Pct": 12.88,
@@ -3158,8 +3346,8 @@
     },
     {
       "Symbol": "OBEROIRLTY",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1860.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-09-25",
       "Cup_Depth_Pct": 15.34,
@@ -3170,20 +3358,20 @@
     },
     {
       "Symbol": "ONGC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 222.85,
-      "Cup_Candidates": 3,
-      "Latest_Right_Rim": "2026-04-29",
-      "Cup_Depth_Pct": 11.83,
-      "Cup_Duration_Days": 58.0,
-      "Rim_Difference_Pct": 4.95,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
+      "Cup_Candidates": 4,
+      "Latest_Right_Rim": "2026-11-09",
+      "Cup_Depth_Pct": 10.13,
+      "Cup_Duration_Days": 59.0,
+      "Rim_Difference_Pct": 2.62,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "OIL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 422.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-11-02",
       "Cup_Depth_Pct": 15.51,
@@ -3194,8 +3382,8 @@
     },
     {
       "Symbol": "PAYTM",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1730.6,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-11-10",
       "Cup_Depth_Pct": 15.36,
@@ -3206,8 +3394,8 @@
     },
     {
       "Symbol": "OFSS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 9675.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-31",
       "Cup_Depth_Pct": 17.05,
@@ -3218,8 +3406,8 @@
     },
     {
       "Symbol": "POLICYBZR",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1089.1,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-06-22",
       "Cup_Depth_Pct": 19.9,
@@ -3230,8 +3418,8 @@
     },
     {
       "Symbol": "PIIND",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1571.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-03",
       "Cup_Depth_Pct": 13.52,
@@ -3242,8 +3430,8 @@
     },
     {
       "Symbol": "PAGEIND",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 30100.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-10-06",
       "Cup_Depth_Pct": 18.25,
@@ -3254,8 +3442,8 @@
     },
     {
       "Symbol": "PATANJALI",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 407.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-02-18",
       "Cup_Depth_Pct": 17.58,
@@ -3266,8 +3454,8 @@
     },
     {
       "Symbol": "PERSISTENT",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 6282.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-14",
       "Cup_Depth_Pct": 12.66,
@@ -3278,8 +3466,8 @@
     },
     {
       "Symbol": "PHOENIXLTD",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2276.2,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-09-03",
       "Cup_Depth_Pct": 13.82,
@@ -3290,8 +3478,8 @@
     },
     {
       "Symbol": "PIDILITIND",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1594.2,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-07-07",
       "Cup_Depth_Pct": 17.44,
@@ -3302,8 +3490,8 @@
     },
     {
       "Symbol": "POLYCAB",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 7430.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-31",
       "Cup_Depth_Pct": 13.18,
@@ -3314,8 +3502,8 @@
     },
     {
       "Symbol": "PFC",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 324.25,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-29",
       "Cup_Depth_Pct": 10.3,
@@ -3326,8 +3514,8 @@
     },
     {
       "Symbol": "POWERGRID",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 264.85,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-11-02",
       "Cup_Depth_Pct": 11.59,
@@ -3338,8 +3526,8 @@
     },
     {
       "Symbol": "PREMIERENE",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 809.85,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-21",
       "Cup_Depth_Pct": 13.81,
@@ -3350,8 +3538,8 @@
     },
     {
       "Symbol": "PRESTIGE",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1687.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-10-14",
       "Cup_Depth_Pct": 14.67,
@@ -3362,8 +3550,8 @@
     },
     {
       "Symbol": "PNB",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 149.75,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-06-10",
       "Cup_Depth_Pct": 14.79,
@@ -3374,8 +3562,8 @@
     },
     {
       "Symbol": "RECLTD",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 292.95,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-07-03",
       "Cup_Depth_Pct": 17.15,
@@ -3386,8 +3574,8 @@
     },
     {
       "Symbol": "RADICO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 4636.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2025-12-30",
       "Cup_Depth_Pct": 14.75,
@@ -3398,8 +3586,8 @@
     },
     {
       "Symbol": "RVNL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 185.1,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-07",
       "Cup_Depth_Pct": 12.42,
@@ -3410,8 +3598,8 @@
     },
     {
       "Symbol": "RELIANCE",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1351.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-06-22",
       "Cup_Depth_Pct": 14.95,
@@ -3422,8 +3610,8 @@
     },
     {
       "Symbol": "SBICARD",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 575.15,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-06-25",
       "Cup_Depth_Pct": 19.27,
@@ -3434,8 +3622,8 @@
     },
     {
       "Symbol": "SBILIFE",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1804.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-24",
       "Cup_Depth_Pct": 13.69,
@@ -3446,8 +3634,8 @@
     },
     {
       "Symbol": "SRF",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2514.8,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-11",
       "Cup_Depth_Pct": 23.58,
@@ -3458,8 +3646,8 @@
     },
     {
       "Symbol": "MOTHERSON",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 165.76,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-04-22",
       "Cup_Depth_Pct": 24.48,
@@ -3470,8 +3658,8 @@
     },
     {
       "Symbol": "SHRIRAMFIN",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 995.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 15.19,
@@ -3482,8 +3670,8 @@
     },
     {
       "Symbol": "ENRIN",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2976.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-10-05",
       "Cup_Depth_Pct": 20.54,
@@ -3494,8 +3682,8 @@
     },
     {
       "Symbol": "SIEMENS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 3578.1,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-08-25",
       "Cup_Depth_Pct": 10.76,
@@ -3506,8 +3694,8 @@
     },
     {
       "Symbol": "SOLARINDS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 18178.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-11-03",
       "Cup_Depth_Pct": 18.59,
@@ -3518,8 +3706,8 @@
     },
     {
       "Symbol": "SBIN",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1132.65,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-07-21",
       "Cup_Depth_Pct": 16.69,
@@ -3530,8 +3718,8 @@
     },
     {
       "Symbol": "SAIL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 162.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-28",
       "Cup_Depth_Pct": 24.65,
@@ -3542,20 +3730,20 @@
     },
     {
       "Symbol": "SUNPHARMA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1860.0,
-      "Cup_Candidates": 5,
-      "Latest_Right_Rim": "2026-05-19",
-      "Cup_Depth_Pct": 12.45,
-      "Cup_Duration_Days": 69.0,
-      "Rim_Difference_Pct": 3.99,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
+      "Cup_Candidates": 6,
+      "Latest_Right_Rim": "2026-11-09",
+      "Cup_Depth_Pct": 13.39,
+      "Cup_Duration_Days": 70.0,
+      "Rim_Difference_Pct": 2.06,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "SUPREMEIND",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 3156.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-21",
       "Cup_Depth_Pct": 11.86,
@@ -3566,8 +3754,8 @@
     },
     {
       "Symbol": "SUZLON",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 35.86,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-06-19",
       "Cup_Depth_Pct": 11.63,
@@ -3578,8 +3766,8 @@
     },
     {
       "Symbol": "SWIGGY",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 176.97,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-23",
       "Cup_Depth_Pct": 14.31,
@@ -3590,8 +3778,8 @@
     },
     {
       "Symbol": "TVSMOTOR",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 4528.2,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-10",
       "Cup_Depth_Pct": 17.32,
@@ -3602,8 +3790,8 @@
     },
     {
       "Symbol": "TATACAP",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 343.05,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-08-06",
       "Cup_Depth_Pct": 11.66,
@@ -3614,8 +3802,8 @@
     },
     {
       "Symbol": "TATACOMM",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1723.6,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2025-09-18",
       "Cup_Depth_Pct": 16.42,
@@ -3626,8 +3814,8 @@
     },
     {
       "Symbol": "TCS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2460.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-23",
       "Cup_Depth_Pct": 18.54,
@@ -3638,8 +3826,8 @@
     },
     {
       "Symbol": "TATACONSUM",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1133.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-12",
       "Cup_Depth_Pct": 15.0,
@@ -3650,8 +3838,8 @@
     },
     {
       "Symbol": "TMCV",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 453.8,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-08-20",
       "Cup_Depth_Pct": 10.92,
@@ -3662,8 +3850,8 @@
     },
     {
       "Symbol": "TMPV",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 259.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-04-22",
       "Cup_Depth_Pct": 25.31,
@@ -3674,8 +3862,8 @@
     },
     {
       "Symbol": "TATAPOWER",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 328.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-09-15",
       "Cup_Depth_Pct": 11.12,
@@ -3686,20 +3874,20 @@
     },
     {
       "Symbol": "TATASTEEL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 163.0,
-      "Cup_Candidates": 3,
-      "Latest_Right_Rim": "2026-05-15",
-      "Cup_Depth_Pct": 16.26,
-      "Cup_Duration_Days": 79.0,
-      "Rim_Difference_Pct": 3.67,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
+      "Cup_Candidates": 4,
+      "Latest_Right_Rim": "2026-11-09",
+      "Cup_Depth_Pct": 14.8,
+      "Cup_Duration_Days": 46.0,
+      "Rim_Difference_Pct": 1.15,
       "Current_Stage": "NO CURRENT VALID PATTERN",
       "Message": "No fresh, valid Cup & Handle setup is currently available."
     },
     {
       "Symbol": "TECHM",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1777.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-07-30",
       "Cup_Depth_Pct": 15.42,
@@ -3710,8 +3898,8 @@
     },
     {
       "Symbol": "TITAN",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 4680.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-05-08",
       "Cup_Depth_Pct": 12.64,
@@ -3722,8 +3910,8 @@
     },
     {
       "Symbol": "TORNTPHARM",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 4763.7,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-05-25",
       "Cup_Depth_Pct": 13.65,
@@ -3734,8 +3922,8 @@
     },
     {
       "Symbol": "TRENT",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 3208.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-10-14",
       "Cup_Depth_Pct": 21.53,
@@ -3746,8 +3934,8 @@
     },
     {
       "Symbol": "TIINDIA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2210.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-05-29",
       "Cup_Depth_Pct": 13.44,
@@ -3758,8 +3946,8 @@
     },
     {
       "Symbol": "UPL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 557.7,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-10-15",
       "Cup_Depth_Pct": 19.38,
@@ -3770,8 +3958,8 @@
     },
     {
       "Symbol": "ULTRACEMCO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 12650.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-08-05",
       "Cup_Depth_Pct": 12.83,
@@ -3782,8 +3970,8 @@
     },
     {
       "Symbol": "UNIONBANK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 208.2,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-08-26",
       "Cup_Depth_Pct": 13.57,
@@ -3794,8 +3982,8 @@
     },
     {
       "Symbol": "UNITDSPR",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1478.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-07",
       "Cup_Depth_Pct": 13.09,
@@ -3806,8 +3994,8 @@
     },
     {
       "Symbol": "VBL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 427.15,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 6,
       "Latest_Right_Rim": "2026-10-15",
       "Cup_Depth_Pct": 11.54,
@@ -3818,8 +4006,8 @@
     },
     {
       "Symbol": "VAML",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 361.9,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 2,
       "Latest_Right_Rim": "2026-09-29",
       "Cup_Depth_Pct": 17.75,
@@ -3830,8 +4018,8 @@
     },
     {
       "Symbol": "VEDL",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 235.53,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-11-05",
       "Cup_Depth_Pct": 23.85,
@@ -3842,8 +4030,8 @@
     },
     {
       "Symbol": "VMM",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 94.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 7,
       "Latest_Right_Rim": "2026-08-24",
       "Cup_Depth_Pct": 17.26,
@@ -3854,8 +4042,8 @@
     },
     {
       "Symbol": "IDEA",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 11.91,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-09-09",
       "Cup_Depth_Pct": 17.86,
@@ -3866,8 +4054,8 @@
     },
     {
       "Symbol": "VOLTAS",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1218.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-06-22",
       "Cup_Depth_Pct": 22.06,
@@ -3878,8 +4066,8 @@
     },
     {
       "Symbol": "WAAREEENER",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 2390.0,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-02-11",
       "Cup_Depth_Pct": 22.85,
@@ -3890,8 +4078,8 @@
     },
     {
       "Symbol": "WIPRO",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 187.29,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 4,
       "Latest_Right_Rim": "2026-07-30",
       "Cup_Depth_Pct": 19.91,
@@ -3902,8 +4090,8 @@
     },
     {
       "Symbol": "YESBANK",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 17.73,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 3,
       "Latest_Right_Rim": "2026-09-16",
       "Cup_Depth_Pct": 15.36,
@@ -3914,8 +4102,8 @@
     },
     {
       "Symbol": "ZYDUSLIFE",
-      "Current_Date": "2026-11-23",
-      "Current_Close": 1199.5,
+      "Current_Date": "2026-11-25",
+      "Current_Close": NaN,
       "Cup_Candidates": 5,
       "Latest_Right_Rim": "2026-11-04",
       "Cup_Depth_Pct": 11.25,
